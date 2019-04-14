@@ -7,7 +7,6 @@ The following files can be taken from original FlyFF clients which are the prope
 * World/DuFlMas.txt &rarr; World/DuFlMas/DuFlMas.txt.txt
 * World/DuSaTemple.txt &rarr; World/DuSaTemple/DuSaTemple.txt.txt
 * World/WdMadrigal.txt &rarr; World/WdMadrigal/WdMadrigal.txt.txt
-* World/WdMadrigal.txt &rarr; World/WdMadrigal/WdMadrigal.txt.txt
 * Characters.txt &rarr; character.txt.txt
 * Controls.txt &rarr; propCtrl.txt.txt
 * Controls.txt &rarr; propCtrl.txt.txt

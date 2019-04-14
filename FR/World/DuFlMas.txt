@@ -1,0 +1,2 @@
+IDS_WORLD_DUFLMAS_DUFLMAS_RGN_000000	Mine de Mas (donjon)
+IDS_WORLD_DUFLMAS_DUFLMAS_RGN_000001	Quelque-chose de très dangereux est terré dans cette grotte.

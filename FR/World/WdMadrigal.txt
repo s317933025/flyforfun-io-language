@@ -1,0 +1,181 @@
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000	Darkon 1\nUsine des Erons 2
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001	Lieu de fabrication des Erons
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002	Montagnes Sud de Leren
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003	Région centrale des montagnes de Leren\nTerritoire des Grands Dwarpets
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004	Flarine\nFlarine Centre
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000005	Quartier des intendants, de la station de vol, et des magasins d'armes de la Flarine
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000006	Flarine\nFlarine Est
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007	Quartier des échoppes de magie, des magasins d'alimentation, et des centres d'apprentissages des Classes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008	Flarine\nFlarine Nord
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000009	Quartier du Cristal de Vie et des Maîtres de classes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010	Quelqu'un te surveille du haut…
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011	Plaine de Bubble
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012	Plaine créée en trois jours par un personnage mythique nommé Bubble.\nLa légende raconte qu'il s'agissait d'un clown.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013	Montagnes Sud de Leren
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014	Région Sud des montagnes de Leren
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015	Centre des combats de guildes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016	Lieu dédié à la gestion des combats entre guildes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017	Montagnes Centrales de Leren\nAutel des Dreadpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018	Lieu de résidence d'un Dreadpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019	Darkon 1\nUsine des Erons 1
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020	Usine principale, produisant 80% des Erons
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021	Darkon\nAutel Pourpre
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022	Ce site sacré mériterait un examen approfondi...
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023	Montagnes Centrales de Leren
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000024	Région méridionale des montagnes de Leren à Flaris
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000025	Territoire des Grands Dwarpets
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000026	Les Grands Dwarpets créèrent cet endroit où ils y conservent toujours le Livre des Techniques.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000027	Nord de la Rivière de Larmes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028	Territoire des Nyangnyang
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029	Territoire des Nyangnyang, la tribu des chats
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030	Le pont est détruit.\nIl faut sauter pour atteindre l'autre rive.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031	Havre de Vie
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032	Cet endroit semble sûr…
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033	Madren
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034	Petite ville peuplée de Demians
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035	Bassin de la Rivière de Larmes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036	Rivière créée par la pluie, servant parfois de bain aux Grands Dwarpets.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037	Madren\n Autel des Dreadpets
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038	Lieu de résidence d'un Dreadpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039	Fontaine des Défunts
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040	La légende veut que les âmes des défunts se rassemblent à cette fontaine.\nSon eau procurerait jeunesse et longue vie.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041	Montagnes Nord de Leren
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042	Région nord des montagne de Leren\nSite de la Mine de Mas (donjon) et de la Fontaine des Défunts
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043	Mine de Mas
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044	Vieille mine servant désormais de repaire aux monstres
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045	Résidence de Rudvihil
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046	Domicile de Rudvihil, l'homme le plus riche de Flarine
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000047	Zone de duel
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000048	Le combat entre joueurs (PvP) est autorisé dans cette zone.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049	Saint Arbre
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050	Le symbole de protection de Saint Morning
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000051	Saint Morning\nAutel Pourpre
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000052	Ce site sacré mériterait un examen approfondi...
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000053	Montagnes Nord de Hillid
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000054	Région nord des montagnes de Hillid
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000055	Est de la Rivière de Larmes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000056	Autel des Dreadpets
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000057	Lieu de résidence d'un Dreadpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000058	Saincity\nSaint Hall
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000059	Le plus ancien bâtiment de Saint Morning, dont la construction prit 5 ans.\nLe Saint Hall héberge les bureaux administratif et le laboratoire.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000060	Saincity
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061	Saincity acquis son indépendance de Flarine durant la guerre, et fit fortune grâce au commerce.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062	Saincity\nStation de vol
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000063	La plus grande station de Madrigal, faisant de Saincity un haut lieu de commerce
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064	Place de Saincity
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065	Quartier de nombreuses boutiques de la ville
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066	Saincity\nSociété de l'Histoire de Madrigal
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067	Lieu des recherches sur l'histoire de Madrigal
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068	Flaris\nAutel Pourpre
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000069	Ce site sacré mériterait un examen approfondi...
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000070	Jardin de Rhisis
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000071	Ce jardin autrefois magnifique est en train de dépérir…
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000072	Désert de l'Imagination
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000073	Des constructions en pierre gisent sur le sable\nLa légende veut qu'un temple soit ensevelit dans ce désert
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000074	Des bruits de pioches résonnent dans les environs...
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000075	Entrée du Désert de l'Imagination
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000076	L'entrée du désert, entourée de nombreuses constructions en pierre inconnues
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000077	Montagnes sud de Hillid
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000078	Région sud des montagnes de Hillid\nSite du Désert de l'Imagination et du Plateau du Silence
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079	Plateau du Silence\nZone à forte gravité
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080	Impossible de voler dans cette zone de Madrigal\nD'après des scientifiques, la gravité y est extrêmement forte
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081	Colline de Shade
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082	Colline créée en une journée par un personnage mythique nommé Shade.\nLa légende raconte qu'il s'agissait d'un clown.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083	Cet endroit semble sûr…
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084	Village des Pumpkins
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085	Village créé ceux qui ne supportaient plus la vie urbaine de Saincity.\nMais le village fut par la suite anéantit par une invasion de monstres...
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086	Montagnes centrales de Hillid
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000087	Région centrale des montagnes de Hillid
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000088	Darkon 3\nMagmient
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000089	Darkon 3 est un lieu industriel, dangereux, et inaccessible à la majorité des habitants de Madrigal.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000090	Autel du Jester
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000091	Grand lieu de pèlerinage des admirateurs du Jester nommé Curenen\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000092	Darkon 3\nBrekin
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000093	Zone désormais désaffecté, autrefois lieu de raffinage des Erons
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000094	Darkon 3\nArians
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000095	Zone remplie de bassin géant, son eau bleue dissolvant les Erons
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000096	Longueur d'Engisis
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000097	L'arbre le plus imposant, mais également le plus mystérieux
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000098	Darkon 3\nDésolation
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000099	Une terrain vague au nord de Darkon 3, dégageant du gaz mortel.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000100	Darkon 3\nAnicenight
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000101	L'usine locale s'est énormément développée…
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000102	Darkon 3\nMaison de Laola
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000103	Cette habitation est enveloppée d'une aura mystérieuse
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000104	Autel du Ranger
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000105	Grand lieu de pèlerinage des admirateurs du Sorcier nommé Hainan\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000106	Autel du Sorcier
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000107	Grand lieu de pèlerinage des admirateurs du Sorcier nommé Offerep\nLa Pierre d'âme de ce Héros y est précieusement conservée
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000108	Darkon 3\nCendil ouest
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000109	Le rivière polluée coule grâce à Herues\nLes nombreux arbres géants forment un champignon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000110	Darkon 3\nHeret
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000111	Ce secteur, voilé d'une teinte bleutée, abrite de nombreuses créatures\nLe grand arbre Heldonose tout à l'ouest produit des Erons.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000112	Darkon 3\nCendil centre
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000113	Une énergie inconnue, très puissante, pèse sur cette zone\nMais les gens ne veulent en savoir plus...
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000114	Darkon 3\nCendril est
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000115	Mileng est un lieu saint, cerné d'arbres géants en forme de champignon.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000116	Mileng
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000117	Ce lieu est sacré !\nIci les Héros remportèrent leur première victoire lors de la Guerre des Héros.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000118	Darkon 3\nGuardiane
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000119	Les Héros eurent leur dernier combat en ce lieu.\nCet endroit est destiné aux aventuriers qui suivent la Voie des Héros.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000120	Darkon 3\nChambre du Gardien
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000121	Ici repose Venel, le gardien protégeant le symbole des Héros.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000122	Autel du Prêtre
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000123	Grand lieu de pèlerinage des admirateurs du Prêtre nommé Aenn.\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000124	Autel de l'Elémentaliste
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000125	Grand lieu de pèlerinage des admirateurs de l'Elémentaliste nommé Lillip.\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000126	Autel du Ranger
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000127	Grand lieu de pèlerinage des admirateurs du Ranger nommé Hynan.\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000128	Autel du Moine
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000129	Grand lieu de pèlerinage des admirateurs du Moine nommé Roentel.\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000130	Autel de l'Assassin
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000131	Grand lieu de pèlerinage des admirateurs de l'Assassin nommé Heren.\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000132	Autel du Chevalier
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000133	Grand lieu de pèlerinage des admirateurs du Chevalier nommé Billein.\nLa Pierre d'âme de ce Héros y est précieusement conservée.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000134	Soldats de Kyon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000135	Le meilleur escadron de Tesarr à Madrigal.\nBien que peu nombreux, ces soldats sont tous hautement qualifiés.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000136	Darkon 2\nDarkon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000137	Ville administrative de Darkon.\nLa majorité des citoyens souffrent de troubles de l'audition\nen raison du vacarme des machines.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000138	Darkon 2\nGrotte d'Eienble
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139	La majeure partie de cette grotte artificielle est devenue le repaire des monstres après la Guerre du Clockwork.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140	Darkon 2\nGrotte d'Eienble
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141	La majeure partie de cette grotte artificielle est devenue le repaire des monstres après la Guerre du Clockwork.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142	Darkon 2\nCave d'Eienble
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143	La majeure partie de cette grotte artificielle est devenue le repaire des monstres après la Guerre du Clockwork.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144	Darkon 1\nKhipra
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145	La nature avoisinante est en train de dépérir à cause du développement de l'usine produisant les Erons.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146	Darkon 1\nMontagnes de Gouthan
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147	La plus importante montagne de Darkon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148	Darkon 1\nMontagnes de Gouthan
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149	La plus importante montagne de Darkon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150	Darkon 1\nKhipRa
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151	La nature avoisinante est en train de dépérir\nà cause du développement de l'usine produisant les Erons.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152	Darkon 2\nCage de Clockworks
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153	La cage où Clockworks fut enfermé après la Guerre.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154	Observatoire de Flaris
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000155	Laboratoire des Sages
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000156	Saincity\nBureau des documents anciens
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000157	Saincity\nThéâtre de Pepole
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158	Darkon 1\nRepaire de Hanoyan
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159	Autel du Jester
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160	Darkon 3\nVillage de Kan
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161	Zone de Collecte
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162	Zone de Collecte
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163	Zone de Collecte
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164	Entrée de la Fosse aux Esprits
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165	Entrée de la Fosse aux Esprits Perdus
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000166	Camp Hotaru
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000167	Entrée de Harmonin
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000168	Canyon d'Ishtar
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000169	Camp des âmes damnées
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000170	Canyon d'Ishtar
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000171	Entrée de la Crypte des Sans Repos
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000172	Entrée de Désiréa
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000173	Entrée de Désiréa (Maître)
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000174	Plaine de Kailun
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000175	Village Elliun
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000176	Entrée du Temple de Zerkattak
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000177	Autel de Zerkattak
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000178	Entrée du Sietch Kalgas
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000179	Caravansérail Arhak'ine
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000180	Désert Arhak'is

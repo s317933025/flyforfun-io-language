@@ -1,0 +1,352 @@
+IDS_MMI_311	
+IDS_MMI_312	
+IDS_MMI_333	Exchange Yggdrasil Crackshooter Armor (F)
+IDS_MMI_334	Exchange Yggdrasil Crackshooter Armor (M)
+IDS_MMI_347	
+IDS_MMI_343	Exchange Yggdrasil Arcanist Armor (F)
+IDS_MMI_344	Exchange Yggdrasil Arcanist Armor (M)
+IDS_MMI_352	
+IDS_MMI_337	Exchange Yggdrasil Seraph Armor (F)
+IDS_MMI_338	Exchange Yggdrasil Seraph Armor (M)
+IDS_MMI_349	
+IDS_MMI_339	Exchange Yggdrasil Force Master Armor (F)
+IDS_MMI_340	Exchange Yggdrasil Force Master Armor (M)
+IDS_MMI_350	
+IDS_MMI_329	Exchange Yggdrasil Templar Armor (F)
+IDS_MMI_330	Exchange Yggdrasil Templar Armor (M)
+IDS_MMI_345	Exchange Yggdrasil Templar Weapon
+IDS_MMI_341	Exchange Yggdrasil Mentalist Armor (F)
+IDS_MMI_342	Exchange Yggdrasil Mentalist Armor (M)
+IDS_MMI_351	
+IDS_MMI_353	
+IDS_MMI_331	Exchange Yggdrasil Slayer Armor (F)
+IDS_MMI_332	Exchange Yggdrasil Slayer Armor (M)
+IDS_MMI_346	Exchange Yggdrasil Slayer Weapon
+IDS_MMI_335	Exchange Yggdrasil Harlequin Armor (F)
+IDS_MMI_336	Exchange Yggdrasil Harlequin Armor (M)
+IDS_MMI_348	
+IDS_MMI_305	Female Armor Token Exchange
+IDS_MMI_304	Male Armor Token Exchange
+IDS_MMI_303	Weapon Token Exchange
+IDS_MMI_5	Add to my list
+IDS_MMI_80	Enter Arena
+IDS_MMI_81	Leave Arena
+IDS_MMI_321	
+IDS_MMI_322	
+IDS_MMI_59	Remove Element upgrading
+IDS_MMI_9	Deposit
+IDS_MMI_237	Baruna Element Upgrade
+IDS_MMI_308	Convert to Baruna Ultimate
+IDS_MMI_238	Baruna Awakening
+IDS_MMI_239	Cancel Baruna Awakening
+IDS_MMI_13	
+IDS_MMI_42	Cosmetic Upgrades
+IDS_MMI_251	
+IDS_MMI_253	
+IDS_MMI_250	
+IDS_MMI_249	
+IDS_MMI_256	
+IDS_MMI_254	
+IDS_MMI_248	
+IDS_MMI_247	
+IDS_MMI_255	
+IDS_MMI_252	
+IDS_MMI_79	Remove Premium Item Blessing
+IDS_MMI_142	Store Buff Pet
+IDS_MMI_141	Toggle Buff Pet Status
+IDS_MMI_309	Card Upgrade
+IDS_MMI_20	Attribute Strengthening
+IDS_MMI_169	Colored Egg Basket Exchange
+IDS_MMI_153	MERRY CHRISTMAS!
+IDS_MMI_140	Exchange coupon
+IDS_MMI_31	Cheer
+IDS_MMI_286	Candy Cane Exchange
+IDS_MMI_269	
+IDS_MMI_207	Exchange 1 Christmas Token (Very Naughty).
+IDS_MMI_208	Exchange 25 Christmas Tokens (Naughty).
+IDS_MMI_209	Exchange 50 Christmas Tokens (Naughty But Nice).
+IDS_MMI_210	Exchange 75 Christmas Tokens (Nice).
+IDS_MMI_211	Exchange 100 Christmas Tokens (Very Nice).
+IDS_MMI_284	Giant Teddy Bear Exchange
+IDS_MMI_297	Teddy Bear Exchange
+IDS_MMI_298	Christmas Token Exchange
+IDS_MMI_299	Holiday Medal Exchange
+IDS_MMI_300	Golden Snowflake Exchange
+IDS_MMI_301	Magic Stick Exchange
+IDS_MMI_285	Golden Snowflake Exchange
+IDS_MMI_302	Clover Exchange
+IDS_MMI_75	Exchange Rare Item Pieces
+IDS_MMI_76	Exchange Card Pieces
+IDS_MMI_310	Exchange Card Pieces
+IDS_MMI_205	Enter the Colosseum
+IDS_MMI_206	Ranking
+IDS_MMI_263	Exchange Coupon - Items
+IDS_MMI_264	Exchange Coupon - Beginner Weapons
+IDS_MMI_265	Exchange Coupon - Intermediate Weapons
+IDS_MMI_266	Exchange Coupon - Advanced Weapons
+IDS_MMI_204	
+IDS_MMI_212	Buy Fashion Material
+IDS_MMI_214	Fashion Combination
+IDS_MMI_213	Sell Fashion Material
+IDS_MMI_313	OMG Coupon (Red) exchange
+IDS_MMI_314	OMG Coupon (Yellow) exchange
+IDS_MMI_315	OMG Coupon (Blue) exchange
+IDS_MMI_316	OMG Coupon (Green) exchange
+IDS_MMI_317	Buff box exchange
+IDS_MMI_318	Power Up box exchange
+IDS_MMI_319	Upgrading box exchange
+IDS_MMI_267	Exchange your Christmas Tokens into amazing rewards!
+IDS_MMI_231	리턴즈 업데이트 기념 주화로 아이템 교환
+IDS_MMI_229	5,000 Penya can be exchanged into Desert Card
+IDS_MMI_0	Dialog
+IDS_MMI_215	Donate
+IDS_MMI_216	Donator ranking
+IDS_MMI_10	Duel
+IDS_MMI_11	Request Party Duel
+IDS_MMI_262	Eldin's Jar
+IDS_MMI_280	Trade Blue Chips for Armor Boxes
+IDS_MMI_282	Gold Chip Shop
+IDS_MMI_281	Trade Blue Chips for Weapon Boxes
+IDS_MMI_189	You can not use a Scroll of Awakening on a Baruna item.
+IDS_MMI_241	Enter Combat Area
+IDS_MMI_271	
+IDS_MMI_128	Exchange for Cherry blossom box
+IDS_MMI_131	Cherry Blossom Box Exchange
+IDS_MMI_176	사랑의 꽃바구니 교환
+IDS_MMI_177	롯토의 선물 상자 교환
+IDS_MMI_106	Exchange Event Cards
+IDS_MMI_127	New Semester Event
+IDS_MMI_166	FITA Event
+IDS_MMI_130	Exchange Water of Love
+IDS_MMI_82	Silver Heart Merchant
+IDS_MMI_83	Silver Heart Merchant
+IDS_MMI_172	Silver Heart Exchange Event
+IDS_MMI_168	Fortune pouch exchange
+IDS_MMI_175	July 7th Event
+IDS_MMI_57	We can make everyone happy!
+IDS_MMI_129	Exchange for Treasure Box
+IDS_MMI_125	Exchange for Restat Coupon
+IDS_MMI_133	홍콩, 대만 가위바위보 쿠폰 교환
+IDS_MMI_121	Exchange event item
+IDS_MMI_170	가위바위보 쿠폰 교환
+IDS_MMI_190	
+IDS_MMI_132	Rock-Paper-Scissors Coupon
+IDS_MMI_174	World Trophy Exchange
+IDS_MMI_173	World Trophy Exchange (Korea)
+IDS_MMI_232	Exchange Tokens of Bravery
+IDS_MMI_99	Convert Armor Piercing Cards
+IDS_MMI_98	Convert Weapon Piercing Cards
+IDS_MMI_105	Fashion Coupon Event
+IDS_MMI_3	Duel
+IDS_MMI_45	Word Puzzle
+IDS_MMI_223	200 Fir Seed and 200 Unfulled Water Bottle can be exchage into Fir Tree
+IDS_MMI_46	Dice
+IDS_MMI_228	30,000 Penya can be exchanged into Element Card
+IDS_MMI_276	FlyForFun Coupon Shop
+IDS_MMI_277	Card Piece Exchange Menu
+IDS_MMI_230	FlyFF World Championship Card Exchange Service
+IDS_MMI_184	That is an inappropriate item, to protect your Baruna Item, place a Blessing of Baruna in this space.
+IDS_MMI_162	Bathtub
+IDS_MMI_154	Bed
+IDS_MMI_221	Drawer
+IDS_MMI_164	Carpet
+IDS_MMI_159	Bookshelf
+IDS_MMI_158	Chair
+IDS_MMI_160	Dressing table
+IDS_MMI_222	Crystal
+IDS_MMI_157	Table
+IDS_MMI_163	Bedside table
+IDS_MMI_143	Furniture Info
+IDS_MMI_187	Extraction is only possible with non-unique items.
+IDS_MMI_186	That is an inappropriate item, please use a Tar of Chaos instead.
+IDS_MMI_185	That is an inappropriate item, please use a Chaos Gem instead.
+IDS_MMI_145	Remove
+IDS_MMI_144	Reinstall
+IDS_MMI_156	Sofa
+IDS_MMI_155	Table
+IDS_MMI_188	You cannot use that skill while you are fighting.
+IDS_MMI_165	Wall Paper
+IDS_MMI_161	Wardrobe
+IDS_MMI_15	Guild Warehouse
+IDS_MMI_61	1vs1 Guild Siege- Cancel
+IDS_MMI_64	1vs1 Guild Siege- Enter
+IDS_MMI_67	1vs1 Guild Siege- Join
+IDS_MMI_66	1vs1 Guild Siege- Rewards
+IDS_MMI_68	1vs1 Guild Siege- Basic Rules
+IDS_MMI_65	1vs1 Guild Siege- Application Fee
+IDS_MMI_69	1vs1 Guild Siege- Winning Condition
+IDS_MMI_60	1vs1 Guild Siege- Apply
+IDS_MMI_62	1vs1 Guild Siege- Check Current Status
+IDS_MMI_70	Receive 1vs1 Guild Siege Application Fee.
+IDS_MMI_63	1vs1 Guild Siege- Set Member List
+IDS_MMI_36	Acceptance of prize money for MVP
+IDS_MMI_37	Information to Participate
+IDS_MMI_38	Basic Rule
+IDS_MMI_39	Conditions to Win
+IDS_MMI_40	Commission Information
+IDS_MMI_34	Receipt of prize money and application money
+IDS_MMI_35	Information about Prize Money
+IDS_MMI_41	Refund of application fee
+IDS_MMI_30	Ranking
+IDS_MMI_33	Entry
+IDS_MMI_171	Guild house bid
+IDS_MMI_148	Pay Maintenance Fee
+IDS_MMI_149	Enter your Guild House
+IDS_MMI_191	
+IDS_MMI_192	
+IDS_MMI_150	Exit Your Guild House
+IDS_MMI_147	Purchase Guild House (100M Penya)
+IDS_MMI_26	Apply
+IDS_MMI_28	Cancel
+IDS_MMI_29	Join
+IDS_MMI_27	Status
+IDS_MMI_293	Halloween Candy Exchange
+IDS_MMI_244	꿀송편 10개와 50,000 페냐를 가위바위보 쿠폰 1장으로 교환
+IDS_MMI_97	Forsaken Tower
+IDS_MMI_198	4 A Cards - Exchange Ace Box 2015
+IDS_MMI_199	4 K Cards - Exchange King Box 2015
+IDS_MMI_200	4 Q Cards - Exchange Queen Box 2015
+IDS_MMI_201	4 J Cards - Exchange Jack Box 2015
+IDS_MMI_202	1 Each for K,Q,J,10 Cards - Exchange The Mighty 10 Box 2015
+IDS_MMI_21	Put Bounty
+IDS_MMI_151	
+IDS_MMI_7	Invite to join guild
+IDS_MMI_6	Invite to join party
+IDS_MMI_73	Awaken Item
+IDS_MMI_126	Item Transy
+IDS_MMI_197	Special Upgrade Box Exchange
+IDS_MMI_306	Golden Piggy 2015 Exchange
+IDS_MMI_44	Rock-Paper-Scissors
+IDS_MMI_56	Level-up Hero Skill!
+IDS_MMI_268	Item Transmutation
+IDS_MMI_94	Lord's Event
+IDS_MMI_101	Lord Info.
+IDS_MMI_107	Apply for the Rainbow Race
+IDS_MMI_112	Confirm Completion of the Rainbow Race
+IDS_MMI_109	Rainbow Race Rules
+IDS_MMI_110	Previous Rainbow Race Rankings
+IDS_MMI_108	What is the Rainbow Race?
+IDS_MMI_111	Rainbow Race Reward Information
+IDS_MMI_115	Anything but Math!
+IDS_MMI_118	FlyFF Concentration
+IDS_MMI_114	Lucky Roller
+IDS_MMI_113	Rock-Paper-Scissors
+IDS_MMI_119	Drop the Ball!
+IDS_MMI_116	Stopwatch!
+IDS_MMI_117	Typo!
+IDS_MMI_102	Return money info.
+IDS_MMI_91	Candidate register Status
+IDS_MMI_92	Lord's candidate bid
+IDS_MMI_93	Lord's Vote
+IDS_MMI_71	Remove Level Reduction
+IDS_MMI_307	Exchange for Casual Hanbok Set
+IDS_MMI_257	
+IDS_MMI_270	Teleport to Town
+IDS_MMI_245	Teleport to Madrigal Market
+IDS_MMI_258	Trade Intermediation
+IDS_MMI_8	Place of Resurrection
+IDS_MMI_4	Message
+IDS_MMI_278	Exchange Note pieces into rewards.
+IDS_MMI_279	Exchange Flami's Guitar for Galaxy Guitar.
+IDS_MMI_74	Get Buffed!
+IDS_MMI_325	Get a Premium Buff
+IDS_MMI_224	400 Pear Seed and 400 Unfulled Water Bottle can be exchage into Pear Tree
+IDS_MMI_226	300 Persimmon Seed and 300 Unfulled Water Bottle can be exchage into Persimmon Tree
+IDS_MMI_104	Remove a Pick-up Pet Blessing
+IDS_MMI_96	Egg Change
+IDS_MMI_48	Feed pet
+IDS_MMI_58	Feed Bag
+IDS_MMI_50	Un-summon pet
+IDS_MMI_77	Exchange for Scroll of Pet Revival pieces.
+IDS_MMI_78	Exchange for Scroll of Pet Revival.
+IDS_MMI_49	Pet State
+IDS_MMI_23	Piercing
+IDS_MMI_32	Detach Piercing Card.
+IDS_MMI_225	1000 Pine Seed and 1000 Unfulled Water Bottle can be exchage into Pine Tree
+IDS_MMI_272	Exchange RPS Coupon
+IDS_MMI_25	Mailbox
+IDS_MMI_24	View equipment
+IDS_MMI_1	Quest
+IDS_MMI_137	Enter quiz event
+IDS_MMI_139	Teleport to town
+IDS_MMI_138	Join quiz event
+IDS_MMI_16	Guild Ranking
+IDS_MMI_18	Overall guild ranking
+IDS_MMI_17	Guild Duel ranking
+IDS_MMI_47	Jigsaw Puzzle
+IDS_MMI_152	
+IDS_MMI_120	Cancel Pet Name Change
+IDS_MMI_14	Repair
+IDS_MMI_124	Exit House
+IDS_MMI_227	50,000 Penya can be exchanged into Old Guardian's Weapon
+IDS_MMI_273	Dragon Mask & Cloak Exchange
+IDS_MMI_274	Dragon Mask(M) Exchange
+IDS_MMI_275	Mask Exchange (F)
+IDS_MMI_90	Secret Room Info.
+IDS_MMI_103	Cancel secret room application
+IDS_MMI_87	Enter Secret Room
+IDS_MMI_100	Only the occupying guild can enter the hunting area.
+IDS_MMI_84	Apply for Secret Room
+IDS_MMI_85	Secret Room application status
+IDS_MMI_86	Organize Secret Room participants
+IDS_MMI_88	
+IDS_MMI_89	Check Tax Rate
+IDS_MMI_22	See the Bounty List
+IDS_MMI_54	Create Unique Weapon
+IDS_MMI_55	Create Ultimate Weapon
+IDS_MMI_53	Create Jewels
+IDS_MMI_52	Jewel Setting
+IDS_MMI_324	Costume Gem Upgrade
+IDS_MMI_327	Costume Fusion
+IDS_MMI_51	Create Shining Oricalkum
+IDS_MMI_328	Enchant Absolute Scroll Fusion
+IDS_MMI_95	Remove Jewel from Ultimate Weapon
+IDS_MMI_326	Remove Costume Gem
+IDS_MMI_72	Remove a Pierced Card
+IDS_MMI_135	Safe Accessory Upgrade
+IDS_MMI_323	Safe Costume Upgrade
+IDS_MMI_167	Safe Element Upgrade
+IDS_MMI_134	Safe Upgrade
+IDS_MMI_136	Safe Piercing
+IDS_MMI_283	Trade in upgraded Vega's Light for reward item
+IDS_MMI_43	Summon Angel
+IDS_MMI_179	Extract Chaos Stones
+IDS_MMI_182	Create Stone of Balance
+IDS_MMI_180	Create Chaos Gems
+IDS_MMI_183	Create Stone of Balance
+IDS_MMI_203	Socket Ancient Rune
+IDS_MMI_178	Baruna Upgrade
+IDS_MMI_181	Upgrade Order Stones
+IDS_MMI_146	Teleport
+IDS_MMI_233	Delete
+IDS_MMI_234	Delete All
+IDS_MMI_235	Change Name
+IDS_MMI_236	Close
+IDS_MMI_12	Follow
+IDS_MMI_2	Trade
+IDS_MMI_246	
+IDS_MMI_242	Exchange Box
+IDS_MMI_260	Two Handed Weapon Composition
+IDS_MMI_261	Cancel
+IDS_MMI_19	Upgrade
+IDS_MMI_259	Exchange Penya and Pumpkins for RPS Coupons
+IDS_MMI_287	Valentine gift trade
+IDS_MMI_288	A precious love token
+IDS_MMI_123	Enter Friend's House
+IDS_MMI_122	Enter House
+IDS_MMI_320	
+IDS_MMI_217	White Day Trade
+IDS_MMI_218	Collect quest items and exchange them with lovely goodies!
+IDS_MMI_219	Exchange 500 Magic Shards for a Yellow Corsage (F)
+IDS_MMI_220	Exchange 500 Mysterious Dye for a Blue Corsage (F)
+IDS_MMI_289	
+IDS_MMI_290	
+IDS_MMI_291	
+IDS_MMI_292	
+IDS_MMI_296	Grape Seed Exchange
+IDS_MMI_294	Grape Seed Exchange
+IDS_MMI_295	Grape Seed Exchange
+IDS_MMI_193	Exchange Zombie Hunter tokens
+IDS_MMI_194	6 Zombie Tokens = 12 Zombie Hunters Boxes
+IDS_MMI_195	15 Zombie Tokens = 1 Survivor’s Cloak
+IDS_MMI_196	35 Zombie Tokens = 1 Zombie Hunter’s Cloak

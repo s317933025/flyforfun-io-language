@@ -1,0 +1,115 @@
+ids_language_code	FR
+ids_ui_home_title	Accueil
+ids_ui_home_newchar	Nouveau personnage
+ids_ui_home_login	Connexion
+ids_ui_home_website	Site web
+ids_ui_home_credits	Crédits
+ids_ui_home_server	Serveur :
+ids_ui_login_charlogin	Identifiant du personnage :
+ids_ui_login_password	Mot de passe du compte :
+ids_ui_login_lost	Mot de passe oublié ?
+ids_ui_newchar_name	Nom :
+ids_ui_newchar_girl	Fille
+ids_ui_newchar_boy	Garçon
+ids_ui_newchar_create	Commencer
+ids_ui_msgbox_ok	Ok
+ids_ui_msgbox_cancel	Annuler
+ids_ui_msgbox_yes	Oui
+ids_ui_msgbox_no	Non
+ids_ui_loadingscreen	Chargement...
+ids_ui_option_title	Paramètres
+ids_ui_option_music Volume des musiques
+ids_ui_option_sound	Volume des sons
+ids_ui_option_texquality	Qualité des textures
+ids_ui_option_texhigh	Élevée
+ids_ui_option_texmid	Moyenne
+ids_ui_option_texlow	Basse
+ids_ui_option_weather	Effets météo
+ids_ui_option_language	Langue
+ids_ui_option_save	Sauvegarder
+ids_ui_navigator_player	Joueur
+ids_ui_navigator_npc	PNJ
+ids_ui_navigator_monster	Monstre
+ids_ui_privacy_notice	Règles de confidentialité
+ids_ui_msgbox_accept	Accepter
+ids_ui_msgbox_decline	Refuser
+ids_ui_option_keyboard	Disposition du clavier
+ids_ui_msgbox_close	Fermer
+ids_ui_option_shadows	Qualité des ombres
+ids_ui_option_fullscreen	Plein écran
+ids_ui_motion_tab_mot	Mouvements
+ids_ui_motion_tab_emo	Emôticones
+ids_ui_revival_title	Résurrection
+ids_ui_revival_lodestar	Cristal de Vie
+ids_ui_charinfo_base	Infos
+ids_ui_charinfo_name	Nom
+ids_ui_charinfo_login	Identifiant
+ids_ui_charinfo_job	Classe
+ids_ui_charinfo_level	Niveau
+ids_ui_charinfo_server	Serveur
+ids_ui_charinfo_detail	Détail
+ids_ui_charinfo_atk	ATQ
+ids_ui_charinfo_critical	Critique
+ids_ui_charinfo_def	DEF
+ids_ui_charinfo_aspeed	Vit Atq
+ids_ui_charinfo_str	FOR
+ids_ui_charinfo_sta	END
+ids_ui_charinfo_dex	DEX
+ids_ui_charinfo_int	INT
+ids_ui_charinfo_statpoints	GP
+ids_ui_charinfo_apply	Appliquer
+ids_ui_charinfo_reset	R.à.Z
+ids_ui_charinfo_changestate	Améliorer les statistiques
+ids_ui_charinfo_apply_tooltip	Validation des nouvelles statistiques
+ids_ui_charinfo_reset_tooltip	Retour aux statistiques actuelles
+ids_ui_charinfo_plusminus_tooltip	Vous pouvez dépenser vos points GP pour améliorer vos statistiques.
+ids_ui_charinfo_str_tooltip	Augmentation de la puissance d'attaque de l'arme (#cffb40000Hormis les baguettes magiques#nc)
+ids_ui_charinfo_sta_tooltip	Augmentation de la défense, les PV max., et les PF max.\nAugmentation du taux de régénération des PV et PF
+ids_ui_charinfo_dex_tooltip	Augmentation de la vitesse d'attaque\nAugmentation des taux d'esquive et de blocage\nAugmentation du taux de coups critiques\n#cffb40000Augmentation de la puissance d'attaque de l'arc#nc
+ids_ui_charinfo_int_tooltip	Augmentation des PM max.\nAugmentation de la puissance des sorts et de la résistance à la magie
+ids_ui_charinfo_gp_tooltip	Vous pouvez améliorer vos statistiques via la fenêtre de personnage (touche H).
+ids_ui_tooltip_sex_male	Genre : Garçon
+ids_ui_tooltip_sex_female	Genre : Fille
+ids_ui_tooltip_onehand	Arme à une main
+ids_ui_tooltip_twohand	Arme à deux mains
+ids_ui_tooltip_attack	Attaque :
+ids_ui_tooltip_def_a	DEF
+ids_ui_tooltip_def_b	Défense :
+ids_ui_tooltip_attack_speed	Vitesse d'attaque : %s
+ids_ui_tooltip_req_job	Classe :
+ids_ui_tooltip_req_level	Niveau requis : %d
+ids_ui_tooltip_restore_mp	PM restaurés : %d
+ids_ui_tooltip_restore_hp	PV restaurés : %d
+ids_ui_tooltip_restore_fp	PF restaurés : %d
+ids_ui_tooltip_max_restore	Seuil de restauration : %d
+ids_ui_tooltip_inv_suit Armure
+ids_ui_tooltip_inv_gauntlet	Gants
+ids_ui_tooltip_inv_boots	Bottes
+ids_ui_tooltip_inv_helmet	Casque
+ids_ui_tooltip_inv_clo	Cape
+ids_ui_tooltip_inv_weapon	Arme
+ids_ui_tooltip_inv_guard	Bouclier
+ids_ui_tooltip_inv_mask	Masque
+ids_ui_tooltip_inv_rid	Planche/Balai
+ids_ui_tooltip_inv_necklace	Collier
+ids_ui_tooltip_inv_ring	Anneau
+ids_ui_tooltip_inv_earring	Boucle d'oreille
+ids_ui_tooltip_inv_bullet	Arme secondaire
+ids_ui_tooltip_inv_clothes_1	Chapeau fashion
+ids_ui_tooltip_inv_clothes_2	Vêtement fashion
+ids_ui_tooltip_inv_clothes_3	Gants fashion
+ids_ui_tooltip_inv_clothes_4	Chaussures fashion
+ids_ui_inventory_1_bag	#b1#nb sac
+ids_ui_inventory_n_bags	#b%d#nb sacs
+ids_ui_iventory_bag_n	Sac %d
+ids_ui_tooltip_mon_lvl	Niv.
+ids_ui_tooltip_mon_drop	Butin :
+ids_ui_tooltip_mon_no_drop	Aucun
+ids_ui_map_moninfo	Montrer les infos sur les monstres de la région.
+ids_ui_tooltip_delete_item	L'article déposé ici est supprimé.
+ids_ui_inventory_delete	Suppression
+ids_ui_inventory_delete_confirm	Supprimer cet objet?
+ids_ui_inventory_delete_cnt	Nbre
+ids_ui_dialog	Discussion
+ids_ui_dialog_title	Conversation
+ids_ui_dialog_about	%s

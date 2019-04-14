@@ -1,0 +1,284 @@
+IDS_PROPMAP_TXT_000000	
+IDS_PROPMAP_TXT_000001	Monde
+IDS_PROPMAP_TXT_000002	Région
+IDS_PROPMAP_TXT_000003	Ville
+IDS_PROPMAP_TXT_000004	Madrigal
+IDS_PROPMAP_TXT_000005	Darkon 1, 2
+IDS_PROPMAP_TXT_000006	Darkon 3
+IDS_PROPMAP_TXT_000007	Jardin de Rhisis
+IDS_PROPMAP_TXT_000008	Saint Morning
+IDS_PROPMAP_TXT_000009	Flaris
+IDS_PROPMAP_TXT_000010	Harmonin
+IDS_PROPMAP_TXT_000011	Canyon d'Ishtar
+IDS_PROPMAP_TXT_000012	Flarine
+IDS_PROPMAP_TXT_000013	Saincity
+IDS_PROPMAP_TXT_000014	Darkon
+IDS_PROPMAP_TXT_000015	Plaine de Kailun
+IDS_PROPMAP_TXT_000016	Elliun
+IDS_PROPMAP_TXT_000017	[Romancier] Gergantes
+IDS_PROPMAP_TXT_000018	Salon de coiffure
+IDS_PROPMAP_TXT_000019	[Maître des mercenaires] Lukes
+IDS_PROPMAP_TXT_000020	[Manager des Guerres de Guildes] Franky
+IDS_PROPMAP_TXT_000021	[Chef de l'Arène de l'Apocalypse] Marco
+IDS_PROPMAP_TXT_000022	Gardien de la Tour Oubliée
+IDS_PROPMAP_TXT_000023	Institut de beauté
+IDS_PROPMAP_TXT_000024	[Maître des Acolytes] Maki
+IDS_PROPMAP_TXT_000025	[Changeur de Jetons Rouges] Charles
+IDS_PROPMAP_TXT_000026	[Manager des Guerres de Guildes] Donaris
+IDS_PROPMAP_TXT_000027	[Chef de l'Arène de l'Apocalypse] Bertha
+IDS_PROPMAP_TXT_000028	Chancelier
+IDS_PROPMAP_TXT_000029	[Collecteur de Coupons] Lotto
+IDS_PROPMAP_TXT_000030	Intendante des maisons de guildes
+IDS_PROPMAP_TXT_000031	[Chef de l'Arène] Ray
+IDS_PROPMAP_TXT_000032	Luda
+IDS_PROPMAP_TXT_000033	Boboko
+IDS_PROPMAP_TXT_000034	[Joaillier] Angie
+IDS_PROPMAP_TXT_000035	Manager de la chambre secrète Est
+IDS_PROPMAP_TXT_000036	[Intendant des Studios] Charlie
+IDS_PROPMAP_TXT_000037	Lui
+IDS_PROPMAP_TXT_000038	Dior
+IDS_PROPMAP_TXT_000039	[Historienne] Martinyc
+IDS_PROPMAP_TXT_000040	Jeff
+IDS_PROPMAP_TXT_000041	Boboku
+IDS_PROPMAP_TXT_000042	[Forge] Bobochan
+IDS_PROPMAP_TXT_000043	[Intendante de Flarine] Julia
+IDS_PROPMAP_TXT_000044	[Intendant de Flarine] Nicolas
+IDS_PROPMAP_TXT_000045	Eleveur de familiers
+IDS_PROPMAP_TXT_000046	Isruel
+IDS_PROPMAP_TXT_000047	[Maire de Flarine]
+IDS_PROPMAP_TXT_000048	Is
+IDS_PROPMAP_TXT_000049	Alice
+IDS_PROPMAP_TXT_000050	[Guide pour Débutants] Pang
+IDS_PROPMAP_TXT_000051	Ismeralda
+IDS_PROPMAP_TXT_000052	Maître des Cartes
+IDS_PROPMAP_TXT_000053	Sotta
+IDS_PROPMAP_TXT_000054	Loyah
+IDS_PROPMAP_TXT_000055	Mikyel
+IDS_PROPMAP_TXT_000056	Marche
+IDS_PROPMAP_TXT_000057	Losha
+IDS_PROPMAP_TXT_000058	Ispim
+IDS_PROPMAP_TXT_000059	[Instructrice des Acolytes] Asis
+IDS_PROPMAP_TXT_000060	[Instructrice des Acolytes] Kidmen
+IDS_PROPMAP_TXT_000061	Teshar
+IDS_PROPMAP_TXT_000062	Phoho
+IDS_PROPMAP_TXT_000063	Eoners
+IDS_PROPMAP_TXT_000064	[Instructrice des Mercenaires] Zandark
+IDS_PROPMAP_TXT_000065	[Instructrice des Mercenaires] Hyuit
+IDS_PROPMAP_TXT_000066	Tomba
+IDS_PROPMAP_TXT_000067	Ghalade
+IDS_PROPMAP_TXT_000068	Rudvihil
+IDS_PROPMAP_TXT_000069	Martin
+IDS_PROPMAP_TXT_000070	Herth
+IDS_PROPMAP_TXT_000071	Colack
+IDS_PROPMAP_TXT_000072	Bozman
+IDS_PROPMAP_TXT_000073	Karin
+IDS_PROPMAP_TXT_000074	Helgar
+IDS_PROPMAP_TXT_000075	Leann
+IDS_PROPMAP_TXT_000076	Bill
+IDS_PROPMAP_TXT_000077	Ann
+IDS_PROPMAP_TXT_000078	Porgo
+IDS_PROPMAP_TXT_000079	[Entraîneur des Magiciens] Winyei
+IDS_PROPMAP_TXT_000080	[Gérant de la Collecte] Maheu
+IDS_PROPMAP_TXT_000081	Heltung
+IDS_PROPMAP_TXT_000082	[Maître des Magiciens] Hee
+IDS_PROPMAP_TXT_000083	JeongHwa
+IDS_PROPMAP_TXT_000084	Bulrox
+IDS_PROPMAP_TXT_000085	Kimberley
+IDS_PROPMAP_TXT_000086	[Chef de l'Arène] Ray
+IDS_PROPMAP_TXT_000087	Eleveur de familiers
+IDS_PROPMAP_TXT_000088	[Maire de Saincity]
+IDS_PROPMAP_TXT_000089	Lancomi
+IDS_PROPMAP_TXT_000090	[Instructrice des Magiciens] Lopaze
+IDS_PROPMAP_TXT_000091	[Guide pour Débutants] Pang
+IDS_PROPMAP_TXT_000092	[Conservatrice] Rovanett
+IDS_PROPMAP_TXT_000093	[Historien] Gothante
+IDS_PROPMAP_TXT_000094	Alice
+IDS_PROPMAP_TXT_000095	Helena
+IDS_PROPMAP_TXT_000096	Parine
+IDS_PROPMAP_TXT_000097	Tina
+IDS_PROPMAP_TXT_000098	Collectionneur mystérieux
+IDS_PROPMAP_TXT_000099	[Pepole] Clagabole
+IDS_PROPMAP_TXT_000100	[Pepole] Vianlee
+IDS_PROPMAP_TXT_000101	[Pepole] Hotse
+IDS_PROPMAP_TXT_000102	[Pepole] Rumineir
+IDS_PROPMAP_TXT_000103	[Pepole] Ellang
+IDS_PROPMAP_TXT_000104	[Pepole] Brodeay
+IDS_PROPMAP_TXT_000105	[Pepole] Ellang
+IDS_PROPMAP_TXT_000106	[Pepole] Brodeay
+IDS_PROPMAP_TXT_000107	Darkon
+IDS_PROPMAP_TXT_000108	[Instructrice des Acrobates] Tailer
+IDS_PROPMAP_TXT_000109	Bolpor
+IDS_PROPMAP_TXT_000110	Krinton
+IDS_PROPMAP_TXT_000111	[Maître des enchantements] Raydian
+IDS_PROPMAP_TXT_000112	[Maître des Jesters] Lorein
+IDS_PROPMAP_TXT_000113	[Maître des Elémentalistes] Horizon
+IDS_PROPMAP_TXT_000114	[Maître des Sorciers] Cylor
+IDS_PROPMAP_TXT_000115	[Maître des Moines] Ride
+IDS_PROPMAP_TXT_000116	Organisateur de la Course Arc-en-ciel
+IDS_PROPMAP_TXT_000117	Manager de la chambre secrète Ouest
+IDS_PROPMAP_TXT_000118	[Maire de Darkon]
+IDS_PROPMAP_TXT_000119	[Maître des Acrobates] Pyre
+IDS_PROPMAP_TXT_000120	[Chef de l'Arène] Ray
+IDS_PROPMAP_TXT_000121	[Instructeur des Acrobates] Sunder
+IDS_PROPMAP_TXT_000122	Haven
+IDS_PROPMAP_TXT_000123	Remine
+IDS_PROPMAP_TXT_000124	Roocky
+IDS_PROPMAP_TXT_000125	[Grand Dwarpet] Liekyen
+IDS_PROPMAP_TXT_000126	[Maître des Rangers] Eliff
+IDS_PROPMAP_TXT_000127	[Maître des Prêtres] Ellend
+IDS_PROPMAP_TXT_000128	[Maître des Assassins] Corel
+IDS_PROPMAP_TXT_000129	[Maître des Chevaliers] Karandur
+IDS_PROPMAP_TXT_000130	Eleveur de familiers
+IDS_PROPMAP_TXT_000131	Ollien
+IDS_PROPMAP_TXT_000132	Almani
+IDS_PROPMAP_TXT_000133	Lurif
+IDS_PROPMAP_TXT_000134	[Grand Maître] Inisis
+IDS_PROPMAP_TXT_000135	Alice
+IDS_PROPMAP_TXT_000136	[Guide pour Débutants] Pang
+IDS_PROPMAP_TXT_000137	[Gérant de la Collecte] Maheu
+IDS_PROPMAP_TXT_000138	Bernard
+IDS_PROPMAP_TXT_000139	Achaben
+IDS_PROPMAP_TXT_000140	Kablloc
+IDS_PROPMAP_TXT_000141	Jinitte
+IDS_PROPMAP_TXT_000142	[Doyenne des Rangers] Rupim
+IDS_PROPMAP_TXT_000143	André
+IDS_PROPMAP_TXT_000144	Chenbing
+IDS_PROPMAP_TXT_000145	Tandy
+IDS_PROPMAP_TXT_000146	[Doyenne des Elémentalistes] Condram
+IDS_PROPMAP_TXT_000147	Harmonin
+IDS_PROPMAP_TXT_000148	[Chef d'Expédition] Vespu
+IDS_PROPMAP_TXT_000149	Luca
+IDS_PROPMAP_TXT_000150	Ryan
+IDS_PROPMAP_TXT_000151	Jano
+IDS_PROPMAP_TXT_000152	Lasa
+IDS_PROPMAP_TXT_000153	Village Elliun
+IDS_PROPMAP_TXT_000154	Huntran
+IDS_PROPMAP_TXT_000155	Mioran
+IDS_PROPMAP_TXT_000156	Ruidan
+IDS_PROPMAP_TXT_000157	[Eleveuse de familiers] Cheiran
+IDS_PROPMAP_TXT_000158	Kanran
+IDS_PROPMAP_TXT_000159	Karan
+IDS_PROPMAP_TXT_000160	Kuran
+IDS_PROPMAP_TXT_000161	[Joaillier] Raia
+IDS_PROPMAP_TXT_000162	[Forge] Cedric
+IDS_PROPMAP_TXT_000163	[Intendant des Studios] Arnaud
+IDS_PROPMAP_TXT_000164	[Intendante des maisons de guildes] Rodella
+IDS_PROPMAP_TXT_000165	[Maîtresse des Cartes] Lise
+IDS_PROPMAP_TXT_000166	[Entraîneur des Templiers] Emblum
+IDS_PROPMAP_TXT_000167	[Entraîneur des Arbalétriers] Meiarun
+IDS_PROPMAP_TXT_000168	[Entraîneur des Spadassins] Karl
+IDS_PROPMAP_TXT_000169	[Entraîneur des Sylphides] Branka
+IDS_PROPMAP_TXT_000170	Aran
+IDS_PROPMAP_TXT_000171	Mawran
+IDS_PROPMAP_TXT_000172	Mauran
+IDS_PROPMAP_TXT_000173	Rergantus
+IDS_PROPMAP_TXT_000174	[Institut de Beauté] Noémie
+IDS_PROPMAP_TXT_000175	[Salon de Coiffure] Edouard
+IDS_PROPMAP_TXT_000176	[Entraîneur des Arcanistes] Howran
+IDS_PROPMAP_TXT_000177	[Entraîneur des Primats] Isillis
+IDS_PROPMAP_TXT_000178	[Entraîneur des Envoûteurs] Romain
+IDS_PROPMAP_TXT_000179	[Entraîneur des Chanoines] Bato
+IDS_PROPMAP_TXT_000180	[Changeur de jetons rouges] Hugo
+IDS_PROPMAP_TXT_000181	[Chef de l'Arène] Rarbadan
+IDS_PROPMAP_TXT_000182	Heiran
+IDS_PROPMAP_TXT_000183	[Manager Dreadpet] Kanane
+IDS_PROPMAP_TXT_000184	Dr. Estly
+IDS_PROPMAP_TXT_000185	[Gérant de la Collecte] Maheu
+IDS_PROPMAP_TXT_000186	[Manager Dreadpet] Himadel
+IDS_PROPMAP_TXT_000187	[Sage des Chevaliers] Hormes
+IDS_PROPMAP_TXT_000188 	[Grand Sage] Radéon
+IDS_PROPMAP_TXT_000189	[Sage des Rangers] Kimel
+IDS_PROPMAP_TXT_000190	[Sage des Elémentalistes] Cuzrill
+IDS_PROPMAP_TXT_000191	[Sage des Prêtres] Clamb
+IDS_PROPMAP_TXT_000192	[Sage des Assassins] Guabrill
+IDS_PROPMAP_TXT_000193	[Sage des Jesters] Radyan
+IDS_PROPMAP_TXT_000194	[Sage des Sorciers] Cuarine
+IDS_PROPMAP_TXT_000195	[Sage des Moines] Domek
+IDS_PROPMAP_TXT_000196	[Grand Dwarpet] Tucani
+IDS_PROPMAP_TXT_000197	[Grand Dwarpet] Goripeg
+IDS_PROPMAP_TXT_000198	[Grand Dwarpet] Langdrong
+IDS_PROPMAP_TXT_000199	[Grand Dwarpet] Hastan
+IDS_PROPMAP_TXT_000200	Ancimys
+IDS_PROPMAP_TXT_000201	Hachal
+IDS_PROPMAP_TXT_000202	[Manager Dreadpet] Gornus
+IDS_PROPMAP_TXT_000203	Ryupang
+IDS_PROPMAP_TXT_000204	Kurmin
+IDS_PROPMAP_TXT_000205	Ata
+IDS_PROPMAP_TXT_000206	Noier
+IDS_PROPMAP_TXT_000207	[Coffre magique] Ancimys
+IDS_PROPMAP_TXT_000208	Dr. Estern
+IDS_PROPMAP_TXT_000209	Mayun
+IDS_PROPMAP_TXT_000210	Confesseur
+IDS_PROPMAP_TXT_000211	Esope IV
+IDS_PROPMAP_TXT_000212	Dr. Est
+IDS_PROPMAP_TXT_000213	Colar
+IDS_PROPMAP_TXT_000214	Hachal
+IDS_PROPMAP_TXT_000215	[Coffre magique] Ancimys
+IDS_PROPMAP_TXT_000216	Confesseur
+IDS_PROPMAP_TXT_000217	Garçon mystérieux
+IDS_PROPMAP_TXT_000218	Nein
+IDS_PROPMAP_TXT_000219	[Archimage] Laola
+IDS_PROPMAP_TXT_000220	[Doyenne des Chevaliers] Lobiet
+IDS_PROPMAP_TXT_000221	[Doyenne des Jesters] Homeit
+IDS_PROPMAP_TXT_000222	[Doyenne des Assassins] Jeperdy
+IDS_PROPMAP_TXT_000223	[Gardienne des Jesters] Heingard
+IDS_PROPMAP_TXT_000224	[Gardienne des Sorciers] Shyniff
+IDS_PROPMAP_TXT_000225	[Gardienne des Chevaliers] Boneper
+IDS_PROPMAP_TXT_000226	[Gardienne des Elémentalistes] Wendien
+IDS_PROPMAP_TXT_000227	[Gardienne des Prêtres] Romvoette
+IDS_PROPMAP_TXT_000228	[Gardienne des Moines] Capafe
+IDS_PROPMAP_TXT_000229	[Gardienne des Rangers] Kailreard
+IDS_PROPMAP_TXT_000230	[Gardienne des Assassins] Sencyrit
+IDS_PROPMAP_TXT_000231	[Doyenne des Moines] Fera
+IDS_PROPMAP_TXT_000232	[Doyenne des Sorciers] Pereb
+IDS_PROPMAP_TXT_000233	[Doyenne des Prêtres] Heedan
+IDS_PROPMAP_TXT_000234	[Cuistot] Bowler
+IDS_PROPMAP_TXT_000235	Amadolka
+IDS_PROPMAP_TXT_000236 	Cell
+IDS_PROPMAP_TXT_000237 	Eleveur de familiers
+IDS_PROPMAP_TXT_000238 	Stima
+IDS_PROPMAP_TXT_000239 	Phacham
+IDS_PROPMAP_TXT_000240	[Guide pour Débutants] Pang
+IDS_PROPMAP_TXT_000241	Désert Arhak'is
+IDS_PROPMAP_TXT_000242	Donjons
+IDS_PROPMAP_TXT_000243	Fosse aux esprits
+IDS_PROPMAP_TXT_000244	Fosse aux esprits perdus
+IDS_PROPMAP_TXT_000245	Temple de Zerkattak
+IDS_PROPMAP_TXT_000246	Crypte des sans repos
+IDS_PROPMAP_TXT_000247 	[Chef d'Expédition] Georges
+IDS_PROPMAP_TXT_000248	[Aliments] Pinanoco
+IDS_PROPMAP_TXT_000249	Raundas
+IDS_PROPMAP_TXT_000250	Ideluna
+IDS_PROPMAP_TXT_000251	Jizaka
+IDS_PROPMAP_TXT_000252	Organisateur du Coliseum
+IDS_PROPMAP_TXT_000253	[Scientifique] Miriun
+IDS_PROPMAP_TXT_000254	[Maître des Magiciens] Lia
+IDS_PROPMAP_TXT_000255	[Instructrice des Magiciens] Eigam
+IDS_PROPMAP_TXT_000256 	[Instructrice des Magiciens] Ereicors
+IDS_PROPMAP_TXT_000257	Zones premium
+IDS_PROPMAP_TXT_000258	Île corail
+IDS_PROPMAP_TXT_000259	Azria
+IDS_PROPMAP_TXT_000260	Rartesia
+IDS_PROPMAP_TXT_000261	Désiréa
+IDS_PROPMAP_TXT_000262	Désiréa (M)
+IDS_PROPMAP_TXT_000263	Mine de Mas
+IDS_PROPMAP_TXT_000264	Sietch Kalgas
+IDS_PROPMAP_TXT_000265	Mine de Dekanes
+IDS_PROPMAP_TXT_000266	Temple d'Ivillis
+IDS_PROPMAP_TXT_000267	USS Darkon
+IDS_PROPMAP_TXT_000268	USS Celestia
+IDS_PROPMAP_TXT_000269	Foret d'Euphrasia
+IDS_PROPMAP_TXT_000270	Foret Enchantée d'Euphrasia
+IDS_PROPMAP_TXT_000271	Herneos
+IDS_PROPMAP_TXT_000272	Abysses d'Herneos
+IDS_PROPMAP_TXT_000273	Volcane
+IDS_PROPMAP_TXT_000274	Tour oubliée 1er étage
+IDS_PROPMAP_TXT_000275	Tour oubliée 2e étage
+IDS_PROPMAP_TXT_000276	Tour oubliée 3e étage
+IDS_PROPMAP_TXT_000277	Tour oubliée 4e étage
+IDS_PROPMAP_TXT_000278	Tour oubliée 5e étage
+IDS_PROPMAP_TXT_000279	[Grand Couturier] Lager Fred
+IDS_PROPMAP_TXT_000280	Sombrésia
+IDS_PROPMAP_TXT_000281	[Maître d'armes] Ron
+IDS_PROPMAP_TXT_000282	Chemin Contaminé de Rhisis
+IDS_PROPMAP_TXT_000283	[Avare de savoir] Einherr

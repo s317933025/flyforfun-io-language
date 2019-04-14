@@ -1,0 +1,115 @@
+ids_language_code	EN
+ids_ui_home_title	Home
+ids_ui_home_newchar	New character
+ids_ui_home_login	Login
+ids_ui_home_website	Website
+ids_ui_home_credits	Credits
+ids_ui_home_server	Server :
+ids_ui_login_charlogin	Character login :
+ids_ui_login_password	Account password :
+ids_ui_login_lost	Forgot your login?
+ids_ui_newchar_name	Name :
+ids_ui_newchar_girl	Girl
+ids_ui_newchar_boy	Boy
+ids_ui_newchar_create	Start
+ids_ui_msgbox_ok	Ok
+ids_ui_msgbox_cancel	Cancel
+ids_ui_msgbox_yes	Yes
+ids_ui_msgbox_no	No
+ids_ui_loadingscreen	Loading...
+ids_ui_option_title	Option
+ids_ui_option_music Music volume
+ids_ui_option_sound	Sound volume
+ids_ui_option_texquality	Texture quality
+ids_ui_option_texhigh	High
+ids_ui_option_texmid	Middle
+ids_ui_option_texlow	Low
+ids_ui_option_weather	Weather effects
+ids_ui_option_language	Language
+ids_ui_option_save	Save
+ids_ui_navigator_player	Player
+ids_ui_navigator_npc	NPC
+ids_ui_navigator_monster	Monster
+ids_ui_privacy_notice	Privacy Policy
+ids_ui_msgbox_accept	Accept
+ids_ui_msgbox_decline	Decline
+ids_ui_option_keyboard	Keyboard layout
+ids_ui_msgbox_close	Close
+ids_ui_option_shadows	Shadows quality
+ids_ui_option_fullscreen	Fullscreen
+ids_ui_motion_tab_mot	Motion
+ids_ui_motion_tab_emo	Emoticon
+ids_ui_revival_title	Resurrection
+ids_ui_revival_lodestar	Revive to Lodestar
+ids_ui_charinfo_base	Base
+ids_ui_charinfo_name	Name
+ids_ui_charinfo_login	Login
+ids_ui_charinfo_job	Job
+ids_ui_charinfo_level	Level
+ids_ui_charinfo_server	Server
+ids_ui_charinfo_detail	Detail
+ids_ui_charinfo_atk	ATK
+ids_ui_charinfo_critical	Critical
+ids_ui_charinfo_def	DEF
+ids_ui_charinfo_aspeed	A.Speed
+ids_ui_charinfo_str	STR
+ids_ui_charinfo_sta	STA
+ids_ui_charinfo_dex	DEX
+ids_ui_charinfo_int	INT
+ids_ui_charinfo_statpoints	Stat Points
+ids_ui_charinfo_apply	Apply
+ids_ui_charinfo_reset	Reset
+ids_ui_charinfo_changestate	Change State
+ids_ui_charinfo_apply_tooltip	Apply new Stats.
+ids_ui_charinfo_reset_tooltip	Return to Previous Stats.
+ids_ui_charinfo_plusminus_tooltip	Select Apply after you change your Stat points.
+ids_ui_charinfo_str_tooltip	Strengthens Attack Power of Weapon (#cffb40000Except for wand#nc)
+ids_ui_charinfo_sta_tooltip	Strengthens Defense, Max. HP, Max. FP\nHP, FP recovery rate increased
+ids_ui_charinfo_dex_tooltip	Attack speed increased\nEvasion Rate, Blocking Rate increased\nIncreases Critical Hit Chance.\n#cffb40000Striking power of bow is increased.#nc
+ids_ui_charinfo_int_tooltip	Amount of Max. MP is increased.\nMagic Attack Power
+ids_ui_charinfo_gp_tooltip	Select Apply after you change your Stat points.
+ids_ui_tooltip_sex_male	SEX: Male
+ids_ui_tooltip_sex_female	SEX: Female
+ids_ui_tooltip_onehand	One-handed weapon.
+ids_ui_tooltip_twohand	Two-handed weapon.
+ids_ui_tooltip_attack	Attack:
+ids_ui_tooltip_def_a	DEF
+ids_ui_tooltip_def_b	DEF
+ids_ui_tooltip_attack_speed	Attack speed: %s
+ids_ui_tooltip_req_job	Req Job:
+ids_ui_tooltip_req_level	Required Level : %d
+ids_ui_tooltip_restore_mp	Restore MP: %d
+ids_ui_tooltip_restore_hp	Restore HP: %d
+ids_ui_tooltip_restore_fp	Restore FP: %d
+ids_ui_tooltip_max_restore	Effective up to %d
+ids_ui_tooltip_inv_suit Suit
+ids_ui_tooltip_inv_gauntlet	Gauntlet
+ids_ui_tooltip_inv_boots	Boots
+ids_ui_tooltip_inv_helmet	Helmet
+ids_ui_tooltip_inv_clo	Cloak
+ids_ui_tooltip_inv_weapon	Weapon
+ids_ui_tooltip_inv_guard	Shield
+ids_ui_tooltip_inv_mask	Mask
+ids_ui_tooltip_inv_rid	Flying board
+ids_ui_tooltip_inv_necklace	Necklace
+ids_ui_tooltip_inv_ring	Ring
+ids_ui_tooltip_inv_earring	Ear ring
+ids_ui_tooltip_inv_bullet	Sub Weapon(Bow, Poster)
+ids_ui_tooltip_inv_clothes_1	Fashion hat
+ids_ui_tooltip_inv_clothes_2	Fashion costume
+ids_ui_tooltip_inv_clothes_3	Fashion gloves
+ids_ui_tooltip_inv_clothes_4	Fashion shoes
+ids_ui_inventory_1_bag	#b1#nb bag
+ids_ui_inventory_n_bags	#b%d#nb bags
+ids_ui_iventory_bag_n	Bag %d
+ids_ui_tooltip_mon_lvl	Lv.
+ids_ui_tooltip_mon_drop	Booty:
+ids_ui_tooltip_mon_no_drop	None
+ids_ui_map_moninfo	Show monsters informations.
+ids_ui_tooltip_delete_item	The item dragged here is removed.
+ids_ui_inventory_delete	Drop confirmation
+ids_ui_inventory_delete_confirm	Really delete this item?
+ids_ui_inventory_delete_cnt	Qty
+ids_ui_dialog	Dialog
+ids_ui_dialog_title	Conversation
+ids_ui_dialog_about	Ask about %s

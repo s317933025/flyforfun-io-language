@@ -1,0 +1,83 @@
+ids_textclient_connecting	Connexion, veuillez patienter.
+ids_textclient_cantconnect	Impossible de se connecter au jeu, veuillez vérifier votre connexion internet.
+ids_textclient_oldclient	Vous possédez une ancienne version du jeu.
+ids_textclient_wrongserver	Mauvais identifiant du serveur.
+ids_textclient_unknownerror	Erreur inconnue, veuillez rééssayer.
+ids_textclient_alreadyconnected	Votre personnage est déjà connecté.
+ids_textclient_serverfull	Le serveur est complet, veuillez patienter ou jouer sur un autre serveur.
+ids_textclient_bigmonster	Boss détecté !!!
+ids_textclient_app_map	Carte
+ids_textclient_app_option	Paramètres
+ids_textclient_app_logout	Déconnexion
+ids_textclient_app_quit	Quitter
+ids_textclient_app_navigator	Navigateur
+ids_textclient_app_debug	Debug
+ids_textclient_loggingout	Déconnexion dans %d seconde(s).
+ids_textclient_logout	Voulez-vous vous déconnecter ? Vous perdrez votre personnage si vous ne l'avez pas lié à un compte.
+ids_textclient_exit	Quitter le jeu ?
+ids_textclient_disconnected	Déconnecté du serveur.
+ids_textclient_creationdisabled	La création de personnage est désactivée sur ce serveur.
+ids_textclient_optionreboot	Vous devez redémarrer le jeu pour que toutes les modifications prennent effet.
+ids_textclient_maphidden	Les ténèbres vous empêchent de vous repérer dans cette zone.
+ids_textclient_item_desc	Description :
+ids_textclient_invalidcharacters	Ce nom contient des caractères non autorisés.
+ids_textclient_invalidname	Ce nom contient des mots non autorisés.
+ids_textclient_ipbanned	Votre adresse internet publique a été bannie. Contactez l'administrateur pour plus d'informations.
+ids_textclient_ipblocked	Une activité importante a été détectée sur votre adresse internet publique. Patientez %s avant de rééssayer.
+ids_textclient_secs	seconde(s)
+ids_textclient_mins	minute(s)
+ids_textclient_hours	heure(s)
+ids_textclient_sessionexpired	Votre session a expiré, veuillez entrer vos identifiants à nouveau.
+ids_textclient_admin	Administrateur
+ids_textclient_gamemaster	Maître du Jeu
+ids_textclient_app_chat	Discussion
+ids_textclient_invalidlogin	Votre identifiant ou votre mot de passe est invalide.
+ids_textclient_accountconnected	Votre compte est déjà connecté.
+ids_textclient_nowposition	Position : x = %f, y = %f, z = %f
+ids_textclient_nottransself	Vous ne pouvez vous envoyer de message privé.
+ids_textclient_playernotexist	%s n'existe pas sur ce serveur.
+ids_textclient_app_notice	Annonces
+ids_textclient_app_status	Statut
+ids_textclient_playerinformation	%s Niv. %d
+ids_textclient_blink_limit	Vous ne pouvez pas utiliser de compétence pendant cette action.
+ids_textclient_notsit_blink	Vous ne pouvez pas utiliser une Elytre en étant assis.
+ids_textclient_stand_limit	Vous ne pouvez pas effectuer cette action en vous déplaçant.
+ids_textclient_flight_nouse	Vous êtes dans l'incapacité d'utiliser ceci en volant.
+ids_textclient_error_nofly	Vous ne pouvez pas voler ici.
+ids_textclient_error_notalk	Vous n'êtes pas autorisé à parler.
+ids_textclient_error_chatspam	Vous ne pouvez plus parler en local pendant 3 minutes parce que vous avez été trop bavard.
+ids_textclient_app_motion	Animations
+ids_textclient_app_charinfo	Personnage
+ids_textclient_limithp	Vous avez trop de PV pour bénéficier de la régénération maximale de l'objet.
+ids_textclient_limitmp	Vous avez trop de PM pour bénéficier de la régénération maximale de l'objet.
+ids_textclient_limitfp	Vous avez trop de PF pour bénéficier de la régénération maximale de l'objet.
+ids_textclient_attentioncooltime	Cet objet n'est pas encore disponible…
+ids_textclient_death	Vous venez de succomber à vos blessures.
+ids_textclient_mobpriority	Vous ne pouvez attaquer un monstre qui se bat déjà contre un autre joueur.
+ids_textclient_noquitcombat	Vous ne pouvez pas quitter Flyff pendant un combat.
+ids_textclient_levelup	Level up ! Vous pouvez maintenant améliorer les statistiques de votre personnage !
+ids_textclient_levelup_caption	Level up !!!
+ids_textclient_charstatus_apply_q	Confirmer les nouvelles statistiques ?
+ids_textclient_charstatus_firstjob	(statistiques réinitialisées au niveau 15)
+ids_textclient_admin_state	Statut
+ids_textclient_admin_normal	Normal
+ids_textclient_speed_veryslow	Très lente
+ids_textclient_speed_low	Lente
+ids_textclient_speed_normal	Normale
+ids_textclient_speed_fast	Rapide
+ids_textclient_speed_veryfast	Très rapide
+ids_textclient_speed_fastest	Fulgurante
+ids_textclient_itempriority	%s appartient actuellement à un autre joueur.
+ids_textclient_lackspace	Votre inventaire est plein.
+ids_textclient_reapitem	%s
+ids_textclient_app_inventory	Inventaire
+ids_textclient_reapmoney	Vous recevez %s Penyas (total: %s Penyas).
+ids_textclient_error_sex	Vous ne pouvez équiper cet objet: %s.
+ids_textclient_error_job	Vous ne pouvez équiper cet objet: %s.
+ids_textclient_error_level	Vous n'avez pas encore atteint le niveau %d requis pour équiper cet objet.
+ids_textclient_error_undestructable	Cet objet ne peut être supprimé ou jeté au sol.
+ids_textclient_error_usingitem	Vous utilisez déjà cet objet.
+ids_textclient_successremoveitem	L'objet %s a été supprimé (x %d).
+ids_textclient_notarget	Il vous est impossible d'attaquer, aucune cible n'a été sélectionnée.
+ids_textclient_notuse	Vous ne pouvez pas encore utiliser cela.
+ids_textclient_error_notlevel	Votre niveau est trop faible pour l'utiliser.

@@ -9,7 +9,6 @@ The following files can be taken from original FlyFF clients which are the prope
 * World/WdMadrigal.txt &rarr; World/WdMadrigal/WdMadrigal.txt.txt
 * Characters.txt &rarr; character.txt.txt
 * Controls.txt &rarr; propCtrl.txt.txt
-* Controls.txt &rarr; propCtrl.txt.txt
 * Emoticons.txt &rarr; textEmotion.txt.txt (uppercase the first character)
 * Items.txt &rarr; propItem.txt.txt
 * JobsAndStructures.txt &rarr; etc.txt.txt
@@ -18,6 +17,6 @@ The following files can be taken from original FlyFF clients which are the prope
 * PlayerMotions.txt &rarr; propMotion.txt.txt
 * MoverMenus.txt &rarr; generated from textClient using custom tool
 
-TextClient.txt and UI.txt contain new entries and existing entries taken from textClient.txt.txt and resData.txt.txt but with news keys.
+TextClient.txt and UI.txt contain new entries and existing entries taken from textClient.txt.txt and resData.txt.txt but with new keys.
 
 Other files need to be translated excepted Credits.inc.

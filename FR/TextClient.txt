@@ -2,7 +2,7 @@ ids_textclient_connecting	Connexion, veuillez patienter.
 ids_textclient_cantconnect	Impossible de se connecter au jeu, veuillez vérifier votre connexion internet.
 ids_textclient_oldclient	Vous possédez une ancienne version du jeu.
 ids_textclient_wrongserver	Mauvais identifiant du serveur.
-ids_textclient_unknownerror	Erreur inconnue, veuillez rééssayer.
+ids_textclient_unknownerror	Erreur inconnue, veuillez réessayer.
 ids_textclient_alreadyconnected	Votre personnage est déjà connecté.
 ids_textclient_serverfull	Le serveur est complet, veuillez patienter ou jouer sur un autre serveur.
 ids_textclient_bigmonster	Boss détecté !!!
@@ -35,7 +35,7 @@ ids_textclient_invalidlogin	Votre identifiant ou votre mot de passe est invalide
 ids_textclient_accountconnected	Votre compte est déjà connecté.
 ids_textclient_nowposition	Position : x = %f, y = %f, z = %f
 ids_textclient_nottransself	Vous ne pouvez vous envoyer de message privé.
-ids_textclient_playernotexist	%s n'existe pas sur ce serveur.
+ids_textclient_playernotexist	%s n'existe pas sur ce serveur ou n'est pas connecté.
 ids_textclient_app_notice	Annonces
 ids_textclient_app_status	Statut
 ids_textclient_playerinformation	%s Niv. %d
@@ -81,3 +81,9 @@ ids_textclient_successremoveitem	L'objet %s a été supprimé (x %d).
 ids_textclient_notarget	Il vous est impossible d'attaquer, aucune cible n'a été sélectionnée.
 ids_textclient_notuse	Vous ne pouvez pas encore utiliser cela.
 ids_textclient_error_notlevel	Votre niveau est trop faible pour l'utiliser.
+ids_textclient_block_pm	%s n'est pas disposé à discuter en privé.
+ids_textclient_error_link_pm	Vous devez lier votre personnage à un compte pour envoyer des messages privés.
+ids_textclient_yettrade	Marchander prend du temps. Réessayez dans quelques instants.
+ids_textclient_itemnotuse_trading	Vous ne pouvez pas utiliser un objet pendant un échange.
+ids_textclient_redchip	(Jeton Rouge)
+ids_textclient_error_equiptrade	Dépose l'objet avant de pouvoir le vendre.

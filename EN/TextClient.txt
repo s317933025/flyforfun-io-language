@@ -35,7 +35,7 @@ ids_textclient_invalidlogin	Your login or password is invalid.
 ids_textclient_accountconnected	Your account is already connected.
 ids_textclient_nowposition	Position : x = %f, y = %f, z = %f
 ids_textclient_nottransself	You cannot send a PM to yourself.
-ids_textclient_playernotexist	%s does not exist.
+ids_textclient_playernotexist	%s does not exist or is not online.
 ids_textclient_app_notice	Notice
 ids_textclient_app_status	Status
 ids_textclient_playerinformation	%s - Lv: %d
@@ -81,3 +81,9 @@ ids_textclient_successremoveitem	Number of %s deleted: %d.
 ids_textclient_notarget	Cannot attack, no monster targeted.
 ids_textclient_notuse	You cannot use this yet.
 ids_textclient_error_notlevel	Your level is too low.
+ids_textclient_block_pm	%s is in the 'Refuse to Whisper/Messenger' setting.
+ids_textclient_error_link_pm	You must link your character to an account to send private messages.
+ids_textclient_yettrade	That player is currently busy. Please try again after few minutes.
+ids_textclient_itemnotuse_trading	You cannot use items while trading.
+ids_textclient_redchip	Red Chip
+ids_textclient_error_equiptrade	Please unequip the item before selling it.

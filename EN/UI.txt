@@ -113,3 +113,24 @@ ids_ui_inventory_delete_cnt	Qty
 ids_ui_dialog	Dialog
 ids_ui_dialog_title	Conversation
 ids_ui_dialog_about	Ask about %s
+ids_ui_option_tab_game	Game / Audio
+ids_ui_option_tab_video	Video
+ids_ui_option_pm	Allow whispers & messages
+ids_ui_instantmsg_title	Message
+ids_ui_message_send	Send
+ids_ui_shop_title	Shop
+ids_ui_shop_itemslist	Item List
+ids_ui_tooltip_price	Price : %s
+ids_ui_tooltip_sellprice	Selling Price : %s
+ids_ui_shop_filter	Search
+ids_ui_shop_level	By Level
+ids_ui_shop_gender	By Gender
+ids_ui_shop_itemprice	Item Price
+ids_ui_sellitem_title	Selling Confirm
+ids_ui_sellitem_confirm	Really sell this item?
+ids_ui_sellitem_qty	Quantity
+ids_ui_sellitem_price	Selling Price:
+ids_ui_msgbox_valid	Ok
+ids_ui_buyitem_title	Confirm Item Purchase
+ids_ui_buyitem_confirm	Do you want to buy?
+ids_ui_buyitem_price	Cost

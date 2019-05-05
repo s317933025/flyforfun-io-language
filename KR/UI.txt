@@ -1,0 +1,147 @@
+ids_language_code	KR
+ids_ui_home_title	집
+ids_ui_home_newchar	새 문자
+ids_ui_home_login	로그인
+ids_ui_home_website	웹 사이트
+ids_ui_home_credits	크레딧
+ids_ui_home_server	섬기는 사람 :
+ids_ui_login_charlogin	Character login :
+ids_ui_login_password	Account password :
+ids_ui_login_lost	Forgot your login?
+ids_ui_newchar_name	이 름 :
+ids_ui_newchar_girl	소녀
+ids_ui_newchar_boy	소년
+ids_ui_newchar_create	시작
+ids_ui_msgbox_ok	확인
+ids_ui_msgbox_cancel	취소
+ids_ui_msgbox_yes	확인
+ids_ui_msgbox_no	거절
+ids_ui_loadingscreen	로드 중...
+ids_ui_option_title	옵션
+ids_ui_option_music	Music volume
+ids_ui_option_sound	Sound volume
+ids_ui_option_texquality	Texture quality
+ids_ui_option_texhigh	높음
+ids_ui_option_texmid	중간
+ids_ui_option_texlow	낮음
+ids_ui_option_weather	Weather effects
+ids_ui_option_language	언어
+ids_ui_option_save	저장
+ids_ui_navigator_player	플레이어
+ids_ui_navigator_npc	NPC
+ids_ui_navigator_monster	몬스터
+ids_ui_privacy_notice	Privacy Policy
+ids_ui_msgbox_accept	수락
+ids_ui_msgbox_decline	거절
+ids_ui_option_keyboard	Keyboard layout
+ids_ui_msgbox_close	닫기
+ids_ui_option_shadows	Shadows quality
+ids_ui_option_fullscreen	Fullscreen
+ids_ui_motion_tab_mot	모션
+ids_ui_motion_tab_emo	이모티콘
+ids_ui_revival_title	Resurrection
+ids_ui_revival_lodestar	제자리 부활
+ids_ui_charinfo_base	기본
+ids_ui_charinfo_name	아이템명
+ids_ui_charinfo_login	로그인
+ids_ui_charinfo_job	직업
+ids_ui_charinfo_level	레벨
+ids_ui_charinfo_server	서버
+ids_ui_charinfo_detail	자세히
+ids_ui_charinfo_atk	공격력 상승
+ids_ui_charinfo_critical	치명타율
+ids_ui_charinfo_def	방어력 상승
+ids_ui_charinfo_aspeed	공격속도
+ids_ui_charinfo_str	힘
+ids_ui_charinfo_sta	체력
+ids_ui_charinfo_dex	민첩
+ids_ui_charinfo_int	지능
+ids_ui_charinfo_statpoints	남은 GP 포인트
+ids_ui_charinfo_apply	적용
+ids_ui_charinfo_reset	초기화
+ids_ui_charinfo_changestate	상태 수정
+ids_ui_charinfo_apply_tooltip	변경 된 스테이터스를 적용 시킵니다.
+ids_ui_charinfo_reset_tooltip	변경 전 스테이터스로 되돌립니다.
+ids_ui_charinfo_plusminus_tooltip	남은 GP포인트 만큼 스테이터스를 변경 할 수 있습니다. 상단에 있는 수정란에서 변경할 수 있습니다.
+ids_ui_charinfo_str_tooltip	Strengthens Attack Power of Weapon (#cffb40000Except for wand#nc)
+ids_ui_charinfo_sta_tooltip	Strengthens Defense, Max. HP, Max. FP\nHP, FP recovery rate increased
+ids_ui_charinfo_dex_tooltip	Attack speed increased\nEvasion Rate, Blocking Rate increased\nIncreases Critical Hit Chance.\n#cffb40000Striking power of bow is increased.#nc
+ids_ui_charinfo_int_tooltip	Amount of Max. MP is increased.\nMagic Attack Power
+ids_ui_charinfo_gp_tooltip	남은 GP포인트 만큼 스테이터스를 변경 할 수 있습니다. 상단에 있는 수정란에서 변경할 수 있습니다.
+ids_ui_tooltip_sex_male	성별 : 남
+ids_ui_tooltip_sex_female	성별 : 여
+ids_ui_tooltip_onehand	한손 장비
+ids_ui_tooltip_twohand	양손 장비
+ids_ui_tooltip_attack	공격력 :
+ids_ui_tooltip_def_a	방어력 상승
+ids_ui_tooltip_def_b	방어력 상승
+ids_ui_tooltip_attack_speed	공격 속도 : %s
+ids_ui_tooltip_req_job	Req Job:
+ids_ui_tooltip_req_level	필요 레벨 : %d
+ids_ui_tooltip_restore_mp	MP 치료량 : %d
+ids_ui_tooltip_restore_hp	HP 치료량 : %d
+ids_ui_tooltip_restore_fp	FP 치료량 : %d
+ids_ui_tooltip_max_restore	최대 회복량 : %d
+ids_ui_tooltip_inv_suit	의상
+ids_ui_tooltip_inv_gauntlet	건틀렛
+ids_ui_tooltip_inv_boots	부츠
+ids_ui_tooltip_inv_helmet	헬멧
+ids_ui_tooltip_inv_clo	망토제작
+ids_ui_tooltip_inv_weapon	무기
+ids_ui_tooltip_inv_guard	방패
+ids_ui_tooltip_inv_mask	마스크
+ids_ui_tooltip_inv_rid	비행체
+ids_ui_tooltip_inv_necklace	네클리스
+ids_ui_tooltip_inv_ring	반지(링)
+ids_ui_tooltip_inv_earring	이어링
+ids_ui_tooltip_inv_bullet	보조무기(화살, 포스터)
+ids_ui_tooltip_inv_clothes_1	패션모자
+ids_ui_tooltip_inv_clothes_2	패션의상
+ids_ui_tooltip_inv_clothes_3	패션장갑
+ids_ui_tooltip_inv_clothes_4	패션신발
+ids_ui_inventory_1_bag	#b1#nb bag
+ids_ui_inventory_n_bags	#b%d#nb bags
+ids_ui_iventory_bag_n	Bag %d
+ids_ui_tooltip_mon_lvl	Lv.
+ids_ui_tooltip_mon_drop	Booty:
+ids_ui_tooltip_mon_no_drop	없음
+ids_ui_map_moninfo	Show monsters informations.
+ids_ui_tooltip_delete_item	이곳에 아이템을 끌어다 놓으면 삭제 됩니다
+ids_ui_inventory_delete	아이템 드롭 확인
+ids_ui_inventory_delete_confirm	아이템을 삭제하시겠습니까?
+ids_ui_inventory_delete_cnt	개수
+ids_ui_dialog	대화상자
+ids_ui_dialog_title	대화
+ids_ui_dialog_about	%s에 대하여 질문합니다.
+ids_ui_option_tab_game	게임
+ids_ui_option_tab_video	비디오
+ids_ui_option_pm	Allow whispers & messages
+ids_ui_instantmsg_title	쪽 지
+ids_ui_message_send	전송
+ids_ui_shop_title	상점
+ids_ui_shop_itemslist	정산 할 물품
+ids_ui_tooltip_price	가격 : %s
+ids_ui_tooltip_sellprice	파는 가격 : %s
+ids_ui_shop_filter	검색
+ids_ui_shop_level	레벨 검색
+ids_ui_shop_gender	성별 검색
+ids_ui_shop_itemprice	아이템 가격
+ids_ui_sellitem_title	판매 확인
+ids_ui_sellitem_confirm	아이템을 파시겠습니까?
+ids_ui_sellitem_qty	개수
+ids_ui_sellitem_price	파는가격
+ids_ui_msgbox_valid	확인
+ids_ui_buyitem_title	구입 확인
+ids_ui_buyitem_confirm	아이템을 구입하시겠습니까?
+ids_ui_buyitem_price	판매가격
+ids_ui_option_grass	Grass (Beta)
+ids_ui_option_showlogin	Players login
+ids_ui_tooltip_max_hp	최대HP
+ids_ui_tooltip_max_mp	최대MP
+ids_ui_tooltip_max_fp	최대FP
+ids_ui_tooltip_speed	속도
+ids_ui_tooltip_atkspeed	공격 속도
+ids_ui_tooltip_blockmelee	근거리 공격의 블럭률
+ids_ui_tooltip_hitrate	명중률
+ids_ui_display_buffs	Show/hide buffs
+ids_ui_selectjob_title	Select new job

@@ -1,0 +1,182 @@
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000	Даркон-1\nЭрониевая фактория-2
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001	Эрониевая фактория-2. Здесь, как несложно догадаться, производят эроний.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002	Леренские горки
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003	Центральная часть Леренских горок.\nЗдесь находятся Лучистое поле и лагерь высоких карликов.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004	Фларинция\nЦентральная Фларинция
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000005	В центральной части Фларинции жизнь бьет ключом.\nЗдесь находятся воздушный порт и мэрия.\nКроме того, здесь стоят лавки торговцев оружием и доспехами.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000006	Фларинция\nВосточная Фларинция
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007	Восточная часть Фларинции.\nЗдесь можно купить еду и магические предметы, а также поговорить с магистрами и инструкторами.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008	Фларинция\nСеверная Фларинция
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000009	Северная часть Фларинции.\nЗдесь расположена Звезда Жизни. Здесь же можной найти некоторых магистров и инструкторов.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010	За вами кто-то наблюдает.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011	Лучистое поле
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012	Это поле сотворила клоунесса Лучик.\nЕсли верить легенде, когда Лучик вернется, наступит конец мира.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013	Южные Леренские горки
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014	Южная часть Леренских горок.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015	Замок войны
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016	Здесь можно подать заявку на поединок.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017	Южные Леренские горки\nАлтарь кошмарища
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018	Здесь держат кошмарище.\nДолжно быть, его тюремщики владеют нешуточной магией.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019	Даркон-1\nЭрониевая фактория-1
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020	Первая эрониевая фактория.\nЗдесь производят 80% всего эрония Мадригала.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021	Даркон\nАлтарь Лилового Фокусника
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022	Здесь готовится какой-то мощный ритуал.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023	Леренские горки
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000024	Центральная часть Леренских горок.\nЗдесь находятся Лучистое поле и лагерь высоких карликов.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000025	Лагерь высоких карликов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000026	Высокие карлики разбили в этом месте лагерь.\n Здесь жил - а может, и живет - хранитель книги 'Секреты мастерства'.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000027	Северная Плакучая река
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028	Обеденная поляна Кисандр
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029	Кисандры собираются здесь на обед.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030	Мост наконец-то починили!\n Раньше приходилось прыгать.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031	Маяк Жизни
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032	Безопасное место.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033	Мадренбург
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034	В этом городке живут злыдни.\nЗдесь царят свои порядки и законы.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035	Плакучая река
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036	Во время дождей эта река выходит из берегов.\nИногда здесь можно застать плещущихся карликов.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037	Мадренбург\nАлтарь кошмарища
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038	Здесь держат кошмарище.\nДолжно быть, его тюремщики владеют нешуточной магией.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039	Фонтан Мертвеца
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040	В этот фонтан, или, точнее, омут, уходят души умерших.\nЕсли верить легендам, вода фонтана дарит силы и долгую жизнь.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041	Северные Леренские горки
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042	Северная часть Леренских горок.\nЗдесь находятся Марсова шахта и фонтан Мертвеца.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043	Марсова шахта
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044	Старая шахта, где добывали глину.\n Теперь в ней живут чудовища.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045	Резиденция Сотби
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046	Здесь живет Сотби, фларинтийский богач.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000047	Арена
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000048	На арене можно устраивать поединки.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049	Моргенсиль
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050	Моргенсиль - древнее дерево, стоявшее здесь с начала времен.\n Оно считается главным символом и достопримечательностью Санто Моргена.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000051	Санто Морген\nАлтарь Лилового Фокусника
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000052	Воздух вокруг этого алтаря пропитан мощной магией.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000053	Северные Холмистые горы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000054	Северная часть Холмистых гор.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000055	Восточная Плакучая река
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000056	Восточная Плакучая река\nАлтарь кошмарища.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000057	Алтарь кошмарища.\nТюремщик источает магию такой силы, что воздух искрится.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000058	Санто\nРатуша
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000059	Ратуша - старейшее здание Санто. Она была построена, когда никого из нынешних жителей города еще на свете не было.\nВ ратуше также находятся банк и лаборатория. 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000060	Санто Морген
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061	Санто Морген - второй остров Мадригала.\nЗдесь живут отличные мастера и успешные торговцы.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062	Санто\nВоздушный порт
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000063	В Санто находится крупнейший воздушный порт Мадригала.\nИз-за этого торговля в городе и идет так успешно.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064	Площадь Санто
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065	На городской площади всегда многолюдно.\nИскатели приключений любят открывать здесь частные лавочки.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066	Санто\nИсторическое общество
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067	Здесь трудятся историки Мадригала.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068	Фларинция\nАлтарь Лилового Фокусника
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000069	В воздухе пахнет грозой, а земля усеяна камнями. Интересно, что тут произошло?
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000070	Райсский сад
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000071	Сад богини Райс.\nДо Часовой войны это было прекраснейшее место во всем Мадригале.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000072	Нереальная пустыня
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000073	То тут, то там среди песков попадаются каменные колонны.\nЕсли верить слухам, под дюнами похоронены древние храмы.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000074	Откуда-то доносится звук заступов.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000075	Нереальная пустыня
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000076	Неизведанная и загадочная пустыня.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000077	Южные Холмистые горы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000078	Южная часть Холмистых гор.\nЗдесь находится пик Безмолвия, а у подножия гор начинается Нереальная пустыня.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079	Пик Безмолвия\nГравитационная аномалия
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080	В этой части Мадригала даже самый опытный пилот не сумеет оторваться от земли. Если верить ученым, сила притяжения здесь выше, чем где-либо в мире.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081	Тенистый холм
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082	Этот холм создала клоунесса Тень.\nПричем так быстро, что никто глазом не успел моргнуть.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083	Это безопасная зона. Здесь на вас никто не нападет.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084	Тыквиль\nГород мистеров Тыкверов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085	Этот городок построили люди, которые хотели отдохнуть от суеты Санто Моргена.\nНо мистеры Тыкверы напали на городок и разрушили его.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086	Холмистые горы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000087	Центральная часть Холмистых гор.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000088	Даркон-3\nМагминт
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000089	Эта часть Даркона-3 залита кипящей лавой.\nОбычные люди сюда не ходят - здесь слишком опасно.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000090	Алтарь шутов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000091	Этот алтарь построен в честь славных героев-шутов.\nО нем заботится жрица Омейта.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000092	Даркон-3\nБренская фактория
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000093	Бренская фактория должна была стать крупнейшим металлургическим заводом Мадригала.\nНо из-за постоянных извержений вулкана она осталась недостроенной.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000094	Даркон-3\nАрианские впадины
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000095	Арианские впадины - это целая сеть небольших водоемов с голубой водой, способной растворить даже эроний.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000096	Энгисиль
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000097	Загадочное гигантское дерево.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000098	Даркон-3\nМертвые пески
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000099	Мертвая земля Даркона-3. От песков поднимается пар, несущий запах смерти.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000100	Даркон-3\nДождевой лес
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000101	Растения этого леса - огромные мутанты.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000102	Даркон-3\nДомик Лолы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000103	Домик ведьмы Лолы окутывает таинственная аура.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000104	Алтарь стрелков
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000105	Алтарь, хранящий души стрелков.\nО нем заботится жрица Рупия.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000106	Алтарь манипуляторов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000107	Алтарь, хранящий души манипуляторов.\nПоследователи Коверфильда приходят сюда каждый год, чтобы почтить память героя.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000108	Даркон-3\nЗападный Грибальский лес
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000109	Река, несущая токсичные отходы, изменила экологию этого леса.\nДеревьев здесь нет, зато грибы выросли до невероятных размеров.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000110	Даркон-3\nАрквуд
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000111	Воздух в этом лесу мерцает голубоватым сиянием.\nЕго обитатели кормятся эронием и редкими путешественниками.\nНа западном краю леса растет дерево Мутэнт.\nЕго листья богаты эронием.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000112	Даркон-3\nГрибальский лес
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000113	Этот лес пронизан мощной энергией.\nЛучше даже не знать ее источник.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000114	Даркон-3\nВосточный Грибальский лес
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000115	Вместо деревьев в этом лесу растут гигантские грибы.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000116	Виктория
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000117	В этом месте герои Мадригала одержали первую победу.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000118	Даркон-3\nГардиана
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000119	В Гардиане собрались хранительницы героев.\nОна построена на том самом месте, где произошла заключительная битва Героической войны.\nСюда приходят искатели приключений, желающие стать наследниками героев.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000120	Даркон-3\nЗал хранителей
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000121	В этом зале зловещий дух Виндигго стережет волю героев.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000122	Алтарь иллюзионистов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000123	Алтарь, хранящий души иллюзионистов.\nПоследователи Киу приходят сюда каждый год, чтобы почтить память героя.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000124	Алтарь факиров
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000125	Алтарь, хранящий души факиров.\nПоследователи Гэндальфи приходят сюда каждый год, чтобы почтить память героя.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000126	Алтарь стрелков
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000127	Алтарь, хранящий души стрелков.\nПоследователи Робина Теля приходят сюда каждый год, чтобы почтить память героя.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000128	Алтарь атлетов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000129	Алтарь, хранящий души атлетов.\nПоследователи Арнолли Терминатти приходят сюда каждый год, чтобы почтить память героя.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000130	Алтарь фехтовальщиков
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000131	Алтарь, хранящий души фехтовальщиков.\nПоследователи Д'Артамиса приходят сюда каждый год, чтобы почтить память героя.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000132	Алтарь гладиаторов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000133	Алтарь, хранящий души гладиаторов.\nПоследователи Максимилиануса приходят сюда каждый год, чтобы почтить память героя.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000134	Киунские наемники
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000135	Лучшие бойцы Мадригала.\nИх немного, но каждый - выдающийся воин.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000136	Даркон-2\nДаркенбург
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000137	Главный город острова Даркон.\nБольшинство жителей слегка глуховаты из-за постоянного грохота машин.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000138	Даркон-2\nЭнейская пещера
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139	Пещера искусственного происхождения.\nПосле Часовой войны окрестности Даркенбурга заполонили марионетки и механизмы.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140	Даркон-2\nЭнейская пещера
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141	Пещера искусственного происхождения.\nПосле Часовой войны окрестности Даркенбурга заполонили марионетки и механизмы.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142	Даркон-2\nЭнейская пещера
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143	Пещера искусственного происхождения.\nПосле Часовой войны окрестности Даркенбурга заполонили марионетки и механизмы.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144	Даркон-1\nКипра
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145	Все живое в этой области было уничтожено при строительстве Эрониевой фактории.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146	Даркон-1\nГутанские горы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147	Самые высокие горы Даркона.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148	Даркон-1\nГутанские горы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149	Самые высокие горы Даркона.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150	Даркон-1\nКипра
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151	Все живое в этой области было уничтожено при строительстве Эрониевой фактории.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152	Даркон-2\nЧасовая клетка
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153	Здесь со времен Часовой войны держат Часонизма.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154	Фларинтийская обсерватория
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000155	Секретная лаборатория
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000156	Санто\nАрхив
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000157	Санто\n'Погорелый театр'
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158	Даркон-1\nЛогово нового Папаши Грома
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159	Алтарь шутов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160	Даркон-3\nСтоянка 'Караванчика Хана'
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161	Свалка токсичных отходов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162	Свалка токсичных отходов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163	Свалка токсичных отходов
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164	Храм Судьбы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165	Храм Несудьбы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000166	Листопадный лагерь
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000167	Тенетар
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000168	Гринд-каньон
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000169	Умри-ла
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000170	Гринд-каньон
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000171	Погребальные катакомбы
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000172	Дикий Север
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000173	Дикий Юг
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000174	Бафрика
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000175	Каттар
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000176	Храм Левеофана
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000177	Святилище Левеофана
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000178	Копи Умории
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000179	Лагерь мяуров
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000180	Беспредельная пустыня
+

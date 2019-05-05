@@ -134,14 +134,3 @@ ids_ui_msgbox_valid	Ok
 ids_ui_buyitem_title	已购买
 ids_ui_buyitem_confirm	确认要购买吗？
 ids_ui_buyitem_price	花费
-ids_ui_option_grass	Grass (Beta)
-ids_ui_option_showlogin	Players login
-ids_ui_tooltip_max_hp	Max. HP
-ids_ui_tooltip_max_mp	Max. MP
-ids_ui_tooltip_max_fp	Max. FP
-ids_ui_tooltip_speed	Speed
-ids_ui_tooltip_atkspeed	Attack Speed
-ids_ui_tooltip_blockmelee	Melee Block
-ids_ui_tooltip_hitrate	Hit
-ids_ui_display_buffs	Show/hide buffs
-ids_ui_selectjob_title	Select new job

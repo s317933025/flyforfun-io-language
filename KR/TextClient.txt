@@ -1,0 +1,94 @@
+ids_textclient_connecting	접속 중입니다. 잠시만 기다려주십시오.
+ids_textclient_cantconnect	접속할 수 없습니다. 네트워크 상태를 확인하십시오.
+ids_textclient_oldclient	Old version of client.
+ids_textclient_wrongserver	Wrong server identifier.
+ids_textclient_unknownerror	Unknown error, please try again.
+ids_textclient_alreadyconnected	Your character is already connected.
+ids_textclient_serverfull	This server is currently full, please wait a moment or select another server.
+ids_textclient_bigmonster	거대 몬스터 출현!!
+ids_textclient_app_map	전체지도
+ids_textclient_app_option	옵션
+ids_textclient_app_logout	접속종료
+ids_textclient_app_quit	게임 종료
+ids_textclient_app_navigator	네비게이터
+ids_textclient_app_debug	디버그
+ids_textclient_loggingout	%d초 후 종료됩니다.
+ids_textclient_logout	Do you want to disconnect? You will lose your character if you did not linked it to an account.
+ids_textclient_exit	프로그램을 종료하시겠습니까?
+ids_textclient_disconnected	서버로부터 접속이 해제되었습니다.
+ids_textclient_creationdisabled	Character creation is disabled on this server.
+ids_textclient_optionreboot	You must restart the game for all changes to take effect.
+ids_textclient_maphidden	암흑의 기운으로 인하여 해당 지역을 볼 수 없습니다.
+ids_textclient_item_desc	Description:
+ids_textclient_invalidcharacters	This name contains unauthorized characters.
+ids_textclient_invalidname	This name contains unauthorized words.
+ids_textclient_ipbanned	Your public internet address has been banned. Contact the administrator for more informations.
+ids_textclient_ipblocked	An important activity has been detected on your public internet address. Please wait %s before trying again.
+ids_textclient_secs	second(s)
+ids_textclient_mins	minute(s)
+ids_textclient_hours	hour(s)
+ids_textclient_sessionexpired	Your session has expired, please enter your login and password again.
+ids_textclient_admin	Admin
+ids_textclient_gamemaster	Game Master
+ids_textclient_app_chat	채팅
+ids_textclient_invalidlogin	Your login or password is invalid.
+ids_textclient_accountconnected	Your account is already connected.
+ids_textclient_nowposition	현재좌표 : x = %f, y = %f, z = %f
+ids_textclient_nottransself	You cannot send a PM to yourself.
+ids_textclient_playernotexist	%s does not exist or is not online.
+ids_textclient_app_notice	공지사항
+ids_textclient_app_status	상태
+ids_textclient_playerinformation	%s 레벨 %d
+ids_textclient_blink_limit	시전 중에는 사용할 수 없습니다.
+ids_textclient_notsit_blink	앉아서는 블링크윙을 사용할수 없습니다.
+ids_textclient_stand_limit	서있어야 사용할 수 있습니다.
+ids_textclient_flight_nouse	비행 중에는 사용할 수 없습니다.
+ids_textclient_error_nofly	비행금지 구역입니다.
+ids_textclient_error_notalk	You are not allowed to talk.
+ids_textclient_error_chatspam	You received 3 minutes penalty because of too much of chatting.
+ids_textclient_app_motion	모션
+ids_textclient_app_charinfo	캐릭터
+ids_textclient_limithp	푸.. 포만감이 느껴집니다.(최대회복량을 넘었으므로 HP 회복량 감소)
+ids_textclient_limitmp	Cannot recover MP right now.
+ids_textclient_limitfp	기력 회복 량이 하락합니다.(FP 회복량 감소)
+ids_textclient_attentioncooltime	아이템을 다시 사용하기 위해서는 잠시 기다려주십시오.
+ids_textclient_death	Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.
+ids_textclient_mobpriority	다른 플레이어와 전투 중인 몬스터는 공격할 수 없습니다.
+ids_textclient_noquitcombat	전투 중에는 종료 할 수 없습니다.
+ids_textclient_levelup	레벨업! 상태창에서 능력치를 올릴 수 있습니다.
+ids_textclient_levelup_caption	레벨업!!
+ids_textclient_charstatus_apply_q	현재 설정으로 GP포인트를 사용하시겠습니까?
+ids_textclient_charstatus_firstjob	전직 퀘스트를 완수하면 스탯이 초기화 됩니다.
+ids_textclient_admin_state	상태
+ids_textclient_admin_normal	일반
+ids_textclient_speed_veryslow	매우 느림
+ids_textclient_speed_low	느림
+ids_textclient_speed_normal	일반
+ids_textclient_speed_fast	빠름
+ids_textclient_speed_veryfast	매우 빠름
+ids_textclient_speed_fastest	가장 빠름
+ids_textclient_itempriority	%s은(는) 다른 플레이어의 소유로 바로 집을 수 없습니다. 잠시만 기다려주십시오.
+ids_textclient_lackspace	인벤토리에 여유 공간이 부족합니다.
+ids_textclient_reapitem	%s을(를) 얻었습니다.
+ids_textclient_app_inventory	인벤토리
+ids_textclient_reapmoney	%s 페냐를 얻었습니다. (총 %s 페냐)
+ids_textclient_error_sex	%s을(를) 사용하기에는 성별이 맞지 않습니다.
+ids_textclient_error_job	%s은(는) 현재 직업에 맞지 않습니다.
+ids_textclient_error_level	레벨이 낮아 장착할 수 없습니다. (필요레벨 : %s)
+ids_textclient_error_undestructable	해당 아이템은 삭제하거나, 땅에 떨어트릴 수 없습니다.
+ids_textclient_error_usingitem	사용중인 아이템입니다.
+ids_textclient_successremoveitem	%s 아이템이 %s개 삭제 되었습니다.
+ids_textclient_notarget	타겟이 안 잡혀 있거나 몬스터가 아니어서 사용할 수 없습니다.
+ids_textclient_notuse	아직 사용할 수 없습니다.
+ids_textclient_error_notlevel	레벨이 낮아 사용할 수 없습니다.
+ids_textclient_block_pm	%s님은 귓속말/메신저 채팅 거부 상태입니다.
+ids_textclient_error_link_pm	You must link your character to an account to send private messages.
+ids_textclient_yettrade	이미 친구 등록 신청 중이어서 신청하실 수 없습니다. 잠시 후에 다시 신청해주십시오.
+ids_textclient_itemnotuse_trading	거래 중에는 아이템을 사용할 수 없습니다.
+ids_textclient_redchip	(레드칩)
+ids_textclient_error_equiptrade	장착 중인 아이템은 판매할 수 없습니다. 장착 해제한 후 판매해주십시오.
+ids_textclient_error_npcbufflevel	%s ~ %s 레벨만 %s 버프를 받을 수 있습니다.
+ids_textclient_error_npcbufffail	해당 스킬을 사용 중이기 때문에 %s을(를) 사용할 수 없습니다.
+ids_textclient_unregistered	Unregistered
+ids_textclient_level15job	전직이 가능한 레벨이 되었습니다.
+ids_textclient_changejob	%s이(가) 되었습니다.

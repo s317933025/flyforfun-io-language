@@ -1,0 +1,352 @@
+IDS_MMI_311	반짝 반짝 카드 교환
+IDS_MMI_312	행운 상자 교환
+IDS_MMI_333	여성용 155 레벨 크랙슈터 방어구 아이템 교환
+IDS_MMI_334	남성용 155 레벨 크랙슈터 방어구 아이템 교환
+IDS_MMI_347	155 레벨 크랙슈터 전용 무기 교환
+IDS_MMI_343	여성용 155 레벨 엘리멘탈 로드 방어구 아이템 교환
+IDS_MMI_344	남성용 155 레벨 엘리멘탈 로드 방어구 아이템 교환
+IDS_MMI_352	155 레벨 엘리멘탈 로드 전용 무기 교환
+IDS_MMI_337	여성용 155 레벨 플로리스트 방어구 아이템 교환
+IDS_MMI_338	남성용 155 레벨 플로리스트 방어구 아이템 교환
+IDS_MMI_349	155 레벨 플로리스트 전용 무기 교환
+IDS_MMI_339	여성용 155 레벨 포스마스터 방어구 아이템 교환
+IDS_MMI_340	남성용 155 레벨 포스마스터 방어구 아이템 교환
+IDS_MMI_350	155 레벨 포스마스터 전용 무기 교환
+IDS_MMI_329	여성용 155 레벨 로드 템플러 방어구 아이템 교환
+IDS_MMI_330	남성용 155 레벨 로드 템플러 방어구 아이템 교환
+IDS_MMI_345	155 레벨 로드 템플러 전용 무기 교환
+IDS_MMI_341	여성용 155 레벨 멘탈리스트 방어구 아이템 교환
+IDS_MMI_342	남성용 155 레벨 멘탈리스트 방어구 아이템 교환
+IDS_MMI_351	155 레벨 멘탈리스트 전용 무기 교환
+IDS_MMI_353	155 레벨 방패 및 책 교환
+IDS_MMI_331	여성용 155 레벨 스톰 블레이드 템플러 방어구 아이템 교환
+IDS_MMI_332	남성용 155 레벨 스톰 블레이드 템플러 방어구 아이템 교환
+IDS_MMI_346	155 레벨 스톰 블레이드 전용 무기 교환
+IDS_MMI_335	여성용 155 레벨 윈드러커 방어구 아이템 교환
+IDS_MMI_336	남성용 155 레벨 윈드러커 방어구 아이템 교환
+IDS_MMI_348	155 레벨 윈드러커 전용 무기 교환
+IDS_MMI_305	여성 방어구 토큰 교환
+IDS_MMI_304	남성 방어구 토큰 교환
+IDS_MMI_303	무기 토큰 교환
+IDS_MMI_5	메신저에 추가
+IDS_MMI_80	아레나 지역 입장
+IDS_MMI_81	아레나 지역 퇴장
+IDS_MMI_321	추석 방어구 상자 교환(나이트/블레이드/사이키퍼/엘리멘터)
+IDS_MMI_322	추석 방어구 상자 교환(빌포스터/링마스터/제스터/레인저)
+IDS_MMI_59	속성제련 제거
+IDS_MMI_9	보관
+IDS_MMI_237	바루나속성제련
+IDS_MMI_308	바루나 얼터멋 변환
+IDS_MMI_238	바루나각성
+IDS_MMI_239	바루나각성취소
+IDS_MMI_13	
+IDS_MMI_42	메이크업
+IDS_MMI_251	속성제련된 베히모스의 우든 보우를 보상아이템으로 교환
+IDS_MMI_253	속성제련된 베히모스의 우든 너클을 보상아이템으로 교환
+IDS_MMI_250	속성제련된 베히모스의 우든 엑스를 보상아이템으로 교환
+IDS_MMI_249	속성제련된 베히모스의 우든소드를 보상아이템으로 교환
+IDS_MMI_256	속성제련된 베히모스의 우든 스태프를 보상아이템으로 교환
+IDS_MMI_254	속성제련된 베히모스의 우든 스틱을 보상아이템으로 교환
+IDS_MMI_248	속성제련된 베히모스의 우든 투핸드 엑스를 보상아이템으로 교환
+IDS_MMI_247	속성제련된 베히모스의 우든 투핸드 소드를 보상아이템으로 교환
+IDS_MMI_255	속성제련된 베히모스의 우든 완드를 보상아이템으로 교환
+IDS_MMI_252	속성제련된 베히모스의 우든 요요를 보상아이템으로 교환
+IDS_MMI_79	여신의 축복 취소
+IDS_MMI_142	버프펫 해제
+IDS_MMI_141	버프펫 상태
+IDS_MMI_309	카드 업그레이드
+IDS_MMI_20	속성 강화
+IDS_MMI_169	컬러 에그바구니 교환
+IDS_MMI_153	MARRY CHRISTMAS
+IDS_MMI_140	교환권 교환
+IDS_MMI_31	응원하기
+IDS_MMI_286	캔디케인 교환
+IDS_MMI_269	
+IDS_MMI_207	크리스마스 토큰 1개를 선물로 교환
+IDS_MMI_208	크리스마스 토큰 25개를 선물로 교환
+IDS_MMI_209	크리스마스 토큰 50개를 선물로 교환
+IDS_MMI_210	크리스마스 토큰 75개를 선물로 교환
+IDS_MMI_211	크리스마스 토큰 100개를 선물로 교환
+IDS_MMI_284	곰인형 교환
+IDS_MMI_297	곰인형 교환
+IDS_MMI_298	크리스마스 토큰 교환
+IDS_MMI_299	크리스마스 메달 교환
+IDS_MMI_300	황금색 눈의 결정 교환
+IDS_MMI_301	매직스틱 교환
+IDS_MMI_285	황금색 눈의 결정 교환
+IDS_MMI_302	클로버 교환
+IDS_MMI_75	일반 조각 교환
+IDS_MMI_76	카드 조각 교환
+IDS_MMI_310	카드 조각 교환
+IDS_MMI_205	콜로세움 입장
+IDS_MMI_206	랭킹
+IDS_MMI_263	증표로 기타 보상 아이템 교환
+IDS_MMI_264	증표로 초급 투사의 무기 교환
+IDS_MMI_265	증표로 중급 투사의 무기 교환
+IDS_MMI_266	증표로 고급 투사의 무기 교환
+IDS_MMI_204	
+IDS_MMI_212	코스튬 재료 구입
+IDS_MMI_214	코스튬 합성
+IDS_MMI_213	코스튬 재료 판매
+IDS_MMI_313	OMG증서(빨강) 교환
+IDS_MMI_314	OMG증서(노랑) 교환
+IDS_MMI_315	OMG증서(파랑) 교환
+IDS_MMI_316	OMG증서(초록) 교환
+IDS_MMI_317	버프상자 교환
+IDS_MMI_318	파워업 상자 교환
+IDS_MMI_319	제련 상자 교환
+IDS_MMI_267	크리스 마스 토큰으로 아이템 교환
+IDS_MMI_231	리턴즈 업데이트 기념 주화로 아이템 교환
+IDS_MMI_229	5000 페냐를 데저트 카드로 교환
+IDS_MMI_0	대화
+IDS_MMI_215	기부하기
+IDS_MMI_216	기부자 순위 보기
+IDS_MMI_10	듀얼 신청
+IDS_MMI_11	극단 듀얼 신청
+IDS_MMI_262	엘딘의 항아리
+IDS_MMI_280	블루칩으로 방어구 박스 교환
+IDS_MMI_282	골드칩 상점
+IDS_MMI_281	블루칩으로 무기 박스 교환
+IDS_MMI_189	바루나 등급의 아이템은 각성 할 수 없습니다.
+IDS_MMI_241	전투 지역 입장
+IDS_MMI_271	해피머니 교환
+IDS_MMI_128	벚꽃상자 교환
+IDS_MMI_131	벚꽃 상자 교환
+IDS_MMI_176	사랑의 꽃바구니 교환
+IDS_MMI_177	롯토의 선물 상자 교환
+IDS_MMI_106	이벤트 카드 교환
+IDS_MMI_127	새학기 이벤트
+IDS_MMI_166	FITA 이벤트
+IDS_MMI_130	사랑의 물 교환
+IDS_MMI_82	해피머니 교환
+IDS_MMI_83	해피머니 교환
+IDS_MMI_172	해피머니 이벤트
+IDS_MMI_168	복주머니 교환
+IDS_MMI_175	칠석이벤트
+IDS_MMI_57	행복한 가정의 달 만들기 대 작전
+IDS_MMI_129	보물상자 교환
+IDS_MMI_125	리스테트 쿠폰 교환
+IDS_MMI_133	가위바위보 쿠폰 교환
+IDS_MMI_121	이벤트 아이템 교환
+IDS_MMI_170	가위바위보 쿠폰 교환
+IDS_MMI_190	
+IDS_MMI_132	미국 가위바위보 쿠폰 교환
+IDS_MMI_174	월드컵 교환(해외)
+IDS_MMI_173	월드컵 교환
+IDS_MMI_232	용맹함의 증표를 보상 아이템으로 교환
+IDS_MMI_99	방어구 피어싱 카드 변환
+IDS_MMI_98	무기 피어싱 카드 변환
+IDS_MMI_105	패션 쿠폰 이벤트
+IDS_MMI_3	대결
+IDS_MMI_45	단어맞추기 게임
+IDS_MMI_223	전나무 씨앗 200개, 가득차 보이는 물통 200개를 전나무 묘목으로 교환
+IDS_MMI_46	오곱(주사위) 게임
+IDS_MMI_228	50,000 페냐를 속성 카드로 교환
+IDS_MMI_276	프리프 쿠폰 샵
+IDS_MMI_277	프리프 조각 교환
+IDS_MMI_230	글자 조각으로 보상 아이템 교환
+IDS_MMI_184	바루나의 가호 아이템을 등록해 주십시요.
+IDS_MMI_162	욕조
+IDS_MMI_154	침대
+IDS_MMI_221	장식장
+IDS_MMI_164	카펫
+IDS_MMI_159	책장
+IDS_MMI_158	의자
+IDS_MMI_160	화장대
+IDS_MMI_222	크리스탈
+IDS_MMI_157	책상
+IDS_MMI_163	협탁
+IDS_MMI_143	가구정보
+IDS_MMI_187	유니크 미만의 무기 및 방어구 만 추출이 가능합니다.
+IDS_MMI_186	오퍼 융합제를 등록해 주십시요.
+IDS_MMI_185	오퍼 결정체를 등록해 주십시요.
+IDS_MMI_145	해체
+IDS_MMI_144	재설치
+IDS_MMI_156	소파
+IDS_MMI_155	테이블
+IDS_MMI_188	전투 상태에서는 해당 스킬을 사용 할 수 없습니다.
+IDS_MMI_165	벽지
+IDS_MMI_161	옷장
+IDS_MMI_15	길드 창고
+IDS_MMI_61	1vs1길드대전 취소하기
+IDS_MMI_64	1vs1길드대전 입장하기
+IDS_MMI_67	1vs1길드대전 참가안내
+IDS_MMI_66	1vs1길드대전 상품 안내
+IDS_MMI_68	1vs1길드대전 기본규칙
+IDS_MMI_65	1vs1길드대전 수수료 안내
+IDS_MMI_69	1vs1길드대전 승리조건
+IDS_MMI_60	1vs1길드대전 신청하기
+IDS_MMI_62	1vs1길드대전 현황보기
+IDS_MMI_70	1vs1 길드대전 신청금 수령
+IDS_MMI_63	1vs1길드대전 참가자 구성
+IDS_MMI_36	MVP상금 수령
+IDS_MMI_37	참가안내
+IDS_MMI_38	기본규칙
+IDS_MMI_39	승리조건
+IDS_MMI_40	수수료 안내
+IDS_MMI_34	신청금 수령
+IDS_MMI_35	상품 안내
+IDS_MMI_41	신청금 반환
+IDS_MMI_30	랭킹보기
+IDS_MMI_33	참가자 구성
+IDS_MMI_171	중형 길드하우스 입찰
+IDS_MMI_148	유지비 입금
+IDS_MMI_149	길드하우스 입장
+IDS_MMI_191	
+IDS_MMI_192	
+IDS_MMI_150	길드하우스 퇴장
+IDS_MMI_147	길드하우스 구입(소형)
+IDS_MMI_26	신청하기
+IDS_MMI_28	취소하기
+IDS_MMI_29	입장하기
+IDS_MMI_27	현황보기
+IDS_MMI_293	할로윈 캔디 박스 교환
+IDS_MMI_244	꿀송편 10개와 50,000 페냐를 가위바위보 쿠폰 1장으로 교환
+IDS_MMI_97	심연의 탑
+IDS_MMI_198	A카드 4장 - [The Bank Jack Box] 교환
+IDS_MMI_199	K카드 4장 - [Grand Jack Box] 교환
+IDS_MMI_200	Q카드 4장 - [Large Jack Box] 교환
+IDS_MMI_201	J카드 4장 - [Normal Jack Box] 교환
+IDS_MMI_202	K,Q,J,10 카드 각각 1장 - [Small Jack Box] 교환
+IDS_MMI_21	현상금 걸기
+IDS_MMI_151	
+IDS_MMI_7	길드 초청
+IDS_MMI_6	극단 초청
+IDS_MMI_73	아이템 각성
+IDS_MMI_126	아이템 트랜지
+IDS_MMI_197	스페셜 제련 박스 교환
+IDS_MMI_306	Golden Piggy 2015 Exchange
+IDS_MMI_44	가위바위보 게임
+IDS_MMI_56	영웅 스킬업
+IDS_MMI_268	아이템 외형 변경
+IDS_MMI_94	군주 전용 이벤트
+IDS_MMI_101	군주 안내
+IDS_MMI_107	레인보우 레이스 참가 신청
+IDS_MMI_112	레인보우 레이스 종료 확인
+IDS_MMI_109	레인보우 레이스의 규칙
+IDS_MMI_110	레인보우 레이스 지난 순위
+IDS_MMI_108	레인보우 레이스 란?
+IDS_MMI_111	레인보우 레이스 상금 소개
+IDS_MMI_115	사칙연산
+IDS_MMI_118	기억해! 카드 맞추기
+IDS_MMI_114	주사위 굴려! 굴려!
+IDS_MMI_113	가위,바위,보 게임
+IDS_MMI_119	알 수 없는 사다리 타기
+IDS_MMI_116	스톱워치 순발력 게임
+IDS_MMI_117	황당 타자 치기
+IDS_MMI_102	반환금 안내
+IDS_MMI_91	후보 등록 현황
+IDS_MMI_92	군주 후보 입찰
+IDS_MMI_93	군주 투표
+IDS_MMI_71	착용 레벨 하락 취소
+IDS_MMI_307	캐쥬얼 한복 세트 교환
+IDS_MMI_257	나뭇잎을 보상아이템으로 교환
+IDS_MMI_270	마을로 이동
+IDS_MMI_245	마드리갈 시장 이동
+IDS_MMI_258	거래 중개창
+IDS_MMI_8	장소 지정
+IDS_MMI_4	메시지
+IDS_MMI_278	음표 아이템으로 보상아이템 교환
+IDS_MMI_279	플라미의 기타를 은하수 기타로 교환
+IDS_MMI_74	초보자 버프받기
+IDS_MMI_325	프리미엄 버프받기
+IDS_MMI_224	배나무 씨앗 400개, 가득차 보이는 물통 400개를 배나무 묘목으로 교환
+IDS_MMI_226	감나무 씨앗 300개, 가득차 보이는 물통 300개를 감나무 묘목으로 교환
+IDS_MMI_104	픽업펫 각성 취소
+IDS_MMI_96	알 변환
+IDS_MMI_48	리어펫 먹이 주기
+IDS_MMI_58	먹이 제조기
+IDS_MMI_50	리어펫 해제
+IDS_MMI_77	리어펫 부활의 두루마리 조각 교환
+IDS_MMI_78	리어펫 부활의 두루마리 교환
+IDS_MMI_49	리어펫 상태
+IDS_MMI_23	피어싱
+IDS_MMI_32	피어싱 카드 제거
+IDS_MMI_225	소나무 씨앗 1000개, 가득차 보이는 물통 1000개를 소나무 묘목으로 교환
+IDS_MMI_272	가위바위보 쿠폰 교환
+IDS_MMI_25	우편함
+IDS_MMI_24	살펴보기
+IDS_MMI_1	퀘스트
+IDS_MMI_137	퀴즈입장
+IDS_MMI_139	마을로 이동
+IDS_MMI_138	퀴즈참여
+IDS_MMI_16	길드  랭킹
+IDS_MMI_18	길드 기타랭킹
+IDS_MMI_17	길드전 승패랭킹
+IDS_MMI_47	퍼즐 게임
+IDS_MMI_152	
+IDS_MMI_120	리어펫 작명 취소
+IDS_MMI_14	수리
+IDS_MMI_124	미니룸 퇴장
+IDS_MMI_227	50,000 페냐를 베히모스 우든 무기로 교환
+IDS_MMI_273	용왕의상 교환
+IDS_MMI_274	용왕가면(남) 성능교환
+IDS_MMI_275	용왕가면(여) 성능교환
+IDS_MMI_90	비밀의 방 안내
+IDS_MMI_103	비밀의 방 신청취소
+IDS_MMI_87	비밀의 방 입장
+IDS_MMI_100	점령길드 전용 사냥터 입장
+IDS_MMI_84	비밀의 방 신청하기
+IDS_MMI_85	비밀의 방 신청현황
+IDS_MMI_86	비밀의 방 참가자 구성
+IDS_MMI_88	
+IDS_MMI_89	세율 확인
+IDS_MMI_22	현상범 리스트 보기
+IDS_MMI_54	유니크 웨폰 변환
+IDS_MMI_55	얼터멋 웨폰 변환
+IDS_MMI_53	보석 추출
+IDS_MMI_52	얼터멋 웨폰 보석 합성
+IDS_MMI_324	코스튬 보석합성
+IDS_MMI_327	코스튬 합성
+IDS_MMI_51	빛나는 오리칼쿰 생성
+IDS_MMI_328	절대 강화 스크롤 합성
+IDS_MMI_95	얼터멋 웨폰 보석 제거
+IDS_MMI_326	코스튬 보석 제거
+IDS_MMI_72	피어싱 옵션 제거
+IDS_MMI_135	안전제련(액세서리)
+IDS_MMI_323	안전 제련(코스튬)
+IDS_MMI_167	안전제련(속성)
+IDS_MMI_134	안전제련(일반)
+IDS_MMI_136	안전제련(피어싱)
+IDS_MMI_283	제련된 베가의 빛으로 아이템 교환
+IDS_MMI_43	엔젤 소환
+IDS_MMI_179	오퍼 추출
+IDS_MMI_182	시드 제작
+IDS_MMI_180	오퍼 제작
+IDS_MMI_183	오퍼시드 제작
+IDS_MMI_203	바루나피어싱
+IDS_MMI_178	바루나 제련
+IDS_MMI_181	시드 제작 및 업그레이드
+IDS_MMI_146	텔레포트 이동
+IDS_MMI_233	삭제
+IDS_MMI_234	전체삭제
+IDS_MMI_235	이름변경
+IDS_MMI_236	닫기
+IDS_MMI_12	따라가기
+IDS_MMI_2	거래
+IDS_MMI_246	OMG 용사 세트 교환
+IDS_MMI_242	상자 교환하기
+IDS_MMI_260	양손 무기 합성
+IDS_MMI_261	양손 무기 합성 취소
+IDS_MMI_19	제련
+IDS_MMI_259	호박 10개와 100,000 페냐를 가위바위보 쿠폰으로 교환
+IDS_MMI_287	발렌타인 선물교환
+IDS_MMI_288	사랑의증표 교환
+IDS_MMI_123	친구 미니룸 입장
+IDS_MMI_122	미니룸 입장
+IDS_MMI_320	추석 무기 상자 교환
+IDS_MMI_217	화이트데이 교환
+IDS_MMI_218	재료를 모아 성별에 따라 다른 보상과 교환하세요. 또한, 러브 초콜릿과 사랑의 꽃다발을 모아오면 사랑의 증표로 바꿔드려요
+IDS_MMI_219	마법의 실타래 500개를 노란색 코르사주(여)로 교환
+IDS_MMI_220	염색제500개를 파란색 코르사주(여)로 교환
+IDS_MMI_289	
+IDS_MMI_290	
+IDS_MMI_291	
+IDS_MMI_292	
+IDS_MMI_296	포도의 씨 교환
+IDS_MMI_294	포도의 씨 교환
+IDS_MMI_295	포도의 씨 교환
+IDS_MMI_193	좀비헌터 토큰 교환
+IDS_MMI_194	좀비 토큰 6개를 좀비 헌터 박스 8개로 교환
+IDS_MMI_195	좀비 토큰 15개를 좀비 헌터 망토 1개로 교환
+IDS_MMI_196	좀비 토큰 35개를 생존자 망토 1개로 교환

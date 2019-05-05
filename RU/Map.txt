@@ -1,0 +1,269 @@
+IDS_PROPMAP_TXT_000000	
+IDS_PROPMAP_TXT_000001	Карта мира
+IDS_PROPMAP_TXT_000002	Регионы
+IDS_PROPMAP_TXT_000003	Города
+IDS_PROPMAP_TXT_000004	Мадригал
+IDS_PROPMAP_TXT_000005	Даркон-1;2
+IDS_PROPMAP_TXT_000006	Даркон-3
+IDS_PROPMAP_TXT_000007	Райсский сад
+IDS_PROPMAP_TXT_000008	Санто Морген
+IDS_PROPMAP_TXT_000009	Фларинция
+IDS_PROPMAP_TXT_000010	Тенетар
+IDS_PROPMAP_TXT_000011	Гринд-каньон
+IDS_PROPMAP_TXT_000012	Фларинция
+IDS_PROPMAP_TXT_000013	Санто
+IDS_PROPMAP_TXT_000014	Даркенбург
+IDS_PROPMAP_TXT_000015	Бафрика
+IDS_PROPMAP_TXT_000016	Каттар
+IDS_PROPMAP_TXT_000017	Писатель Гервантес
+IDS_PROPMAP_TXT_000018	Парикмахер
+IDS_PROPMAP_TXT_000019	Магистр борцов Палладис
+IDS_PROPMAP_TXT_000020	Мастер войны Франц
+IDS_PROPMAP_TXT_000021	Мастер войны Эрнест
+IDS_PROPMAP_TXT_000022	Мастер Старой башни
+IDS_PROPMAP_TXT_000023	Визажист Пола Старр
+IDS_PROPMAP_TXT_000024	Магистр униформистов Макей
+IDS_PROPMAP_TXT_000025	Продавец PvP наград Монти
+IDS_PROPMAP_TXT_000026	Казначей Пенни
+IDS_PROPMAP_TXT_000027	Казначей Анна
+IDS_PROPMAP_TXT_000028	Избирелла
+IDS_PROPMAP_TXT_000029	Лотто Рей
+IDS_PROPMAP_TXT_000030	Домовладелица Берта
+IDS_PROPMAP_TXT_000031	Мастер войны Лай
+IDS_PROPMAP_TXT_000032	Людор
+IDS_PROPMAP_TXT_000033	Бубохан
+IDS_PROPMAP_TXT_000034	Ювелир Персеида
+IDS_PROPMAP_TXT_000035	Мастер Тайной комнаты
+IDS_PROPMAP_TXT_000036	Домовладелец Джейсон
+IDS_PROPMAP_TXT_000037	Луи
+IDS_PROPMAP_TXT_000038	Диор
+IDS_PROPMAP_TXT_000039	Историк Мартиника
+IDS_PROPMAP_TXT_000040	Инженер Джефф
+IDS_PROPMAP_TXT_000041	Бобохан
+IDS_PROPMAP_TXT_000042	Мастер Бабохан
+IDS_PROPMAP_TXT_000043	Джулия
+IDS_PROPMAP_TXT_000044	Секретарь мэра
+IDS_PROPMAP_TXT_000045	Укротитель
+IDS_PROPMAP_TXT_000046	Исилия
+IDS_PROPMAP_TXT_000047	Мэр Фларинции
+IDS_PROPMAP_TXT_000048	Иса
+IDS_PROPMAP_TXT_000049	Алиса
+IDS_PROPMAP_TXT_000050	Пингвид-иллюзионист
+IDS_PROPMAP_TXT_000051	Исмеральда
+IDS_PROPMAP_TXT_000052	Аркания
+IDS_PROPMAP_TXT_000053	Ррежу
+IDS_PROPMAP_TXT_000054	Леля
+IDS_PROPMAP_TXT_000055	Микаэла
+IDS_PROPMAP_TXT_000056	Марша
+IDS_PROPMAP_TXT_000057	Люша
+IDS_PROPMAP_TXT_000058	Исида
+IDS_PROPMAP_TXT_000059	Вербовщица униформистов Айя
+IDS_PROPMAP_TXT_000060	Инструктор униформистов Кидма
+IDS_PROPMAP_TXT_000061	Тиша
+IDS_PROPMAP_TXT_000062	Гаспаччо
+IDS_PROPMAP_TXT_000063	Эона
+IDS_PROPMAP_TXT_000064	Вербовщица борцов Зендра
+IDS_PROPMAP_TXT_000065	Инструктор борцов Хайята
+IDS_PROPMAP_TXT_000066	Тумба
+IDS_PROPMAP_TXT_000067	Галада
+IDS_PROPMAP_TXT_000068	Сотби
+IDS_PROPMAP_TXT_000069	Санто
+IDS_PROPMAP_TXT_000070	Мартин
+IDS_PROPMAP_TXT_000071	Герда
+IDS_PROPMAP_TXT_000072	Колак
+IDS_PROPMAP_TXT_000073	Бозман
+IDS_PROPMAP_TXT_000074	Тетушка Карина
+IDS_PROPMAP_TXT_000075	Ольгерд
+IDS_PROPMAP_TXT_000076	Лианна
+IDS_PROPMAP_TXT_000077	Билл
+IDS_PROPMAP_TXT_000078	Энни
+IDS_PROPMAP_TXT_000079	Пат Тинкертон
+IDS_PROPMAP_TXT_000080	Вербовщица фокусников Брисеида
+IDS_PROPMAP_TXT_000081	Мусорщик
+IDS_PROPMAP_TXT_000082	Фрэнки Штейн
+IDS_PROPMAP_TXT_000083	Магистр фокусников Хия
+IDS_PROPMAP_TXT_000084	Инга
+IDS_PROPMAP_TXT_000085	Булрокс
+IDS_PROPMAP_TXT_000086	Кимберли
+IDS_PROPMAP_TXT_000087	Мастер войны Лай
+IDS_PROPMAP_TXT_000088	Укротитель
+IDS_PROPMAP_TXT_000089	Мэр Санто Клаус
+IDS_PROPMAP_TXT_000090	Ланкоми
+IDS_PROPMAP_TXT_000091	Жанна
+IDS_PROPMAP_TXT_000092	Инструктор фокусников Лиопа
+IDS_PROPMAP_TXT_000093	Пингвид-иллюзионист
+IDS_PROPMAP_TXT_000094	Архивариус Ровена
+IDS_PROPMAP_TXT_000095	Председатель Шлесигер
+IDS_PROPMAP_TXT_000096	Алиса
+IDS_PROPMAP_TXT_000097	Элена
+IDS_PROPMAP_TXT_000098	Пери
+IDS_PROPMAP_TXT_000099	Тина
+IDS_PROPMAP_TXT_000100	Свин-мусорщик
+IDS_PROPMAP_TXT_000101	Тренбрен из "Погорелого театра"
+IDS_PROPMAP_TXT_000102	Вьен Ли из "Погорелого театра"
+IDS_PROPMAP_TXT_000103	Тутси из "Погорелого театра"
+IDS_PROPMAP_TXT_000104	Руминер из "Погорелого театра"
+IDS_PROPMAP_TXT_000105	Чарли из "Погорелого театра"
+IDS_PROPMAP_TXT_000106	Броди из "Погорелого театра"
+IDS_PROPMAP_TXT_000107	Даркенбург
+IDS_PROPMAP_TXT_000108	Инструктор акробатов Тайли
+IDS_PROPMAP_TXT_000109	Бутчер
+IDS_PROPMAP_TXT_000110	Кринтон
+IDS_PROPMAP_TXT_000111	Мастер Рения
+IDS_PROPMAP_TXT_000112	Магистр шутов Лорена
+IDS_PROPMAP_TXT_000113	Магистр факиров Ориона
+IDS_PROPMAP_TXT_000114	Магистр манипуляторов Хлоя
+IDS_PROPMAP_TXT_000115	Магистр атлетов Рита
+IDS_PROPMAP_TXT_000116	Красный радужный клоун
+IDS_PROPMAP_TXT_000117	Мастер Тайной комнаты
+IDS_PROPMAP_TXT_000118	Мэр Даркенбурга
+IDS_PROPMAP_TXT_000119	Магистр акробатов Пайр
+IDS_PROPMAP_TXT_000120	Мастер войны Лай
+IDS_PROPMAP_TXT_000121	Вербовщик акробатов Санни
+IDS_PROPMAP_TXT_000122	Амфора
+IDS_PROPMAP_TXT_000123	Рамина
+IDS_PROPMAP_TXT_000124	Рукер
+IDS_PROPMAP_TXT_000125	Высокий карлик Лийкин
+IDS_PROPMAP_TXT_000126	Магистр стрелков Элифа
+IDS_PROPMAP_TXT_000127	Магистр иллюзионистов Элинда
+IDS_PROPMAP_TXT_000128	Магистр фехтовальщиков Корелия
+IDS_PROPMAP_TXT_000129	Инструктор гладиаторов Карана
+IDS_PROPMAP_TXT_000130	Укротитель
+IDS_PROPMAP_TXT_000131	Мадам Хельга
+IDS_PROPMAP_TXT_000132	Алан
+IDS_PROPMAP_TXT_000133	Луиза
+IDS_PROPMAP_TXT_000134	Профессор Инесса
+IDS_PROPMAP_TXT_000135	Алиса
+IDS_PROPMAP_TXT_000136	Пингвид-иллюзионист
+IDS_PROPMAP_TXT_000137	Мусорщик
+IDS_PROPMAP_TXT_000138	Бернард
+IDS_PROPMAP_TXT_000139	Апчхен
+IDS_PROPMAP_TXT_000140	Кубла
+IDS_PROPMAP_TXT_000141	Джучи
+IDS_PROPMAP_TXT_000142	Жрица стрелков Рупия
+IDS_PROPMAP_TXT_000143	Андре
+IDS_PROPMAP_TXT_000144	Чинбиз
+IDS_PROPMAP_TXT_000145	Тахир
+IDS_PROPMAP_TXT_000146	Жрица факиров Кендра
+IDS_PROPMAP_TXT_000147	Тенетар
+IDS_PROPMAP_TXT_000148	Христоф
+IDS_PROPMAP_TXT_000149	Люк
+IDS_PROPMAP_TXT_000150	Джон Индиана
+IDS_PROPMAP_TXT_000151	Мачо Пикча
+IDS_PROPMAP_TXT_000152	Ласка
+IDS_PROPMAP_TXT_000153	Каттар
+IDS_PROPMAP_TXT_000154	Вождь Раджакс
+IDS_PROPMAP_TXT_000155	Миоранг
+IDS_PROPMAP_TXT_000156	Коттиш
+IDS_PROPMAP_TXT_000157	Укротительница Ширра
+IDS_PROPMAP_TXT_000158	Монкс
+IDS_PROPMAP_TXT_000159	Манкс
+IDS_PROPMAP_TXT_000160	Мэнкс
+IDS_PROPMAP_TXT_000161	Рина
+IDS_PROPMAP_TXT_000162	Больд
+IDS_PROPMAP_TXT_000163	Домовладелец Джейсон
+IDS_PROPMAP_TXT_000164	Домовладелица Белла
+IDS_PROPMAP_TXT_000165	Джекки Блэк
+IDS_PROPMAP_TXT_000166	Джаггернаут Стэн
+IDS_PROPMAP_TXT_000167	Штурмовик Миярун
+IDS_PROPMAP_TXT_000168	Дуэлянт Карл
+IDS_PROPMAP_TXT_000169	Эквилибрист Мяугли
+IDS_PROPMAP_TXT_000170	Бахира
+IDS_PROPMAP_TXT_000171	Корниш
+IDS_PROPMAP_TXT_000172	Шамира
+IDS_PROPMAP_TXT_000173	Страж Баст
+IDS_PROPMAP_TXT_000174	Визажист Делла Рента
+IDS_PROPMAP_TXT_000175	Эдвард-младший
+IDS_PROPMAP_TXT_000176	Пиромант Сиам
+IDS_PROPMAP_TXT_000177	Мнемоник Аурелия
+IDS_PROPMAP_TXT_000178	Гипнотизер Крессида
+IDS_PROPMAP_TXT_000179	Чемпион Ракшас
+IDS_PROPMAP_TXT_000180	Продавец PvP наград Лас
+IDS_PROPMAP_TXT_000181	Мастер войны Канаан
+IDS_PROPMAP_TXT_000182	Мау
+IDS_PROPMAP_TXT_000183	Вейдер Кан
+IDS_PROPMAP_TXT_000184	Доктор Если
+IDS_PROPMAP_TXT_000185	Мусорщик
+IDS_PROPMAP_TXT_000186	Вейдер Хеймдал
+IDS_PROPMAP_TXT_000187	Старейшина гладиаторов Гермес
+IDS_PROPMAP_TXT_000188 	Мудрец Энвидий
+IDS_PROPMAP_TXT_000189	Мудрец Киммел
+IDS_PROPMAP_TXT_000190	Старейшина факиров Казрел
+IDS_PROPMAP_TXT_000191	Старейшина иллюзионистов Клам
+IDS_PROPMAP_TXT_000192	Старейшина фехтовальщиков Габриэль
+IDS_PROPMAP_TXT_000193	Мудрец Радеон
+IDS_PROPMAP_TXT_000194	Старейшина манипуляторов Куаран
+IDS_PROPMAP_TXT_000195	Старейшина атлетов Доминик
+IDS_PROPMAP_TXT_000196	Карлик Тукани
+IDS_PROPMAP_TXT_000197	Высокий карлик Горипег
+IDS_PROPMAP_TXT_000198	Высокий карлик Лангдронг
+IDS_PROPMAP_TXT_000199	Высокий карлик Гастан
+IDS_PROPMAP_TXT_000200	Бэддини
+IDS_PROPMAP_TXT_000201	Гачалео
+IDS_PROPMAP_TXT_000202	Вейдер Горн
+IDS_PROPMAP_TXT_000203	Рональд
+IDS_PROPMAP_TXT_000204	Кармина
+IDS_PROPMAP_TXT_000205	Ата Миллений
+IDS_PROPMAP_TXT_000206	Нуар
+IDS_PROPMAP_TXT_000207	Фокусник Бэддини
+IDS_PROPMAP_TXT_000208	Доктор Иначе
+IDS_PROPMAP_TXT_000209	Май
+IDS_PROPMAP_TXT_000210	Падре Кармаччи
+IDS_PROPMAP_TXT_000211	Эзоп Четвертый
+IDS_PROPMAP_TXT_000212	Доктор То
+IDS_PROPMAP_TXT_000213	Колар Великолепный
+IDS_PROPMAP_TXT_000214	Гачалео
+IDS_PROPMAP_TXT_000215	Фокусник Бэддини
+IDS_PROPMAP_TXT_000216	Падре Кармаччи
+IDS_PROPMAP_TXT_000217	Таинственный привратник
+IDS_PROPMAP_TXT_000218	Нейн
+IDS_PROPMAP_TXT_000219	Ведьма Лола
+IDS_PROPMAP_TXT_000220	Жрица гладиаторов Лобейта
+IDS_PROPMAP_TXT_000221	Жрица шутов Омейта
+IDS_PROPMAP_TXT_000222	Жрица фехтовальщиков Гепардия
+IDS_PROPMAP_TXT_000223	Хранительница шутов Эйнгарда
+IDS_PROPMAP_TXT_000224	Хранительница манипуляторов Шейла
+IDS_PROPMAP_TXT_000225	Хранительница гладиаторов Бонни
+IDS_PROPMAP_TXT_000226	Хранительница факиров Венди
+IDS_PROPMAP_TXT_000227	Хранительница иллюзионистов Ромветта
+IDS_PROPMAP_TXT_000228	Хранительница атлетов Капифа
+IDS_PROPMAP_TXT_000229	Хранительница стрелков Калиарда
+IDS_PROPMAP_TXT_000230	Хранительница фехтовальщиков Сенсирити
+IDS_PROPMAP_TXT_000231	Жрица атлетов Фара
+IDS_PROPMAP_TXT_000232	Жрица манипуляторов Перея
+IDS_PROPMAP_TXT_000233	Жрица иллюзионистов Хейдана
+IDS_PROPMAP_TXT_000234  Продавец мисок Мисок
+IDS_PROPMAP_TXT_000235	Амадолар
+IDS_PROPMAP_TXT_000236 	Келл
+IDS_PROPMAP_TXT_000237 	Укротитель
+IDS_PROPMAP_TXT_000238 	Стелла
+IDS_PROPMAP_TXT_000239 	Фахам
+IDS_PROPMAP_TXT_000240	Пингвид-иллюзионист
+IDS_PROPMAP_TXT_000241	Беспредельная пустыня
+IDS_PROPMAP_TXT_000242	Подземелья
+IDS_PROPMAP_TXT_000243	Храм Судьбы
+IDS_PROPMAP_TXT_000244	Храм Несудьбы
+IDS_PROPMAP_TXT_000245	Храм Левеофана
+IDS_PROPMAP_TXT_000246	Погребальные катакомбы
+IDS_PROPMAP_TXT_000247 	Путешественник Селкирк
+IDS_PROPMAP_TXT_000248	Китти
+IDS_PROPMAP_TXT_000249	Пикси Боб
+IDS_PROPMAP_TXT_000250	Кора
+IDS_PROPMAP_TXT_000251	Неприкаянная тень
+IDS_PROPMAP_TXT_000252	Командор Неро
+IDS_PROPMAP_TXT_000253	Ученая Мириун
+IDS_PROPMAP_TXT_000254	Магистр фокусников Рина
+IDS_PROPMAP_TXT_000255	Вербовщица фокусников Минди
+IDS_PROPMAP_TXT_000256 	Инструктор фокусников Риндика
+IDS_PROPMAP_TXT_000257	Платные острова
+IDS_PROPMAP_TXT_000258	Коралловый остров
+IDS_PROPMAP_TXT_000259	Азрия
+IDS_PROPMAP_TXT_000260	Голопогосы
+IDS_PROPMAP_TXT_000261	Дикий Север
+IDS_PROPMAP_TXT_000262	Дикий Юг
+IDS_PROPMAP_TXT_000263	Марсова шахта
+IDS_PROPMAP_TXT_000264	Копи Умории
+IDS_PROPMAP_TXT_000265  Шахта Распада
+IDS_PROPMAP_TXT_000266	Храм Ужосса
+IDS_PROPMAP_TXT_000267	Летучий корабль
+IDS_PROPMAP_TXT_000268	Аномалия

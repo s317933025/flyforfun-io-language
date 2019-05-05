@@ -1,0 +1,2 @@
+IDS_WORLD_DUFLMAS_DUFLMAS_RGN_000000	フラリスダンジョン
+IDS_WORLD_DUFLMAS_DUFLMAS_RGN_000001    どことなく危険な雰囲気が漂う、不気味で薄暗い洞窟だ。

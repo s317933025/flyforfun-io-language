@@ -87,8 +87,3 @@ ids_textclient_yettrade	角色忙，請稍後再試
 ids_textclient_itemnotuse_trading	交易時無法使用
 ids_textclient_redchip	紅色卡片
 ids_textclient_error_equiptrade	卸下后方可出售
-ids_textclient_error_npcbufflevel	Only level %d~%d character can get buffs.
-ids_textclient_error_npcbufffail	You cannot use %s right now.
-ids_textclient_unregistered	Unregistered
-ids_textclient_level15job	Now it's time to choose your job.
-ids_textclient_changejob	Congratulations!  You have advanced to the %s job class.

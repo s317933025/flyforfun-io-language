@@ -1,0 +1,94 @@
+ids_textclient_connecting	接続中です。しばらくお待ちください。
+ids_textclient_cantconnect	接続できません。何度か試しても接続できない場合は、ネットワークの状態をご確認ください。
+ids_textclient_oldclient	Old version of client.
+ids_textclient_wrongserver	Wrong server identifier.
+ids_textclient_unknownerror	Unknown error, please try again.
+ids_textclient_alreadyconnected	Your character is already connected.
+ids_textclient_serverfull	This server is currently full, please wait a moment or select another server.
+ids_textclient_bigmonster	ジャイアントモンスターの出現
+ids_textclient_app_map	全体地図
+ids_textclient_app_option	ｵﾌﾟｼｮﾝ
+ids_textclient_app_logout	接続終了
+ids_textclient_app_quit	Quit
+ids_textclient_app_navigator	ナビゲーター
+ids_textclient_app_debug	デバッグ
+ids_textclient_loggingout	%d秒後、終了します。
+ids_textclient_logout	Do you want to disconnect? You will lose your character if you did not linked it to an account.
+ids_textclient_exit	プログラムを終了しますか?
+ids_textclient_disconnected	サーバから接続が解除されました。マスカレードオンラインを再起動してください。
+ids_textclient_creationdisabled	Character creation is disabled on this server.
+ids_textclient_optionreboot	You must restart the game for all changes to take effect.
+ids_textclient_maphidden	該当エリアは闇に覆われていてMAPを確認することができません。
+ids_textclient_item_desc	Description:
+ids_textclient_invalidcharacters	This name contains unauthorized characters.
+ids_textclient_invalidname	This name contains unauthorized words.
+ids_textclient_ipbanned	Your public internet address has been banned. Contact the administrator for more informations.
+ids_textclient_ipblocked	An important activity has been detected on your public internet address. Please wait %s before trying again.
+ids_textclient_secs	second(s)
+ids_textclient_mins	minute(s)
+ids_textclient_hours	hour(s)
+ids_textclient_sessionexpired	Your session has expired, please enter your login and password again.
+ids_textclient_admin	Admin
+ids_textclient_gamemaster	Game Master
+ids_textclient_app_chat	チャット
+ids_textclient_invalidlogin	Your login or password is invalid.
+ids_textclient_accountconnected	Your account is already connected.
+ids_textclient_nowposition	"現在の座標 : x = %f, y = %f, z = %f"
+ids_textclient_nottransself	You cannot send a PM to yourself.
+ids_textclient_playernotexist	%s does not exist or is not online.
+ids_textclient_app_notice	お知らせ
+ids_textclient_app_status	状態
+ids_textclient_playerinformation	%s Lv %d
+ids_textclient_blink_limit	現在使用中の同じアイテムは使用できません。
+ids_textclient_notsit_blink	座ってる状態では、ブリンクウィングの使用はできません。
+ids_textclient_stand_limit	キャラクターが通常に立っている状態でのみ、アイテムを使用できます。
+ids_textclient_flight_nouse	飛行中はご利用できません。
+ids_textclient_error_nofly	飛行禁止区域です。
+ids_textclient_error_notalk	You are not allowed to talk.
+ids_textclient_error_chatspam	You received 3 minutes penalty because of too much of chatting.
+ids_textclient_app_motion	モーション
+ids_textclient_app_charinfo	ｷｬﾗｸﾀｰ
+ids_textclient_limithp	うっぷ･･･もうお腹がいっぱいです。(ＨＰ回復量が減少)
+ids_textclient_limitmp	Cannot recover MP right now.
+ids_textclient_limitfp	持久力回復量が低下しています。(FP回復量減少)。
+ids_textclient_attentioncooltime	アイテムを再び使用するには、しばらくお待ちください。
+ids_textclient_death	Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.
+ids_textclient_mobpriority	他のキャラクターと戦闘中のモンスターは攻撃できません。
+ids_textclient_noquitcombat	戦闘中には終了できません。
+ids_textclient_levelup	レベルアップ！　キャラクターウィンドウから能力値をアップすることができます。
+ids_textclient_levelup_caption	レベルアップ!!
+ids_textclient_charstatus_apply_q	現在の設定でGPポイントを使いますか？
+ids_textclient_charstatus_firstjob	転職クエスト完了後にステータスが初期化されます。
+ids_textclient_admin_state	状態
+ids_textclient_admin_normal	一般
+ids_textclient_speed_veryslow	とても遅い
+ids_textclient_speed_low	遅い
+ids_textclient_speed_normal	一般
+ids_textclient_speed_fast	早い
+ids_textclient_speed_veryfast	とても早い
+ids_textclient_speed_fastest	非常に早い
+ids_textclient_itempriority	%sは他のキャラクターの所有です。
+ids_textclient_lackspace	空きがありません。
+ids_textclient_reapitem	%sを獲得しました。
+ids_textclient_app_inventory	インベントリ
+ids_textclient_reapmoney	%sぺニャを獲得しました。(総%sペニャ)
+ids_textclient_error_sex	%sを使うには、性別が合っていません。
+ids_textclient_error_job	%sは現在の職業では使用できません。
+ids_textclient_error_level	レベルが低いので装備できません。 (必要レベル：%s)。
+ids_textclient_error_undestructable	削除したり、地面に置くことができないアイテムです。
+ids_textclient_error_usingitem	使用中のアイテムです。
+ids_textclient_successremoveitem	%s アイテムが %s個削除されました。
+ids_textclient_notarget	ターゲットしていないか、モンスターではないため使用できません。
+ids_textclient_notuse	まだご利用できません。
+ids_textclient_error_notlevel	レベルが低くて使用することができません。
+ids_textclient_block_pm	%s様はささやき/メッセンジャーチャットの拒否状態です。
+ids_textclient_error_link_pm	You must link your character to an account to send private messages.
+ids_textclient_yettrade	すでに友達登録の申請中なので申請できません。登録完了後に再度申請してください。
+ids_textclient_itemnotuse_trading	取引中はアイテムを使用できません。
+ids_textclient_redchip	(レッドチップ)
+ids_textclient_error_equiptrade	装着中のアイテムは売ることができません。装備を外してから販売してください。
+ids_textclient_error_npcbufflevel	%s ~ %s レベルのキャラクターが %s 補助スキルをもらえます。
+ids_textclient_error_npcbufffail	該当スキルを使用中なので%sを使えません。
+ids_textclient_unregistered	Unregistered
+ids_textclient_level15job	転職可能なレベルになりました。
+ids_textclient_changejob	%sになりました。

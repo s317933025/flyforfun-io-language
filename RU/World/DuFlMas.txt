@@ -1,0 +1,2 @@
+IDS_WORLD_DUFLMAS_DUFLMAS_RGN_000000	Марсова шахта
+IDS_WORLD_DUFLMAS_DUFLMAS_RGN_000001	В глубине этой шахты скрывается зловещий и опасный враг.

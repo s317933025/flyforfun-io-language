@@ -1,0 +1,147 @@
+ids_language_code	JP
+ids_ui_home_title	家
+ids_ui_home_newchar	新しいキャラクター
+ids_ui_home_login	ログイン
+ids_ui_home_website	ウェブサイト
+ids_ui_home_credits	クレジット
+ids_ui_home_server	サーバ :
+ids_ui_login_charlogin	Character login :
+ids_ui_login_password	Account password :
+ids_ui_login_lost	Forgot your login?
+ids_ui_newchar_name	名前：
+ids_ui_newchar_girl	女の子
+ids_ui_newchar_boy	男の子
+ids_ui_newchar_create	開始
+ids_ui_msgbox_ok	確認
+ids_ui_msgbox_cancel	キャンセル
+ids_ui_msgbox_yes	確認
+ids_ui_msgbox_no	No
+ids_ui_loadingscreen	ロード中...
+ids_ui_option_title	ｵﾌﾟｼｮﾝ
+ids_ui_option_music	Music volume
+ids_ui_option_sound	Sound volume
+ids_ui_option_texquality	Texture quality
+ids_ui_option_texhigh	高い
+ids_ui_option_texmid	中間
+ids_ui_option_texlow	低い
+ids_ui_option_weather	Weather effects
+ids_ui_option_language	言語
+ids_ui_option_save	確認
+ids_ui_navigator_player	Player
+ids_ui_navigator_npc	NPC
+ids_ui_navigator_monster	Monster
+ids_ui_privacy_notice	Privacy Policy
+ids_ui_msgbox_accept	確認
+ids_ui_msgbox_decline	キャンセル
+ids_ui_option_keyboard	Keyboard layout
+ids_ui_msgbox_close	閉じる
+ids_ui_option_shadows	Shadows quality
+ids_ui_option_fullscreen	Fullscreen
+ids_ui_motion_tab_mot	モーション
+ids_ui_motion_tab_emo	エモーション
+ids_ui_revival_title	Resurrection
+ids_ui_revival_lodestar	ロードライトに復活
+ids_ui_charinfo_base	基本
+ids_ui_charinfo_name	アイテム名
+ids_ui_charinfo_login	ログイン
+ids_ui_charinfo_job	職業
+ids_ui_charinfo_level	レベル
+ids_ui_charinfo_server	サーバ
+ids_ui_charinfo_detail	詳細
+ids_ui_charinfo_atk	攻撃力
+ids_ui_charinfo_critical	ｸﾘﾃｨｶﾙ率
+ids_ui_charinfo_def	防御力の上昇
+ids_ui_charinfo_aspeed	攻撃速度
+ids_ui_charinfo_str	力
+ids_ui_charinfo_sta	体力
+ids_ui_charinfo_dex	敏捷性
+ids_ui_charinfo_int	知能
+ids_ui_charinfo_statpoints	残りGPポイント
+ids_ui_charinfo_apply	適用する
+ids_ui_charinfo_reset	初期化
+ids_ui_charinfo_changestate	ステータスアップ
+ids_ui_charinfo_apply_tooltip	変更されたステータスを適用します。
+ids_ui_charinfo_reset_tooltip	変更前のステータスに戻します。
+ids_ui_charinfo_plusminus_tooltip	残りのGPポイント分だけステータスを変更できます。上記にある修正欄から変更できます。
+ids_ui_charinfo_str_tooltip	Strengthens Attack Power of Weapon (#cffb40000Except for wand#nc)
+ids_ui_charinfo_sta_tooltip	Strengthens Defense, Max. HP, Max. FP\nHP, FP recovery rate increased
+ids_ui_charinfo_dex_tooltip	Attack speed increased\nEvasion Rate, Blocking Rate increased\nIncreases Critical Hit Chance.\n#cffb40000Striking power of bow is increased.#nc
+ids_ui_charinfo_int_tooltip	Amount of Max. MP is increased.\nMagic Attack Power
+ids_ui_charinfo_gp_tooltip	残りのGPポイント分だけステータスを変更できます。上記にある修正欄から変更できます。
+ids_ui_tooltip_sex_male	性別：男
+ids_ui_tooltip_sex_female	性別：女
+ids_ui_tooltip_onehand	片手武器
+ids_ui_tooltip_twohand	両手武器
+ids_ui_tooltip_attack	攻撃力 :
+ids_ui_tooltip_def_a	防御力の上昇
+ids_ui_tooltip_def_b	防御力の上昇
+ids_ui_tooltip_attack_speed	攻撃速度：%s
+ids_ui_tooltip_req_job	Req Job:
+ids_ui_tooltip_req_level	必要レベル：%d
+ids_ui_tooltip_restore_mp	MP 治療量 : %d
+ids_ui_tooltip_restore_hp	HP 治療量 : %d
+ids_ui_tooltip_restore_fp	FP 治療量 : %d
+ids_ui_tooltip_max_restore	最大回復量：%d
+ids_ui_tooltip_inv_suit	胴
+ids_ui_tooltip_inv_gauntlet	ガントレット
+ids_ui_tooltip_inv_boots	ブーツ
+ids_ui_tooltip_inv_helmet	ヘルメット
+ids_ui_tooltip_inv_clo	ﾏﾝﾄ製作
+ids_ui_tooltip_inv_weapon	武器
+ids_ui_tooltip_inv_guard	シールド
+ids_ui_tooltip_inv_mask	マスク
+ids_ui_tooltip_inv_rid	飛行体
+ids_ui_tooltip_inv_necklace	ネックレス
+ids_ui_tooltip_inv_ring	リング
+ids_ui_tooltip_inv_earring	イヤリング
+ids_ui_tooltip_inv_bullet	補助武器（矢、ポスター）
+ids_ui_tooltip_inv_clothes_1	ファッションヘルメット
+ids_ui_tooltip_inv_clothes_2	ファッションスーツ
+ids_ui_tooltip_inv_clothes_3	ファッションガントレット
+ids_ui_tooltip_inv_clothes_4	ファッションブーツ
+ids_ui_inventory_1_bag	#b1#nb bag
+ids_ui_inventory_n_bags	#b%d#nb bags
+ids_ui_iventory_bag_n	Bag %d
+ids_ui_tooltip_mon_lvl	順位
+ids_ui_tooltip_mon_drop	Booty:
+ids_ui_tooltip_mon_no_drop	なし
+ids_ui_map_moninfo	Show monsters informations.
+ids_ui_tooltip_delete_item	ここにアイテムをドラッグすると削除されます。
+ids_ui_inventory_delete	確認
+ids_ui_inventory_delete_confirm	アイテムを削除しますか？
+ids_ui_inventory_delete_cnt	個数
+ids_ui_dialog	会話ボックス
+ids_ui_dialog_title	会話
+ids_ui_dialog_about	%sについての質問です。
+ids_ui_option_tab_game	ゲーム
+ids_ui_option_tab_video	ビデオ
+ids_ui_option_pm	Allow whispers & messages
+ids_ui_instantmsg_title	手紙
+ids_ui_message_send	転送
+ids_ui_shop_title	商店
+ids_ui_shop_itemslist	清算する物品
+ids_ui_tooltip_price	価格 : %s
+ids_ui_tooltip_sellprice	販売価格 : %s
+ids_ui_shop_filter	検索
+ids_ui_shop_level	ﾚﾍﾞﾙ検索
+ids_ui_shop_gender	性別検索
+ids_ui_shop_itemprice	アイテム価格
+ids_ui_sellitem_title	販売確認
+ids_ui_sellitem_confirm	アイテムを売りますか？
+ids_ui_sellitem_qty	数
+ids_ui_sellitem_price	販売価格：
+ids_ui_msgbox_valid	確認
+ids_ui_buyitem_title	購入確認
+ids_ui_buyitem_confirm	アイテムを購入しますか？
+ids_ui_buyitem_price	販売価格
+ids_ui_option_grass	Grass (Beta)
+ids_ui_option_showlogin	Players login
+ids_ui_tooltip_max_hp	ＨＰ
+ids_ui_tooltip_max_mp	最大ＭＰ
+ids_ui_tooltip_max_fp	最大ＦＰ
+ids_ui_tooltip_speed	スピード
+ids_ui_tooltip_atkspeed	攻撃速度
+ids_ui_tooltip_blockmelee	近接攻撃のブロック率
+ids_ui_tooltip_hitrate	命中率
+ids_ui_display_buffs	Show/hide buffs
+ids_ui_selectjob_title	Select new job

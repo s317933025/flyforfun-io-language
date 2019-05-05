@@ -1,0 +1,94 @@
+ids_textclient_connecting	连接中，请稍后
+ids_textclient_cantconnect	无法连接到服务器，请检查网络连接
+ids_textclient_oldclient	客户端版本过低
+ids_textclient_wrongserver	服务器验证错误
+ids_textclient_unknownerror	未知错误，请重试
+ids_textclient_alreadyconnected	您已登入
+ids_textclient_serverfull	服务器已满，请稍后再试或选择其他服务器
+ids_textclient_bigmonster	BOSS出现!!!
+ids_textclient_app_map	世界地图
+ids_textclient_app_option	设定
+ids_textclient_app_logout	注销账户
+ids_textclient_app_quit	退出游戏
+ids_textclient_app_navigator	导航
+ids_textclient_app_debug	Debug
+ids_textclient_loggingout	 %d 秒后注销.
+ids_textclient_logout	您确定要注销吗？如果您的角色没有链接到任何账户会导致已有进度丢失哦。
+ids_textclient_exit	您确定要结束游戏吗？
+ids_textclient_disconnected	从服务器断开连接
+ids_textclient_creationdisabled	本服务器创建角色暂不可用
+ids_textclient_optionreboot	你必须重启游戏以便更改生效
+ids_textclient_maphidden	似乎有一种邪恶的存在阻碍了你的视野
+ids_textclient_item_desc	介绍：
+ids_textclient_invalidcharacters	名称含有禁用字符
+ids_textclient_invalidname	名称含有禁用词汇
+ids_textclient_ipbanned	您的IP地址被封禁，详情请咨询管理员
+ids_textclient_ipblocked	检测到您的IP地址出现异常，请等待 %s 后重试
+ids_textclient_secs	second(s)
+ids_textclient_mins	minute(s)
+ids_textclient_hours	hour(s)
+ids_textclient_sessionexpired	您的账户凭据已过期，请重新登入
+ids_textclient_admin	Admin
+ids_textclient_gamemaster	Game Master
+ids_textclient_app_chat	聊天
+ids_textclient_invalidlogin	账户或密码有误
+ids_textclient_accountconnected	您已登入
+ids_textclient_nowposition	位置 : x = %f, y = %f, z = %f
+ids_textclient_nottransself	您不能对自己使用 PM.
+ids_textclient_playernotexist	%s 角色不存在或不在线上
+ids_textclient_app_notice	注意
+ids_textclient_app_status	状态
+ids_textclient_playerinformation	%s - Lv: %d
+ids_textclient_blink_limit	吟唱时无法使用
+ids_textclient_notsit_blink	坐着时无法使用翅膀
+ids_textclient_stand_limit	站立时无法使用
+ids_textclient_flight_nouse	飞行时无法使用
+ids_textclient_error_nofly	此处禁止飞行
+ids_textclient_error_notalk	您被禁言了
+ids_textclient_error_chatspam	由于短时间内发言过多，除以3分钟封禁
+ids_textclient_app_motion	动作
+ids_textclient_app_charinfo	角色
+ids_textclient_limithp	                此时无法恢复HP
+ids_textclient_limitmp	此时无法恢复MP
+ids_textclient_limitfp	FP回复率降低
+ids_textclient_attentioncooltime	请稍后再次使用
+ids_textclient_death	单击复活回到最近城镇，或使用道具立刻复活
+ids_textclient_mobpriority	你不能攻击正与别人战斗的怪物
+ids_textclient_noquitcombat	战斗时不能退出
+ids_textclient_levelup	Level up! 您可以在角色窗口修改点数
+ids_textclient_levelup_caption	恭喜！您升级了！
+ids_textclient_charstatus_apply_q	确认使用当前点数设置?
+ids_textclient_charstatus_firstjob 您的点数会在第一次转职时重置
+ids_textclient_admin_state	状态
+ids_textclient_admin_normal	正常
+ids_textclient_speed_veryslow	非常慢
+ids_textclient_speed_low	慢
+ids_textclient_speed_normal	普通
+ids_textclient_speed_fast	快
+ids_textclient_speed_veryfast	非常快
+ids_textclient_speed_fastest	最快
+ids_textclient_itempriority	%s 该物品属于其他玩家，请稍后
+ids_textclient_lackspace	背包已满，请整理后再试
+ids_textclient_reapitem	已回复 %s.
+ids_textclient_app_inventory	背包
+ids_textclient_reapmoney	获得 %s 金币 (总计: %s 金币).
+ids_textclient_error_sex	%s 性别不符
+ids_textclient_error_job	无法装备 %s。尚未达到要求。
+ids_textclient_error_level	无法装备，等级过低 (需求等级: %d)
+ids_textclient_error_undestructable	无法丢弃
+ids_textclient_error_usingitem	已使用
+ids_textclient_successremoveitem	以下数目 %s 删除: %d
+ids_textclient_notarget	无法攻击，没有目标
+ids_textclient_notuse	无法使用
+ids_textclient_error_notlevel	等级太低
+ids_textclient_block_pm	%s 在 “拒绝密语/消息”设置
+ids_textclient_error_link_pm	您必须将角色与账户绑定方可使用密语
+ids_textclient_yettrade	角色忙，请稍后再试
+ids_textclient_itemnotuse_trading	交易时无法使用
+ids_textclient_redchip	红色卡片
+ids_textclient_error_equiptrade	卸下后方可出售
+ids_textclient_error_npcbufflevel	Only level %d~%d character can get buffs.
+ids_textclient_error_npcbufffail	You cannot use %s right now.
+ids_textclient_unregistered	Unregistered
+ids_textclient_level15job	Now it's time to choose your job.
+ids_textclient_changejob	Congratulations!  You have advanced to the %s job class.

@@ -15,6 +15,7 @@ The following files can be taken from original FlyFF clients which are the prope
 * Map.txt &rarr; propMapComboBoxData.txt.txt
 * Movers.txt &rarr; propMover.txt.txt
 * PlayerMotions.txt &rarr; propMotion.txt.txt
+* Skills.txt &rarr; propSkill.txt.txt
 * MoverMenus.txt &rarr; generated from textClient using custom tool
 
 TextClient.txt and UI.txt contain new entries and existing entries taken from textClient.txt.txt and resData.txt.txt but with new keys.

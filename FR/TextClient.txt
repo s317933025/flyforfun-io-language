@@ -87,3 +87,8 @@ ids_textclient_yettrade	Marchander prend du temps. Réessayez dans quelques inst
 ids_textclient_itemnotuse_trading	Vous ne pouvez pas utiliser un objet pendant un échange.
 ids_textclient_redchip	(Jeton Rouge)
 ids_textclient_error_equiptrade	Dépose l'objet avant de pouvoir le vendre.
+ids_textclient_error_npcbufflevel	Seuls les personnages de niveau %d~%d peuvent obtenir l'effet %s
+ids_textclient_error_npcbufffail	Vous ne pouvez pas utiliser %s car cette capacité est deja en cours d'utilisation.
+ids_textclient_unregistered	Non enregistré
+ids_textclient_level15job	Félicitations ! Vous pouvez désormais changer de classe et faire évoluer le personnage.
+ids_textclient_changejob	Vous êtes maintenant devenu un %s.

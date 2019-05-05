@@ -134,3 +134,14 @@ ids_ui_msgbox_valid	Valider
 ids_ui_buyitem_title	Confirmer achat
 ids_ui_buyitem_confirm	Combien voulez-vous d'objet(s) ?
 ids_ui_buyitem_price	Prix
+ids_ui_option_grass	Herbe (Beta)
+ids_ui_option_showlogin	Identifiants des joueurs
+ids_ui_tooltip_max_hp	PV max.
+ids_ui_tooltip_max_mp	PM max.
+ids_ui_tooltip_max_fp	PF max.
+ids_ui_tooltip_speed	Vitesse de déplacement
+ids_ui_tooltip_atkspeed	Vit Atq
+ids_ui_tooltip_blockmelee	Blocage en mêlée 
+ids_ui_tooltip_hitrate	Toucher
+ids_ui_display_buffs Afficher/cacher les buffs
+ids_ui_selectjob_title	Sélection classe

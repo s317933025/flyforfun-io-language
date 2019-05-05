@@ -1,0 +1,351 @@
+IDS_MMI_311	
+IDS_MMI_312	
+IDS_MMI_333	交換 世界之樹  爆裂射手護甲 （女） 
+IDS_MMI_334	交換 世界之樹  爆裂射手護甲 （男）
+IDS_MMI_347	
+IDS_MMI_343	交換 世界之樹  魔導士護甲 （女）
+IDS_MMI_344	交換 世界之樹  魔導士護甲 （男）
+IDS_MMI_352	
+IDS_MMI_337	交換 世界之樹  自然神使護甲 （女）
+IDS_MMI_338	交換 世界之樹  自然神使護甲 （男）
+IDS_MMI_349	
+IDS_MMI_339	交換 世界之樹  格鬥宗師護甲 （女）
+IDS_MMI_340	交換 世界之樹  格鬥宗師護甲 （男）
+IDS_MMI_350	
+IDS_MMI_329	交換 世界之樹  聖殿騎士護甲 （女）
+IDS_MMI_330	交換 世界之樹  聖殿騎士護甲 （男）
+IDS_MMI_345	交換 世界之樹  聖殿騎士武器
+IDS_MMI_341	交換 世界之樹  心靈師護甲 （女）
+IDS_MMI_342	交換 世界之樹  心靈師護甲 （男）
+IDS_MMI_351	
+IDS_MMI_353	
+IDS_MMI_331	交換 世界之樹  暴風行者護甲 （女）
+IDS_MMI_332	交換 世界之樹  暴風行者護甲 （男）
+IDS_MMI_346	交換 世界之樹  暴風行者武器
+IDS_MMI_335	交換 世界之樹  風之埋伏者 （女）
+IDS_MMI_336	交換 世界之樹  風之埋伏者 （男）
+IDS_MMI_348	
+IDS_MMI_305	女性護甲代幣兌換
+IDS_MMI_304	男性護甲代幣兌換
+IDS_MMI_303	武器代幣兌換
+IDS_MMI_5	加入愿望單
+IDS_MMI_80	進入競技場
+IDS_MMI_81	離開競技場
+IDS_MMI_321	
+IDS_MMI_322	
+IDS_MMI_59	刪除元素提升
+IDS_MMI_9	儲存
+IDS_MMI_237	巴魯娜元素升級
+IDS_MMI_308	轉變爲無限巴魯娜
+IDS_MMI_238	巴魯娜喚醒中
+IDS_MMI_239	取消喚醒巴魯娜
+IDS_MMI_13	
+IDS_MMI_42	妝容升級
+IDS_MMI_251	
+IDS_MMI_253	
+IDS_MMI_250	
+IDS_MMI_249	
+IDS_MMI_256	
+IDS_MMI_254	
+IDS_MMI_248	
+IDS_MMI_247	
+IDS_MMI_255	
+IDS_MMI_252	
+IDS_MMI_79	刪除高級物品祝福
+IDS_MMI_142	召回buff寵物
+IDS_MMI_141	切換buff寵物狀態
+IDS_MMI_309	卡片升級
+IDS_MMI_20	屬性强化
+IDS_MMI_169	彩蛋籃兌換
+IDS_MMI_153	聖誕快樂!
+IDS_MMI_140	兌換點數
+IDS_MMI_31	歡呼
+IDS_MMI_286	糖果手杖兌換
+IDS_MMI_269	
+IDS_MMI_207	兌換 1 聖誕代幣 (非常淘氣).
+IDS_MMI_208	兌換 25 聖誕代幣 (淘氣).
+IDS_MMI_209	兌換 50 聖誕代幣 (淘氣但還不錯).
+IDS_MMI_210	兌換 75 聖誕代幣 (不錯).
+IDS_MMI_211	兌換 100 聖誕代幣 (非常棒).
+IDS_MMI_284	巨大泰迪熊兌換
+IDS_MMI_297	泰迪熊兌換
+IDS_MMI_298	聖誕代幣 兌換
+IDS_MMI_299	假日獎章兌換
+IDS_MMI_300 金色雪花兌換
+IDS_MMI_301	魔力手杖兌換
+IDS_MMI_285	金色雪花兌換
+IDS_MMI_302	四葉草兌換
+IDS_MMI_75	兌換 稀有物品碎片
+IDS_MMI_76	兌換 卡片碎片
+IDS_MMI_310	兌換 卡片碎片
+IDS_MMI_205	進入角鬥場
+IDS_MMI_206	排名中
+IDS_MMI_263	兌換 代幣 - 物品
+IDS_MMI_264	兌換 代幣 - 初心者武器
+IDS_MMI_265	兌換 代幣 - 中級武器
+IDS_MMI_266	兌換 代幣 - 高級武器
+IDS_MMI_204	
+IDS_MMI_212	購買時尚物品
+IDS_MMI_214	時尚組合
+IDS_MMI_213	出售時尚物品
+IDS_MMI_313	OMG 代幣 (紅) 兌換
+IDS_MMI_314	OMG 代幣 (黃) 兌換
+IDS_MMI_315	OMG 代幣 (藍) 兌換
+IDS_MMI_316	OMG 代幣 (綠) 兌換
+IDS_MMI_317	Buff 盒子兌換
+IDS_MMI_318	强化盒子兌換
+IDS_MMI_319	升級盒子兌換
+IDS_MMI_267	兌換你的聖誕代幣為驚喜禮品!
+IDS_MMI_231	用代幣兌換物品
+IDS_MMI_229	5,000 金幣能夠兌換一張沙漠卡片
+IDS_MMI_0	對話
+IDS_MMI_215	捐贈
+IDS_MMI_216	捐贈排名
+IDS_MMI_10	決鬥
+IDS_MMI_11	要求劇團決鬥
+IDS_MMI_262	Eldin's Jar
+IDS_MMI_280	用藍色卡片交換武器盒子
+IDS_MMI_282	黃金卡片商店
+IDS_MMI_281	用藍色卡片交換武器盒子
+IDS_MMI_189	不能再巴魯娜物品上使用喚醒卷軸
+IDS_MMI_241	進入戰鬥區域
+IDS_MMI_271	
+IDS_MMI_128	兌換櫻花綻放盒子
+IDS_MMI_131	櫻花綻放盒子兌換
+IDS_MMI_176	사랑의 꽃바구니 교환
+IDS_MMI_177	롯토의 선물 상자 교환
+IDS_MMI_106	兌換活動卡片
+IDS_MMI_127	新學期活動
+IDS_MMI_166	FITA 活動
+IDS_MMI_130	兌換愛之水
+IDS_MMI_82	銀之心商人
+IDS_MMI_83	銀之心商人
+IDS_MMI_172	銀之心兌換活動
+IDS_MMI_168	幸運寳袋兌換
+IDS_MMI_175	七夕活動
+IDS_MMI_57	讓大家都高興起來!
+IDS_MMI_129	兌換財寶箱子
+IDS_MMI_125	兌換其他代幣
+IDS_MMI_133	홍콩, 대만 가위바위보 쿠폰 교환
+IDS_MMI_121	兌換活動物品
+IDS_MMI_170	가위바위보 쿠폰 교환
+IDS_MMI_190	
+IDS_MMI_132	石頭剪刀布 代幣
+IDS_MMI_174	世界獎杯兌換
+IDS_MMI_173	世界獎杯兌換 (Korea)
+IDS_MMI_232	兌換勇氣的象徵
+IDS_MMI_99	護甲穿洞轉化卡
+IDS_MMI_98	武器穿洞轉化卡
+IDS_MMI_105	時尚代幣活動
+IDS_MMI_3	決鬥
+IDS_MMI_45	謎語
+IDS_MMI_223	200顆Fir種子和200瓶未裝滿的水能夠交換一顆Fir樹
+IDS_MMI_46	Dice
+IDS_MMI_228	30,000 金幣能夠兌換一張閃電卡片
+IDS_MMI_276	FlyForFun 代幣商店
+IDS_MMI_277	卡片交易處
+IDS_MMI_230	FlyFF 世界杯卡片兌換處
+IDS_MMI_184	物品錯誤, 爲了保護你的巴魯娜物品，請在此處放入巴魯娜的祝福
+IDS_MMI_162	浴缸
+IDS_MMI_154	床
+IDS_MMI_221	抽屜櫃
+IDS_MMI_164	地毯
+IDS_MMI_159	書架
+IDS_MMI_158	椅子
+IDS_MMI_160	梳妝臺
+IDS_MMI_222	水晶
+IDS_MMI_157	桌子
+IDS_MMI_163	角櫃
+IDS_MMI_143	家具資訊
+IDS_MMI_187	只能提取非唯一物品
+IDS_MMI_186	物品錯誤, 請使用混沌油
+IDS_MMI_185	物品錯誤, 請使用混沌寶石
+IDS_MMI_145	移除
+IDS_MMI_144	重新安裝
+IDS_MMI_156	沙發
+IDS_MMI_155	桌子
+IDS_MMI_188	戰鬥中無法使用該技能
+IDS_MMI_165	墻紙
+IDS_MMI_161	衣櫃
+IDS_MMI_15	公會倉庫
+IDS_MMI_61	1Vs1 工會戰- 取消
+IDS_MMI_64	1Vs1 工會戰- 進入
+IDS_MMI_67	1Vs1 工會戰- 加入
+IDS_MMI_66	1Vs1 工會戰- 獎勵
+IDS_MMI_68	1Vs1 工會戰- 規則
+IDS_MMI_65	1Vs1 工會戰- 申請費用
+IDS_MMI_69	1Vs1 工會戰- 獲勝條件
+IDS_MMI_60	1Vs1 工會戰- 申請
+IDS_MMI_62	1Vs1 工會戰- 目前狀態
+IDS_MMI_70	接受1Vs1 工會戰申請費用
+IDS_MMI_63	1Vs1 工會戰- 設置參戰人員
+IDS_MMI_36	獲取MVP獎金
+IDS_MMI_37	參與者信息
+IDS_MMI_38	基礎規則
+IDS_MMI_39	獲勝條件
+IDS_MMI_40	傭兵信息
+IDS_MMI_34	獲取獎金和申請費用
+IDS_MMI_35	獎金詳情
+IDS_MMI_41	退還申請費用
+IDS_MMI_30	排名中
+IDS_MMI_33	進入
+IDS_MMI_171	工會競標
+IDS_MMI_148	支付維護費
+IDS_MMI_149	進入工會小屋
+IDS_MMI_191	
+IDS_MMI_192	
+IDS_MMI_150	離開工會小屋
+IDS_MMI_147	購入工會小屋 (100M 金幣)
+IDS_MMI_26	確認
+IDS_MMI_28	取消
+IDS_MMI_29	參加
+IDS_MMI_27	狀態
+IDS_MMI_293	萬聖節糖果兌換
+IDS_MMI_244	一張石頭剪刀布代幣兌換10個松木蜂蜜和50，000金幣
+IDS_MMI_97	深淵之塔
+IDS_MMI_198	4 A 卡牌 - 兌換 桃心盒子 2015
+IDS_MMI_199	4 K 卡牌 - 兌換 國王盒子 2015
+IDS_MMI_200	4 Q 卡牌 - 兌換 王后盒子 2015
+IDS_MMI_201	4 J 卡牌 - 兌換 小丑盒子 2015
+IDS_MMI_202	每1張 K,Q,J,10 卡牌 - 兌換 1個巨10盒子 2015
+IDS_MMI_21	放置賞金
+IDS_MMI_151	
+IDS_MMI_7	邀請加入公會
+IDS_MMI_6	邀請加入劇團
+IDS_MMI_73	喚醒的物品
+IDS_MMI_126	Item Transy
+IDS_MMI_197	特殊升級盒子 兌換
+IDS_MMI_306	金豬 2015 兌換
+IDS_MMI_44	石頭-剪刀-布
+IDS_MMI_56	英雄技能升級!
+IDS_MMI_268	物品蛻變
+IDS_MMI_94	城主活動
+IDS_MMI_101	城主信息
+IDS_MMI_107	申請參加彩虹競賽
+IDS_MMI_112	確認完成彩虹競賽
+IDS_MMI_109	彩虹競賽規則
+IDS_MMI_110	早前彩虹競賽排名
+IDS_MMI_108	什麽是彩虹競賽?
+IDS_MMI_111	彩虹競賽獎勵信息
+IDS_MMI_115	除了數字都可以!
+IDS_MMI_118	FlyFF Concentration
+IDS_MMI_114	幸運轉盤
+IDS_MMI_113	石頭-剪刀-布
+IDS_MMI_119	丟下球球!
+IDS_MMI_116	停!
+IDS_MMI_117	Typo!
+IDS_MMI_102	退款
+IDS_MMI_91	候選人信息
+IDS_MMI_92	城主競賽候選人
+IDS_MMI_93	城主投票
+IDS_MMI_71	取消等級降低券
+IDS_MMI_307	兌換韓式休閑服
+IDS_MMI_257	
+IDS_MMI_270	傳送到城鎮
+IDS_MMI_245	傳送到瑪德利賈市場
+IDS_MMI_258	交易信息
+IDS_MMI_8	復活區
+IDS_MMI_4	留言
+IDS_MMI_278	兌換 筆記碎片為獎勵
+IDS_MMI_279	兌換 弗拉米吉他碎片為銀河吉他
+IDS_MMI_74	獲得Buff!
+IDS_MMI_325	獲得進階Buff
+IDS_MMI_224	400顆梨樹種子和400瓶未裝滿的水能夠交換一顆梨樹 
+IDS_MMI_226	300顆柿樹種子和300瓶未裝滿的水能夠交換一顆柿子樹
+IDS_MMI_104	消除拾物寵物的祝福
+IDS_MMI_96	交換蛋蛋
+IDS_MMI_48	喂食寵物
+IDS_MMI_58	飼料帶
+IDS_MMI_50	取消召喚寵物
+IDS_MMI_77	兌換 寵物復活卷軸碎片.
+IDS_MMI_78	兌換 寵物復活卷軸
+IDS_MMI_49	寵物狀態
+IDS_MMI_23	穿孔
+IDS_MMI_32	分離穿孔的卡片
+IDS_MMI_225	1000顆松子和1000瓶未裝滿的水能夠交換一顆松樹
+IDS_MMI_25	郵箱
+IDS_MMI_24	查看裝備
+IDS_MMI_1	任務
+IDS_MMI_137	進入活動事件
+IDS_MMI_139	傳送到城鎮
+IDS_MMI_138	加入活動時間
+IDS_MMI_16	工會排名
+IDS_MMI_18	整體工會排名
+IDS_MMI_17	工會決鬥排名
+IDS_MMI_47	拼圖
+IDS_MMI_152	
+IDS_MMI_120	取消修改寵物名稱
+IDS_MMI_14	修復
+IDS_MMI_124	離開房間
+IDS_MMI_227	50,000 金幣能夠兌換d舊世護衛武器
+IDS_MMI_273	龍之面具 & 披風 兌換
+IDS_MMI_274	龍之面具（男） 兌換
+IDS_MMI_275	面具兌換 （女）
+IDS_MMI_90	神秘房間信息
+IDS_MMI_103	取消進入神秘房間
+IDS_MMI_87	進入神秘房間
+IDS_MMI_100	只有占領的工會能夠進去狩獵區
+IDS_MMI_84	進入秘密房間
+IDS_MMI_85	祕密房間申請狀態
+IDS_MMI_86	組織秘密房間參與者
+IDS_MMI_88	
+IDS_MMI_89	檢查稅率
+IDS_MMI_22	檢查賞金清單
+IDS_MMI_54	製作獨特武器
+IDS_MMI_55	製作終極武器
+IDS_MMI_53	製作首飾
+IDS_MMI_52	首飾强化
+IDS_MMI_324	服裝寶石升級
+IDS_MMI_327	服裝融合
+IDS_MMI_51	Create Shining Oricalkum
+IDS_MMI_328	Enchant Absolute Scroll Fusion
+IDS_MMI_95	從終極武器取下寶石
+IDS_MMI_326	取下服裝寶石
+IDS_MMI_72	取下穿孔卡片
+IDS_MMI_135	安全首飾升級
+IDS_MMI_323	安全服裝升級
+IDS_MMI_167	安全元素升級
+IDS_MMI_134	安全升級
+IDS_MMI_136	安全穿孔
+IDS_MMI_283	Trade in upgraded Vega's Light for reward item
+IDS_MMI_43	Summon Angel
+IDS_MMI_179	提出混沌之石
+IDS_MMI_182	創造平衡之石
+IDS_MMI_180	創造混沌之石
+IDS_MMI_183	創造平衡之石
+IDS_MMI_203	插入古代符文
+IDS_MMI_178	進化之巴魯娜
+IDS_MMI_181	升級命令石
+IDS_MMI_146	傳送
+IDS_MMI_233	刪除
+IDS_MMI_234	刪除所有
+IDS_MMI_235	修改名字
+IDS_MMI_236	關閉
+IDS_MMI_12	跟隨
+IDS_MMI_2	交易
+IDS_MMI_246	
+IDS_MMI_242	兌換盒子
+IDS_MMI_260	組成雙手武器
+IDS_MMI_261	取消
+IDS_MMI_19	升級
+IDS_MMI_259	兌換金幣和南瓜為RPS 代幣
+IDS_MMI_287	情人節禮物商店
+IDS_MMI_288	珍貴的愛情象徵
+IDS_MMI_123	進入朋友的房間
+IDS_MMI_122	進入房間
+IDS_MMI_320	
+IDS_MMI_217	白色情人節商店
+IDS_MMI_218	收集任務物品 兌換為可愛的道具!
+IDS_MMI_219	兌換 500 個魔法碎片為黃色胸針 （女）
+IDS_MMI_220	兌換 500 神秘燃料為藍色胸針 （女）
+IDS_MMI_289	
+IDS_MMI_290	
+IDS_MMI_291	
+IDS_MMI_292	
+IDS_MMI_296	葡萄籽兌換
+IDS_MMI_294	葡萄籽兌換
+IDS_MMI_295	葡萄籽兌換
+IDS_MMI_193	兌換 僵尸獵人代幣
+IDS_MMI_194	6 個僵尸代幣 = 12 個僵尸獵人盒子
+IDS_MMI_195	15 個僵尸代幣 = 1 生存者披風
+IDS_MMI_196	35 個僵尸代幣 = 1 僵尸獵人披風

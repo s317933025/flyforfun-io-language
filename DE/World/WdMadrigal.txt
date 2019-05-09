@@ -1,0 +1,181 @@
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000	Darkon 1\n Stillgelegte Erons Fabrik 2
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001	Dies war die zweite Erons Fabrik. Hier wurden die Erons hergestellt.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002	Mitte des Leren Gebirges
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003	Der Mittlere Bereich vom Leren Gebirge in Flaris.\nHier findet man die Unterkunft der High-Dwarpet und die Ebene von Bubbles.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004	Flaris\nZentral-Flaris
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000005	Das Stadtzentrum von Flaris .\nHier sind die Station und das Rathaus zu finden.\nHier findet man Rüstungs- und Waffenläden.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000006	Flaris\nOst-Flaris 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007	Ostteil von Flaris.\nHier ist der Lebensmittel- und Magieladen, sowie die Trainingsschule für den Job untergebracht.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008	Flaris\nNord-Flaris 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000009	Der Nordteil von Flaris.\nHier findet man das Lodestar und die Meister der Klassen.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010	Jemand überwacht dich von oben.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011	Ebene von Bubble
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012	Diese legendäre Ebene ist von einer Person namens Bubble in nur 3 Tagen erschaffen worden. \nEinige glauben, dass er ein Clown gewesen ist.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013	Süden des Leren Gebirges
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014	Der südliche Bereich vom Leren Gebirge in Flaris
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015	Zentrum für den Guild War
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016	Hier auf diesen Platz werden Gildenkriege ausgetragen. 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017	Der Norden des Leren Gebirges \n Der Altar von Dreadpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018	An diesen Platz werden die Dreadpets kontrolliert.\nDie, welche die Dreadpets kontrollieren verfügen über die Macht der Magie.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019	Darkon 1 \n Stillgelegte Erons Fabrik 1
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020	Dies war die erste Erons Fabrik.\nIn dieser Fabrik wurden 80% aller Erons produziert.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021	Darkon \n Der Altar von Violet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022	Die Steine und die Felsen die du hier siehst, sind der Beweis dafür, das sie durch ein bestimmten Unfall entstanden sind.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023	Mitte des Leren Gebirges
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000024	Die Mitte vom Leren Gebirge in Flaris. \n Hier findet man die Unterkunft der High-Dwarpet und die Ebene von Bubble.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000025	Versammlungsort der High-Dwarpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000026	Die High-Dwarpet haben hier ihre Unterkunft errichtet. \n High-Dwarpet haben an diesen Platz ein Buch der Technik gelagert.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000027	Norden vom Fluss der Tränen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028	Heimat der Nyangnyangs
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029	Lieblingsplatz von Nyangnyangs dem Katzenvolk.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030	Die Brücke wurde vor Kurzem repariert.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031	Lodelight
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032	Das ist ein sicherer Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033	Dorf Madren
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034	Ein kleines Dorf der Demian. \n Verstoßene Demians leben in diesem Dorf.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035	Mitte vom Fluss der Tränen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036	Dieser Fluss wurde vom Regen erschaffen. \n High-Dwarpet baden manchmal in dem Fluss.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037	Das Dorf Madren \n Der Altar von Dreadpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038	An diesen Platz werden die Dreadpets kontrolliert. \n Die Kontrolleure haben eine Magische Kraft.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039	Quelle verstorbener Seelen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040	Soweit bekannt ist, versammeln sich die Seelen der Verstorbenen an diesem Platz.\nEs entspricht einer Tradition, dass dieses Wasser ein langes Leben und ewige Jugend verleiht.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041	Norden des Leren Gebirges
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042	Der Nordbezirk des Leren Gebirge im Flaris. \n Dort ist der Mas Dungeon und die Quelle der verstorbenen Seelen.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043	Mas Dungeon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044	Diese Mine wurde vor langer Zeit von den Bergarbeitern gefunden und betrieben. \n Dennoch laufen dort nun sehr viele Monster in der Mine herum.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045	Haus von Rudvihil
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046	Der reichste Bürger von Flaris.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000047	Arena
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000048	Hier ist PvP erlaubt.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049	Heiliger Baum
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050	Der heilige Baum ist wirklich alt. \n Dieser Baum ist ein Symbol zum Schutze von Saint Morning.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000051	Saint Morning \n Der Altar von Violet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000052	Die Steine und die Felsen die du hier siehst, sind der Beweis dafür, dass sie durch ein bestimmten Unfall entstanden sind.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000053	Norden des Hillid Gebirges
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000054	Der Nordbezirk des Saint Morning Gebirge. 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000055	Osten vom Fluss der Tränen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000056	Östlicher Teil vom Fluss der Tränen \n Der Altar des Dreadpet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000057	Dieser Platz ist zum kontrollieren der Dreadpets. \n Es sind Inspektoren, die magische Energie besitzen.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000058	Saint Morning \nStadthalle
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000059	Saint Morning ist das älteste Gebäude. Es brauchte 5 Jahre für die Fertigstellung des Gebäudes. \n Im Gebäude sind öffentliche Büros und Labore. 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000060	Saint Morning
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061	Saint Morning ist durch den Krieg unabhängig von Flaris geworden. \n Sie haben ein Vermögen durch den Handel verdient. 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062	Saint Morning \nStation 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000063	Dies ist die größte Station in Madrigal. \n Saint Morning könnte das Zentrum des Handels sein, wegen dieser Station.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064	Saint Morning Marktplatz
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065	Der Platz von Saint Morning ist der Ruhebereich für die Bürger. \n Hier können sich die Spieler versammeln.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066	Saint Morning \n Der Verband für Geschichte
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067	Er erforscht die Geschichte von Madrigal.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068	Flaris \n Der Altar von Violet
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000069	Die Steine und die Felsen die du hier siehst, sind der Beweis dafür, dass sie durch ein bestimmten Unfall entstanden sind.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000070	Garten von Rhisis
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000071	Dieses wird der Garten der Rhisis genannt.\nEs war einst ein wunderschöner Ort. Dieser Garten wurde wegen dem Zerfall der Uhr ruiniert.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000072	Wüste der Illusionen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000073	Du kannst Steinaufbauten um die Wüste sehen. \n Unter dieser Wüste ist ein Tempel begraben.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000074	Die Geräusche von Bergbauarbeit kann man aus der Ferne hören.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000075	Eingang zur Wüste der Illusionen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000076	Der Eingang der Wüste mit einer Menge unbekannter Steinbauten.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000077	Süden des Hillid Gebirges
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000078	Der südliche Gebirgsteil des Saint Morning Gebirges.\n Es ist der Eingang zur Fantasy Desert und der Hochebene der Ruhe.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079	Hochebene der Stille\nFlugverbotszone
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080	Shades Hügel
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081	Shades Hügel
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082	Dies ist ein sicherer Ort. Du bist hier sicher vor Gegnern.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083	Die Stadt der Kürbisse\n(Mister Pumpkin lebt hier)
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084	Stadt der Kürbisse
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085	Mitte des Hillid Gebirges
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086	Der mittlere Gebirgsteil in Saint Morning
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000087	Adamant
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000088	Darkon 3\nMagmient
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000089	Der Altar des Jester
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000090	Dieser Altar wurde für die Huldigung des ehrenhaften Jester gebaut. \n Ein Priester namens Homeit verwaltet den Altar.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000091	Brekin
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000092	Darkon 3\nBrekin
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000093	Arians
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000094	Darkon 3\nArians
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000095	Engisis
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000096	Dieser Baum ist der größte und mysteriöseste Baum von allen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000097	Totes Moor
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000098	Darkon 3\nTote Wüste
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000099	Engisis Schatten
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000100	Darkon 3\nVerfluchter Wald
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000101	Haus von Laola
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000102	Darkon 3\nDas Haus von Laola
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000103	Altar des Ranger
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000104	Dieser Altar ist für die Huldigung des glorreichen Rangers. \n Ein Priester namens Rupim verwaltet den Altar.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000105	Heldonose
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000106	Altar des Psykeeper
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000107	Der Ort, an dem der Soulstone des Psykeepers aufbewahrt wird.\nDie Bewunderer des Helden Offerep \npilgern jedes Jahr zu diesem Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000108	Darkon 3\nWest Sendil 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000109	Heret
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000110	Darkon 3\nHeret
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000111	Sendils Zentrum
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000112	Darkon 3\nZentral Sendil
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000113	Sendils östlicher Teil
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000114	Darkon 3\nOst Sendil
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000115	Mileng
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000116	Dies ist der heilige Platz, wo rundherum gigantische Bäume in Pilzgestalt leben.\nDies ist der Platz wo Helden zum ersten mal siegreich in einen Heldenkrieg waren. 
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000117	Guardiane
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000118	Darkon 3\nGuardiane
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000119	Raum des Schutzes
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000120	Darkon 3\nRaum des Wächters
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000121	In diesem Raum wartet der Wächter auf die Prüflinge
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000122	Altar der Ringmaster
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000123	Der Ort, an dem der Soulstone of the Ringmaster aufbewahrt wird.\nDie Bewunderer des Helden Aenn\npilgern jedes Jahr zu diesem Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000124	Altar des Elementor
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000125	Der Ort, an dem der Soulstone of the Elementor aufbewahrt wird.\nDie Bewunderer des Helden Lillip\npilgern jedes Jahr zu diesem Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000126	Altar des Ranger
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000127	Der Ort, an dem der Soulstone of the Ranger aufbewahrt wird.\nDie Bewunderer des Helden Hynan\npilgern jedes Jahr zu diesem Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000128	Altar des Billposter
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000129	Der Ort, an dem der Soulstone of the Billposter aufbewahrt wird.\nDie Bewunderer des Helden Roentel\npilgern jedes Jahr zu diesem Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000130	Altar des Blade
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000131	Der Ort, an dem der Soulstone of the Blade aufbewahrt wird.\nDie Bewunderer des Helden Heren\npilgern jedes Jahr zu diesem Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000132	Altar des Knight
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000133	Der Ort, an dem der Soulstone of the Knight aufbewahrt wird.\nDie Bewunderer des Helden Billeien\npilgern jedes Jahr zu diesem Ort.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000134	Soldaten von Kyon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000135	Die beste Militäreinheit von Teshar in Madrigal.\nEs mögen nicht viele sein,\naber alle sind hochqualifizierte Individuen.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000136	Darkon 2\nDarkon
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000137	Verwaltung von Darkon.\nDie meisten Menschen der bewohner hören schlecht\nwegen dem Lärm von all den Maschinengeräuschen.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000138	Darkon 2\nEienble Höhle
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139	Künstliche Höhle.\nDer Großteil davon, außer Darkon, wurde zum Monsterareal \nals der Clockwork War beendet war.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140	Darkon 2\nEienble Höhle
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141	Künstliche Höhle.\nDer Großteil davon, außer Darkon, wurde zum Monsterareal \nals der Clockwork War beendet war.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142	Darkon 2\nEienble Höhle
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143	Künstliche Höhle.\nDer Großteil davon, außer Darkon, wurde zum Monsterareal \nals der Clockwork War beendet war.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144	Darkon 1\nKhipRa
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145	Die Natur hier sieht sehr zerstört aus, was an den erbauten \nErons Fabriken liegen könnte. In diesen Firmen werden die Erons hergestellt.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146	Darkon 1\nGouthan Gebirge
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147	Der größte Berg in Darkon.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148	Darkon 1\nGouthan Gebirge
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149	Der größte Berg in Darkon.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150	Darkon 1\nKhipra
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151	Die Natur hier sieht sehr zerstört aus, was an den erbauten \nErons Fabriken liegen könnte. In diesen Firmen werden die Erons hergestellt.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152	Darkon 2\nClockworks Arena
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153	Dies ist der Käfig, in dem Clockworks nach dem Clockwork War versiegelt wurde.
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154	Observatorium von Flaris
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000155	Versammlungsort der Weisen
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000156	Saint Morning\nBibliothek
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000157	Saint Morning\nDas kleine Theater von Tantalus
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158	Darkon 1\nDas Versteck von Hanoyan
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159	Altar des Jesters
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160	Darkon 3\nDorf von Khan
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161	Collecting Area
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162	Collecting Area
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163	Collecting Area
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164	Aminuskrypta
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165	Verfluchte Aminuskrypta
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000166	Montaru-Basislager
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000167	Khaldera Landezone
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000168	Knochenpfad
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000169	Lager der untoten Legion
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000170	Knochengrube
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000171	Chrystal-Labyrinth
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000172	Tramnuk-Abbild
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000173	Tramnuk
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000174	Kailun Grasland
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000175	Elliun
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000176	Tempel des Behemoths
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000177	Tempel des Behemoths
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000178	Kalgas Höhle
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000179	Ruendra Camp
+IDS_WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000180	Bahara Wüste

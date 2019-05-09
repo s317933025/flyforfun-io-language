@@ -1,0 +1,94 @@
+ids_textclient_connecting	Connecting. Please wait.
+ids_textclient_cantconnect	Cannot connect to the game. Please check the network.
+ids_textclient_oldclient	Old version of client.
+ids_textclient_wrongserver	Wrong server identifier.
+ids_textclient_unknownerror	Unknown error, please try again.
+ids_textclient_alreadyconnected	Your character is already connected.
+ids_textclient_serverfull	This server is currently full, please wait a moment or select another server.
+ids_textclient_bigmonster	Boss Monster Detected!!!
+ids_textclient_app_map	World Map
+ids_textclient_app_option	Option
+ids_textclient_app_logout	Logout
+ids_textclient_app_quit	Quit
+ids_textclient_app_navigator	Navigator
+ids_textclient_app_debug	Debug
+ids_textclient_loggingout	Logging out in %d sec(s).
+ids_textclient_logout	Do you want to disconnect? You will lose your character if you did not linked it to an account.
+ids_textclient_exit	Do you want to exit the program?
+ids_textclient_disconnected	Disconnected from the server.
+ids_textclient_creationdisabled	Character creation is disabled on this server.
+ids_textclient_optionreboot	You must restart the game for all changes to take effect.
+ids_textclient_maphidden	There seems to be an evil force clouding your vision of the area.
+ids_textclient_item_desc	Description:
+ids_textclient_invalidcharacters	This name contains unauthorized characters.
+ids_textclient_invalidname	This name contains unauthorized words.
+ids_textclient_ipbanned	Your public internet address has been banned. Contact the administrator for more informations.
+ids_textclient_ipblocked	An important activity has been detected on your public internet address. Please wait %s before trying again.
+ids_textclient_secs	second(s)
+ids_textclient_mins	minute(s)
+ids_textclient_hours	hour(s)
+ids_textclient_sessionexpired	Your session has expired, please enter your login and password again.
+ids_textclient_admin	Admin
+ids_textclient_gamemaster	Game Master
+ids_textclient_app_chat	Chatting
+ids_textclient_invalidlogin	Your login or password is invalid.
+ids_textclient_accountconnected	Your account is already connected.
+ids_textclient_nowposition	Position : x = %f, y = %f, z = %f
+ids_textclient_nottransself	You cannot send a PM to yourself.
+ids_textclient_playernotexist	%s does not exist or is not online.
+ids_textclient_app_notice	Notice
+ids_textclient_app_status	Status
+ids_textclient_playerinformation	%s - Lv: %d
+ids_textclient_blink_limit	You cannot use it during skill motion.
+ids_textclient_notsit_blink	You cannot use a Blinkwing while sitting.
+ids_textclient_stand_limit	You can use it when you stand up.
+ids_textclient_flight_nouse	Unable to use while flying.
+ids_textclient_error_nofly	You cannot fly here.
+ids_textclient_error_notalk	You are not allowed to talk.
+ids_textclient_error_chatspam	You received 3 minutes penalty because of too much of chatting.
+ids_textclient_app_motion	Motion
+ids_textclient_app_charinfo	Character
+ids_textclient_limithp	Cannot recover HP right now.
+ids_textclient_limitmp	Cannot recover MP right now.
+ids_textclient_limitfp	FP recovery rate decreased.
+ids_textclient_attentioncooltime	Please wait a while before using the item again.
+ids_textclient_death	Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.
+ids_textclient_mobpriority	You cannot attack a monster that is fighting against another player.
+ids_textclient_noquitcombat	You cannot quit during combat.
+ids_textclient_levelup	Level up! You can increase your stats in your character window.
+ids_textclient_levelup_caption	Congratulations! Level up!
+ids_textclient_charstatus_apply_q	Do you want to use the current Stat setup?
+ids_textclient_charstatus_firstjob Your stat values will reset after your 1st job change.
+ids_textclient_admin_state	Status
+ids_textclient_admin_normal	Normal
+ids_textclient_speed_veryslow	Very slow
+ids_textclient_speed_low	Slow
+ids_textclient_speed_normal	Normal
+ids_textclient_speed_fast	Fast
+ids_textclient_speed_veryfast	Very fast
+ids_textclient_speed_fastest	Fastest
+ids_textclient_itempriority	The %s belongs to another player at the moment. Please wait a while.
+ids_textclient_lackspace	Inventory is full. Please make room and try again.
+ids_textclient_reapitem	You received %s.
+ids_textclient_app_inventory	Inventory
+ids_textclient_reapmoney	You received %s Penya (Total: %s Penya).
+ids_textclient_error_sex	%s is not for your gender.
+ids_textclient_error_job	You cannot equip the %s.  Requirements not met.
+ids_textclient_error_level	You cannot equip this item because your level is too low. (Req Lev: %d)
+ids_textclient_error_undestructable	You can not discard this item.
+ids_textclient_error_usingitem	You are already using that item
+ids_textclient_successremoveitem	Number of %s deleted: %d.
+ids_textclient_notarget	Cannot attack, no monster targeted.
+ids_textclient_notuse	You cannot use this yet.
+ids_textclient_error_notlevel	Your level is too low.
+ids_textclient_block_pm	%s is in the 'Refuse to Whisper/Messenger' setting.
+ids_textclient_error_link_pm	You must link your character to an account to send private messages.
+ids_textclient_yettrade	That player is currently busy. Please try again after few minutes.
+ids_textclient_itemnotuse_trading	You cannot use items while trading.
+ids_textclient_redchip	Red Chip
+ids_textclient_error_equiptrade	Please unequip the item before selling it.
+ids_textclient_error_npcbufflevel	Only level %d~%d character can get buffs.
+ids_textclient_error_npcbufffail	You cannot use %s right now.
+ids_textclient_unregistered	Unregistered
+ids_textclient_level15job	Now it's time to choose your job.
+ids_textclient_changejob	Congratulations!  You have advanced to the %s job class.

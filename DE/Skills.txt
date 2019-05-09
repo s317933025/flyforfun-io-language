@@ -1,0 +1,462 @@
+IDS_PROPSKILL_TXT_000000	Clean Hit
+IDS_PROPSKILL_TXT_000001	Benutze diesen Skill, um mit einem mächtigen Schwerthieb Schaden zu verursachen.
+IDS_PROPSKILL_TXT_000002	Brandish
+IDS_PROPSKILL_TXT_000003	Ein Rundumhieb, um den Feind schnell mehrfach mit dem Schwert zu durchlöchern.
+IDS_PROPSKILL_TXT_000004	Over Cutter
+IDS_PROPSKILL_TXT_000005	Ein Abschluss Skill, um einen starken Schlag nach vorne auszuführen.
+IDS_PROPSKILL_TXT_000006	Splash
+IDS_PROPSKILL_TXT_000007	Ein Skill, um den Feind 2x mit konzentrierter Energie zu schlagen.
+IDS_PROPSKILL_TXT_000008	Keenwheel
+IDS_PROPSKILL_TXT_000009	Ein Kreiselskill, um den Feind mehrmals schnell hintereinander zu treffen. 
+IDS_PROPSKILL_TXT_000010	Blindside
+IDS_PROPSKILL_TXT_000011	Ein Abschluss Skill, um den Feind mit deiner ganzen Kraft zu schlagen.
+IDS_PROPSKILL_TXT_000012	Protection
+IDS_PROPSKILL_TXT_000013	Erhöht die Verteidigung, in dem man dem Schild etwas seiner Kraft leiht.
+IDS_PROPSKILL_TXT_000014	Pan Barrier
+IDS_PROPSKILL_TXT_000015	Erhöht die Widerstandskraft gegenüber Fernattacken beim Benutzen eines Schildes.
+IDS_PROPSKILL_TXT_000016	Blazing Sword
+IDS_PROPSKILL_TXT_000017	Erhöht die Angriffsstärke und die Treffsicherheit deines Schwertes.
+IDS_PROPSKILL_TXT_000018	Smite Axe
+IDS_PROPSKILL_TXT_000019	Erhöht die Angriffstärke und die Verteidigungsstärke deiner Axt.
+IDS_PROPSKILL_TXT_000020	Empower Weapon
+IDS_PROPSKILL_TXT_000021	Zur vorübergehenden Verstärkung der Fähigkeiten und der Attribute der Waffen.
+IDS_PROPSKILL_TXT_000022	Bloody Strike
+IDS_PROPSKILL_TXT_000023	Entzieht dem Gegner HP und füllt die eigenen HP auf.
+IDS_PROPSKILL_TXT_000024	Sword Mastery
+IDS_PROPSKILL_TXT_000025	Zur Erhöhung der Angriffsstärke bei Erhebung der Schwertfähigkeiten.
+IDS_PROPSKILL_TXT_000026	Axe Mastery
+IDS_PROPSKILL_TXT_000027	Zur Erhöhung der Angriffsstärke bei Erhebung der Axtfähigkeiten.
+IDS_PROPSKILL_TXT_000028	Special Hit
+IDS_PROPSKILL_TXT_000029	Den Gegner mit gesamtem Körpereinsatz schlagen.
+IDS_PROPSKILL_TXT_000030	Guillotine
+IDS_PROPSKILL_TXT_000031	Ein Hieb gegen den Gegner mit der Waffe, geladen mit Geisteskraft. 
+IDS_PROPSKILL_TXT_000032	Sneaker
+IDS_PROPSKILL_TXT_000033	Ein Netz wird ausgeworfen, um den Gegner zu verlangsamen.
+IDS_PROPSKILL_TXT_000034	Reflex Hit
+IDS_PROPSKILL_TXT_000035	Ein Hieb gegen den Gegner, der den Schaden des Angreifers reflektiert.
+IDS_PROPSKILL_TXT_000036	Guard
+IDS_PROPSKILL_TXT_000037	Erhöht die Verteidigung bei Senkung der Angriffsstärke.
+IDS_PROPSKILL_TXT_000038	Pain Reflection
+IDS_PROPSKILL_TXT_000039	Reflektiert einen Teil des Schadens, welcher dir vom Gegner zufügt wird.
+IDS_PROPSKILL_TXT_000040	Rage
+IDS_PROPSKILL_TXT_000041	Erhöht die Angriffsstärke und HP durch die Konzentration auf den Angriff. Verteidigung und Treffsicherheit werden gesenkt.
+IDS_PROPSKILL_TXT_000042	Powerswing
+IDS_PROPSKILL_TXT_000043	Ein Hieb gegen den Gegner, indem man mit der Waffe weit ausholt.
+IDS_PROPSKILL_TXT_000044	Earth Divider
+IDS_PROPSKILL_TXT_000045	Ein Hieb gegen Gegner durch einen absoluten Hieb des Schwertes.
+IDS_PROPSKILL_TXT_000046	Charge
+IDS_PROPSKILL_TXT_000047	Ein Hieb gegen den Gegner durch das Schwingen des Schwertes in Himmelsrichtung.
+IDS_PROPSKILL_TXT_000048	Pain Dealer
+IDS_PROPSKILL_TXT_000049	Verringert die gegnerische Verteidigung kurzzeitig beim Angriff, wenn man eine Axt verwendet.
+IDS_PROPSKILL_TXT_000050	Power Stump
+IDS_PROPSKILL_TXT_000051	Wirft den Gegner zu Boden, indem man mit der Axt auf die Erde schlägt. Chance, den Gegner zu betäuben.
+IDS_PROPSKILL_TXT_000052	Cross Strike
+IDS_PROPSKILL_TXT_000053	Den Gegner mit zwei Einhandwaffen angreifen.
+IDS_PROPSKILL_TXT_000054	Armor Penetrate
+IDS_PROPSKILL_TXT_000055	Verwirren des Gegners. Die Verteidigung des Gegners wird geschwächt.
+IDS_PROPSKILL_TXT_000056	Silent Strike
+IDS_PROPSKILL_TXT_000057	Ein sehr schneller Hieb gegen den Gegner.
+IDS_PROPSKILL_TXT_000058	Blade Dance
+IDS_PROPSKILL_TXT_000059	Durch kurzes Tanzen ausgelöster Schlag in einen gegnerischen Bereich.
+IDS_PROPSKILL_TXT_000060	Spring Attack
+IDS_PROPSKILL_TXT_000061	Einen Hieb gegen den Gegner durch wiederholendes Schwingen der Axt.
+IDS_PROPSKILL_TXT_000062	Hawk Attack
+IDS_PROPSKILL_TXT_000063	Einen Hieb gegen den Gegner nach einem Sprung. Der Gegner kann im Zustand der Verdunklung sein.
+IDS_PROPSKILL_TXT_000064	Sonic Blade
+IDS_PROPSKILL_TXT_000065	Ein Hieb gegen den Gegner mit der Waffe, geladen mit Geisteskraft.
+IDS_PROPSKILL_TXT_000066	Berserk
+IDS_PROPSKILL_TXT_000067	Erhöht die Angriffsstärke und das Angriffstempo indem man zornig wird.
+IDS_PROPSKILL_TXT_000068	Heal
+IDS_PROPSKILL_TXT_000069	Die HP eines Spielers wiederherstellen.
+IDS_PROPSKILL_TXT_000070	Tamping Hole
+IDS_PROPSKILL_TXT_000071	Einen Hieb gegen den Gegner mit dem Knuckel ausführen.
+IDS_PROPSKILL_TXT_000072	Resurrection
+IDS_PROPSKILL_TXT_000073	Einen toten Charakter mit heiliger Energie wiederbeleben.
+IDS_PROPSKILL_TXT_000074	Patience
+IDS_PROPSKILL_TXT_000075	Die HP eines Spielers vorübergehend erhöhen.
+IDS_PROPSKILL_TXT_000076	Prevention
+IDS_PROPSKILL_TXT_000077	Segnet dich, so dass sich die HP wieder auffüllen sobald diese unter einen bestimmten Wert gefallen sind.
+IDS_PROPSKILL_TXT_000078	Heap Up
+IDS_PROPSKILL_TXT_000079	Erhöht die physische Stärke des angewählten Spielers.
+IDS_PROPSKILL_TXT_000080	Cannonball
+IDS_PROPSKILL_TXT_000081	Erhöht die Bereitwilligkeit des angewählten Spielers.
+IDS_PROPSKILL_TXT_000082	Circle Healing
+IDS_PROPSKILL_TXT_000083	Heilt Partymitglieder in deiner Nähe.
+IDS_PROPSKILL_TXT_000084	Mental Sign
+IDS_PROPSKILL_TXT_000085	Erhöht die Intelligenz des angewählten Spielers.
+IDS_PROPSKILL_TXT_000086	Beef Up
+IDS_PROPSKILL_TXT_000087	Erhöht die Stärke des angewählten Spielers.
+IDS_PROPSKILL_TXT_000088	Burst Crack
+IDS_PROPSKILL_TXT_000089	Das Knuckle mit aller Kraft in den Boden rammen und durch die Erschütterung des Bodens fügst du dem Gegner Schaden zu.
+IDS_PROPSKILL_TXT_000090	Stonehand
+IDS_PROPSKILL_TXT_000091	Verstärkung der Waffe. Alle Waffen haben eine Betäubungsfunktion.
+IDS_PROPSKILL_TXT_000092	Quick Step
+IDS_PROPSKILL_TXT_000093	Erhöht die Bewegungsgeschwindigkeit des angewählten Spielers.
+IDS_PROPSKILL_TXT_000094	Cats Reflex
+IDS_PROPSKILL_TXT_000095	Erhöht die Abwehr des angewählten Spielers.
+IDS_PROPSKILL_TXT_000096	Accuracy
+IDS_PROPSKILL_TXT_000097	Erhöht die Treffsicherheit des angewählten Spielers.
+IDS_PROPSKILL_TXT_000098	Power Fist
+IDS_PROPSKILL_TXT_000099	Ein Hieb gegen den Gegner durch Konzentration auf den Knuckle.
+IDS_PROPSKILL_TXT_000100	Haste
+IDS_PROPSKILL_TXT_000101	Erhöhung des Angriffstempos des angewählten Spielers.
+IDS_PROPSKILL_TXT_000102	Heal Rain
+IDS_PROPSKILL_TXT_000103	Stellt eine Menge HP von Partymitgliedern in deiner Nähe wieder her.
+IDS_PROPSKILL_TXT_000104	Holy Cross
+IDS_PROPSKILL_TXT_000105	Lässt den Gegner zweifachen Schaden durch Einschränkungen erleiden.
+IDS_PROPSKILL_TXT_000106	Protect
+IDS_PROPSKILL_TXT_000107	Erhöht die physische Verteidigung des angewählten Spielers.
+IDS_PROPSKILL_TXT_000108	Holy Guard
+IDS_PROPSKILL_TXT_000109	Erhöht den Magiewiderstand des angewählten Spielers.
+IDS_PROPSKILL_TXT_000110	Spiriture Fortune
+IDS_PROPSKILL_TXT_000111	Erhöht die Angriffsstärke des angewählten Spielers.
+IDS_PROPSKILL_TXT_000112	Gvur Tialla
+IDS_PROPSKILL_TXT_000113	Entfernt alle negativen Effekte von einem Spieler.
+IDS_PROPSKILL_TXT_000114	Geburah Tiphreth
+IDS_PROPSKILL_TXT_000115	Verbessern der Fähigkeiten im Kampf für die Partymitglieder in deiner Nähe.
+IDS_PROPSKILL_TXT_000116	Merkaba Hanzelrusha
+IDS_PROPSKILL_TXT_000117	Zieht einen heiligen Bereich um dich. Gegner erleiden in diesem Bereich Schaden.
+IDS_PROPSKILL_TXT_000118	Belial Smashing
+IDS_PROPSKILL_TXT_000119	Einen Angriff mit dem Knuckle starten und auf den Gegner einstürmen.
+IDS_PROPSKILL_TXT_000120	Piercing Serpent
+IDS_PROPSKILL_TXT_000121	Einen Angriff gegen den Feind, in dem man Geisteskraft aus dem Knuckle schießt.
+IDS_PROPSKILL_TXT_000122	Blood Fist
+IDS_PROPSKILL_TXT_000123	Ein Angriff gegen den Gegner welcher diesen schwächt. Der Feind wird in den Bluten Status versetzt.
+IDS_PROPSKILL_TXT_000124	Sonic Hand
+IDS_PROPSKILL_TXT_000125	Den Gegner angreifen, in dem man ihn sehr schnell mit dem Knuckle angreift.
+IDS_PROPSKILL_TXT_000126	Asmodeus
+IDS_PROPSKILL_TXT_000127	Erhöhung der Angriffsstärke durch das Verstärken der Knuckle Fähigkeiten.
+IDS_PROPSKILL_TXT_000128	Baraqijal Esna
+IDS_PROPSKILL_TXT_000129	Erhöhen der Angriffsstärke durch das Senken der Verteidigungsstärke. Du wendest Flüche an.
+IDS_PROPSKILL_TXT_000130	Bgvur Tialbold
+IDS_PROPSKILL_TXT_000131	Einen Gegner mit einer Schockwelle angreifen.
+IDS_PROPSKILL_TXT_000132	Asalraalaikum
+IDS_PROPSKILL_TXT_000133	Den Gegner mit voller Konzentration angreifen. Der MP verbrauch liegt bei 100%
+IDS_PROPSKILL_TXT_000134	Fire Boomerang
+IDS_PROPSKILL_TXT_000135	Den Gegner mit einem Boomerang aus Feuer angreifen.
+IDS_PROPSKILL_TXT_000136	Hot Air
+IDS_PROPSKILL_TXT_000137	Den Gegner durch den Geist des Feuers wiederholt Schaden zufügen.
+IDS_PROPSKILL_TXT_000138	Swordwind
+IDS_PROPSKILL_TXT_000139	Den Gegner durch starken Wind, so scharf wie ein Messer, Schaden zufügen.
+IDS_PROPSKILL_TXT_000140	Strongwind
+IDS_PROPSKILL_TXT_000141	Dem Gegner durch einen starken Wind Schaden zufügen. Der Gegner wird dabei zurückgestoßen.
+IDS_PROPSKILL_TXT_000142	Blinkpool
+IDS_PROPSKILL_TXT_000143	Sich durch die Magie bewegen.
+IDS_PROPSKILL_TXT_000144	Ice Missile
+IDS_PROPSKILL_TXT_000145	Dem Gegner durch das Durchbohren mit Eis Schaden zufügen.
+IDS_PROPSKILL_TXT_000146	Lightning Ball
+IDS_PROPSKILL_TXT_000147	Dem Gegner durch statische Energie Schaden zufügen.
+IDS_PROPSKILL_TXT_000148	Spike Stone
+IDS_PROPSKILL_TXT_000149	Den Gegner durch einen Sturm massiver Steine Schaden zufügen. Der Gegner wird dabei betäubt.
+IDS_PROPSKILL_TXT_000150	Mental Strike
+IDS_PROPSKILL_TXT_000151	Dem Gegner mit mentaler Kraft Schaden zufügen.
+IDS_PROPSKILL_TXT_000152	Fire Strike
+IDS_PROPSKILL_TXT_000153	Schleudert einen riesigen Feuerball auf den Gegner.
+IDS_PROPSKILL_TXT_000154	Wind Cutter
+IDS_PROPSKILL_TXT_000155	Den Gegner durch starken Wind, so scharf wie ein Messer, Schaden zufügen.
+IDS_PROPSKILL_TXT_000156	Waterball
+IDS_PROPSKILL_TXT_000157	Dem Gegner mit einem starken Wasserball Schaden zufügen.
+IDS_PROPSKILL_TXT_000158	Springwater
+IDS_PROPSKILL_TXT_000159	Dem Gegner durch eine sehr große Wassermenge Schaden zufügen. Der Gegner wird dabei nass.
+IDS_PROPSKILL_TXT_000160	Lightning Palm
+IDS_PROPSKILL_TXT_000161	Dem Gegner mit einem elektrischen Ball Schaden zufügen.
+IDS_PROPSKILL_TXT_000162	Lightning Shock
+IDS_PROPSKILL_TXT_000163	Dem Gegner mit einem elektrischen Schuss Schaden zufügen.
+IDS_PROPSKILL_TXT_000164	Rock Crash
+IDS_PROPSKILL_TXT_000165	Dem Gegner mit einem gigantischen Felsen Schaden zufügen.
+IDS_PROPSKILL_TXT_000166	Rooting
+IDS_PROPSKILL_TXT_000167	Hält den Gegner durch das Beschwören der Seele der Erde von dir fern.
+IDS_PROPSKILL_TXT_000168	Demonology
+IDS_PROPSKILL_TXT_000169	Die gegnerische Seele schädigen indem man böse Gedanken beschwört.
+IDS_PROPSKILL_TXT_000170	Satanology
+IDS_PROPSKILL_TXT_000171	Das Annähern des Gegners verhindern indem man Konfusion einsetzt.
+IDS_PROPSKILL_TXT_000172	Psychic Bomb
+IDS_PROPSKILL_TXT_000173	Dem Gegner durch das Explodieren einer geistigen Bombe Schaden zufügen.
+IDS_PROPSKILL_TXT_000174	Psychic Wall
+IDS_PROPSKILL_TXT_000175	Hält den Gegner mit Hilfe einer spirituellen Mauer von dir fern. 
+IDS_PROPSKILL_TXT_000176	Spirit Bomb
+IDS_PROPSKILL_TXT_000177	Dem Gegner durch Brechen seiner Konzentration Schaden zufügen. Der Schaden basiert auf den verbleibenden MP Punkten.
+IDS_PROPSKILL_TXT_000178	Crucio Spell
+IDS_PROPSKILL_TXT_000179	Die Schäden von Skills und magischen Attacken zurückwerfen.
+IDS_PROPSKILL_TXT_000180	Maximum Crisis
+IDS_PROPSKILL_TXT_000181	Den Gegnern um dich herum mit einer starken mentalen Welle Schaden zufügen.
+IDS_PROPSKILL_TXT_000182	Psychic Square
+IDS_PROPSKILL_TXT_000183	Dem Gegner Schaden erleiden lassen, indem man sie im Chaos verwickelt.
+IDS_PROPSKILL_TXT_000184	Firebird
+IDS_PROPSKILL_TXT_000185	Dem Gegner mit einem Feuerball des Phönix Schaden zufügen.
+IDS_PROPSKILL_TXT_000186	Fire Master
+IDS_PROPSKILL_TXT_000187	Erhöhung der Angriffsstärke von Magie mit Feuer Attribute.
+IDS_PROPSKILL_TXT_000188	Burningfield
+IDS_PROPSKILL_TXT_000189	Dem Gegner durch wiederholte Feuerflut Schaden zufügen.
+IDS_PROPSKILL_TXT_000190	Thunder Strike
+IDS_PROPSKILL_TXT_000191	Dem Gegner durch einen starken elektrischen Blitz Schaden zufügen.
+IDS_PROPSKILL_TXT_000192	Lightning Master
+IDS_PROPSKILL_TXT_000193	Erhöhen der Angriffstärke von Magie mit Blitz Attributen.
+IDS_PROPSKILL_TXT_000194	Electric Shock
+IDS_PROPSKILL_TXT_000195	Allen Gegnern durch die Generation einer starken Elektrowelle Schaden zufügen. Die Verteidigung der Gegner wird gesenkt.
+IDS_PROPSKILL_TXT_000196	Stone Spear
+IDS_PROPSKILL_TXT_000197	Den Gegner mit einem Sturm von versteinerten Speeren angreifen.
+IDS_PROPSKILL_TXT_000198	Earth Master
+IDS_PROPSKILL_TXT_000199	Erhöhen der Angriffstärke von Magie mit Erd Attributen.
+IDS_PROPSKILL_TXT_000200	Earthquake
+IDS_PROPSKILL_TXT_000201	Allen Gegnern durch ein herbei beschworenes Erdbeben Schaden zufügen.
+IDS_PROPSKILL_TXT_000202	Iceshark
+IDS_PROPSKILL_TXT_000203	Dem Gegner mit einer starken Wolke aus Eis Schaden zufügen.
+IDS_PROPSKILL_TXT_000204	Water Master
+IDS_PROPSKILL_TXT_000205	Erhöhen der Angriffstärke von Magie mit Wasser Attributen.
+IDS_PROPSKILL_TXT_000206	Poison Cloud
+IDS_PROPSKILL_TXT_000207	Allen Gegnern mit saurem Regen Schaden zufügen.
+IDS_PROPSKILL_TXT_000208	Void
+IDS_PROPSKILL_TXT_000209	Dem Gegner durch ein absolutes Vakuum Schaden erleiden lassen.
+IDS_PROPSKILL_TXT_000210	Wind Master
+IDS_PROPSKILL_TXT_000211	Erhöhen der Angriffstärke von Magie mit Wind Attributen.
+IDS_PROPSKILL_TXT_000212	Windfield
+IDS_PROPSKILL_TXT_000213	Allen Gegnern durch einen herbeigerufenen starken Sturm Schaden zufügen. Die Geschwindigkeit der Gegner wird reduziert.
+IDS_PROPSKILL_TXT_000214	Meteor Shower
+IDS_PROPSKILL_TXT_000215	Allen Gegnern durch fallende brennende Meteorbrocken Schaden zufügen.
+IDS_PROPSKILL_TXT_000216	Lightning Storm
+IDS_PROPSKILL_TXT_000217	Allen Gegner mit einem herbeigerufenen elektrischen Sturm Schaden erleiden lassen.
+IDS_PROPSKILL_TXT_000218	Sandstorm
+IDS_PROPSKILL_TXT_000219	Allen Gegnern durch Herbeirufen eines Sandsturms Schaden zufügen.
+IDS_PROPSKILL_TXT_000220	Avalanche
+IDS_PROPSKILL_TXT_000221	Allen Gegnern Schaden zufügen, indem man einen Blizzard herbeiruft. Die Gegner werden dabei betäubt.
+IDS_PROPSKILL_TXT_000222	Yoyo Mastery
+IDS_PROPSKILL_TXT_000223	Erhöhen der Angriffskraft durch steigern der Yoyo Fähigkeiten.
+IDS_PROPSKILL_TXT_000224	Bow Mastery
+IDS_PROPSKILL_TXT_000225	Die Angriffskraft erhöht sich, wenn du einen Bogen benutzt.
+IDS_PROPSKILL_TXT_000226	Dark Illusion
+IDS_PROPSKILL_TXT_000227	Verstecke deine Anwesenheit in der Dunkelheit.
+IDS_PROPSKILL_TXT_000228	Junk Arrow
+IDS_PROPSKILL_TXT_000229	Schießt einen Pfeil, der den Gegner vergiften kann. Die Treffsicherheit ist niedrig.
+IDS_PROPSKILL_TXT_000230	Fast Walker
+IDS_PROPSKILL_TXT_000231	Für eine kurze Zeit wird die Geschwindigkeit erhöht mit der man sich bewegt.
+IDS_PROPSKILL_TXT_000232	Aimed Shot
+IDS_PROPSKILL_TXT_000233	Den Gegner durch einen gezielten Schuss mit dem Bogen schwächen. Der Gegner kann doppelten Schaden erleiden.
+IDS_PROPSKILL_TXT_000234	Slow Step
+IDS_PROPSKILL_TXT_000235	Das Bein des Gegners Angreifen, um ihn zu verlangsamen.
+IDS_PROPSKILL_TXT_000236	Silent Shot
+IDS_PROPSKILL_TXT_000237	Ein Überraschungsangriff. Durch den Status von Dark Illusion wird die Angriffsstärke erhöht.
+IDS_PROPSKILL_TXT_000238	Perfect Block
+IDS_PROPSKILL_TXT_000239	Erhöhen der Abwehr durch Konzentration auf die Bewegung des Gegners.
+IDS_PROPSKILL_TXT_000240	Arrow Rain
+IDS_PROPSKILL_TXT_000241	Durch einen Schuss in den Himmel, den Kopf des Gegners angreifen.
+IDS_PROPSKILL_TXT_000242	Cross Line
+IDS_PROPSKILL_TXT_000243	Einen Angriff auf den Gegner durch das Kreuzen der Yoyos. Der Gegner kann betäubt werden.
+IDS_PROPSKILL_TXT_000244	Auto Shot
+IDS_PROPSKILL_TXT_000245	Schießt schnell einen Pfeil auf den Gegner. Der Gegner kann in Dunkelheit gehüllt werden.
+IDS_PROPSKILL_TXT_000246	Snitch
+IDS_PROPSKILL_TXT_000247	Stiehlt Penya vom Gegner während man Dark Illusion benutzt. Du solltest hinter dem angewählten Ziel stehen.
+IDS_PROPSKILL_TXT_000248	Counter Attack
+IDS_PROPSKILL_TXT_000249	Nach dem Angriff eines Gegners erfolgt automatisch ein Gegenangriff.
+IDS_PROPSKILL_TXT_000250	Deadly Swing
+IDS_PROPSKILL_TXT_000251	Verursacht kritischen Schaden durch einen unvorhersehbaren Angriff mit dem Yoyo. Der Gegner kann den Status Bluten erleiden.
+IDS_PROPSKILL_TXT_000252	Pulling
+IDS_PROPSKILL_TXT_000253	Zieht mit Hilfe der Yoyos ein Ziel zu dir.
+IDS_PROPSKILL_TXT_000254	Critical Swing
+IDS_PROPSKILL_TXT_000255	Erhöht die kritische Trefferrate mit dem Yoyo.
+IDS_PROPSKILL_TXT_000256	Enchant Poison
+IDS_PROPSKILL_TXT_000257	Erhöht die Angriffsstärke der Yoyos durch das Hinzufügen des Gift-Attributs.
+IDS_PROPSKILL_TXT_000258	Enchant Blood
+IDS_PROPSKILL_TXT_000259	Erhöht die Angriffsstärke, wenn man ein Yoyo benutzt.
+IDS_PROPSKILL_TXT_000260	Enchant Absorb
+IDS_PROPSKILL_TXT_000261	Erhöht die Angriffsstärke, indem man mit den Yoyos dem Gegner HP entzieht.
+IDS_PROPSKILL_TXT_000262	Back Step
+IDS_PROPSKILL_TXT_000263	Greife einen Gegner von hinten mit einem Yoyo an. Der Gegner kann dabei betäubt werden.
+IDS_PROPSKILL_TXT_000264	Hit of Penya
+IDS_PROPSKILL_TXT_000265	Einen Angriff mit Penya auf den Gegner starten, durch das Benutzen der Yoyos. Deine Penya werden dabei verbraucht.
+IDS_PROPSKILL_TXT_000266	Escape
+IDS_PROPSKILL_TXT_000267	Ermöglicht dir die Befreiung aus gewissen bewegungsbeeinflussenden Spielerskills. Dark Illusion muss zuerst ausgeführt werden.
+IDS_PROPSKILL_TXT_000268	Fatal Stab
+IDS_PROPSKILL_TXT_000269	Einen Überraschungsangriff aus der Dunkelheit starten. Dark Illusion wird benötigt.
+IDS_PROPSKILL_TXT_000270	Fast Shot
+IDS_PROPSKILL_TXT_000271	Erhöht die Geschwindigkeit beim Treffen mit dem Bogen.
+IDS_PROPSKILL_TXT_000272	Ice Arrow
+IDS_PROPSKILL_TXT_000273	Belegt einen Pfeil mit dem Eis Attribut und verlangsamt so den Gegner.
+IDS_PROPSKILL_TXT_000274	Flame Arrow
+IDS_PROPSKILL_TXT_000275	Verursacht anhaltenden Feuerschaden, solange sich das Ziel im Effektbereich befindet und der Effekt aktiv ist.
+IDS_PROPSKILL_TXT_000276	Piercing Arrow
+IDS_PROPSKILL_TXT_000277	Einen Angriff auf den Gegner durch einen Schuss ins Herz.
+IDS_PROPSKILL_TXT_000278	Poison Arrow
+IDS_PROPSKILL_TXT_000279	Den Gegner mit einem vergifteten Pfeil angreifen.
+IDS_PROPSKILL_TXT_000280	Silent Arrow
+IDS_PROPSKILL_TXT_000281	Der Gegner wird daran gehindert, einen Zauberspruch zu vollenden.
+IDS_PROPSKILL_TXT_000282	Nature
+IDS_PROPSKILL_TXT_000283	Die Resistenz gegen Magie Attribute erhöhen.
+IDS_PROPSKILL_TXT_000284	Triple Shot
+IDS_PROPSKILL_TXT_000285	Einen Angriff bei wiederholtem Schießen von drei Pfeilen auf den Gegner ausführen.
+IDS_PROPSKILL_TXT_000286	Flash
+IDS_PROPSKILL_TXT_000287	Die Augen können wegen einem starken Blitz nicht geöffnet werden.
+IDS_PROPSKILL_TXT_000288	Stun Single
+IDS_PROPSKILL_TXT_000289	Du bist betäubt und kannst dich nicht bewegen.
+IDS_PROPSKILL_TXT_000290	Stun Group
+IDS_PROPSKILL_TXT_000291	Ihr seid betäubt und könnt euch nicht bewegen.
+IDS_PROPSKILL_TXT_000292	Damage
+IDS_PROPSKILL_TXT_000293	
+IDS_PROPSKILL_TXT_000294	Attack Counter
+IDS_PROPSKILL_TXT_000295	Erhöht die Angriffsstärke, wenn man ein Yoyo benutzt.
+IDS_PROPSKILL_TXT_000296	Knock Back
+IDS_PROPSKILL_TXT_000297	Den Gegner wegdrücken. 
+IDS_PROPSKILL_TXT_000298	Burning Field
+IDS_PROPSKILL_TXT_000299	Den Gegner kontinuierlich mit einer Feuerflut angreifen.
+IDS_PROPSKILL_TXT_000300	Poison
+IDS_PROPSKILL_TXT_000301	Den Gegner kontinuierlich mit Gift für eine bestimmte Zeit angreifen.
+IDS_PROPSKILL_TXT_000302	Stun
+IDS_PROPSKILL_TXT_000303	Du bist betäubt und kannst dich nicht bewegen.
+IDS_PROPSKILL_TXT_000304	Bleeding
+IDS_PROPSKILL_TXT_000305	Den Gegner kontinuierlich durch Blutung für eine bestimmte Zeit Schaden zufügen.
+IDS_PROPSKILL_TXT_000306	Steal HP
+IDS_PROPSKILL_TXT_000307	Vom Feind Lebensenergie absaugen.
+IDS_PROPSKILL_TXT_000308	Swordcross
+IDS_PROPSKILL_TXT_000309	
+IDS_PROPSKILL_TXT_000310	Poison Sting
+IDS_PROPSKILL_TXT_000311	Den Gegner kontinuierlich mit Gift für eine bestimmte Zeit angreifen.
+IDS_PROPSKILL_TXT_000312	Bleeding
+IDS_PROPSKILL_TXT_000313	Den Gegner kontinuierlich durch Blutung für eine bestimmte Zeit Schaden zufügen.
+IDS_PROPSKILL_TXT_000314	Low Attack
+IDS_PROPSKILL_TXT_000315	Verringert der Angriffsstärke und die Pause.
+IDS_PROPSKILL_TXT_000316	Low Attack
+IDS_PROPSKILL_TXT_000317	Verringern der Angriffsstärke und die Pause.
+IDS_PROPSKILL_TXT_000318	Stun Group
+IDS_PROPSKILL_TXT_000319	Du fällst in Ohnmacht.
+IDS_PROPSKILL_TXT_000320	Krrrs Poison
+IDS_PROPSKILL_TXT_000321	Den Gegner kontinuierlich durch Blutung für eine bestimmte Zeit Schaden zufügen.
+IDS_PROPSKILL_TXT_000322	Stun Group
+IDS_PROPSKILL_TXT_000323	Du bist betäubt und kannst dich nicht bewegen.
+IDS_PROPSKILL_TXT_000324	The Madness of a Poisonous Mushroom
+IDS_PROPSKILL_TXT_000325	Verringern der Angriffsstärke und das Angriffstempo.
+IDS_PROPSKILL_TXT_000326	The Protection to use the Bark of a Tree
+IDS_PROPSKILL_TXT_000327	Verringern der körperlichen Angriffsstärke durch das Verstecken des Körpers in der Rinde eines Baums.
+IDS_PROPSKILL_TXT_000328	Buff Break
+IDS_PROPSKILL_TXT_000329	
+IDS_PROPSKILL_TXT_000330	Buff Break X
+IDS_PROPSKILL_TXT_000331	
+IDS_PROPSKILL_TXT_000332	Toggle Buff
+IDS_PROPSKILL_TXT_000333	
+IDS_PROPSKILL_TXT_000334	Ultimate Defense
+IDS_PROPSKILL_TXT_000335	Du hast eine hohe Verteidigung, bist aber bewegungsunfähig.
+IDS_PROPSKILL_TXT_000336	Drawing
+IDS_PROPSKILL_TXT_000337	Zieht deine Feinde zu dir.
+IDS_PROPSKILL_TXT_000338	Silence
+IDS_PROPSKILL_TXT_000339	Das Ziel kann keine Magie verwenden.
+IDS_PROPSKILL_TXT_000340	Eye of Hawk
+IDS_PROPSKILL_TXT_000341	Angriffsentfernung
+IDS_PROPSKILL_TXT_000342	Cursed Mind
+IDS_PROPSKILL_TXT_000343	Verringert die magische Verteidigung des Ziels um 50%
+IDS_PROPSKILL_TXT_000344	Harden into Stone
+IDS_PROPSKILL_TXT_000345	Macht das Ziel bewegungsunfähig.
+IDS_PROPSKILL_TXT_000346	Disenchant
+IDS_PROPSKILL_TXT_000347	Entfernt alle Buffs von einem Ziel.
+IDS_PROPSKILL_TXT_000348	Return
+IDS_PROPSKILL_TXT_000349	Teleportiert dich in die nächste Stadt.
+IDS_PROPSKILL_TXT_000350	Burn
+IDS_PROPSKILL_TXT_000351	Fügt dem Ziel über einen gewissen Zeitraum nach und nach Schaden zu.
+IDS_PROPSKILL_TXT_000352	Special One-Handed Mastery
+IDS_PROPSKILL_TXT_000353	Erhöht den Schaden wenn du eine Einhandwaffe verwendest.
+IDS_PROPSKILL_TXT_000354	Special Two-Handed Mastery
+IDS_PROPSKILL_TXT_000355	Erhöht den Schaden wenn du eine Zweihandwaffe verwendest.
+IDS_PROPSKILL_TXT_000356	Special Yoyo Mastery
+IDS_PROPSKILL_TXT_000357	Erhöht den Schaden wenn du Yoyos verwendest.
+IDS_PROPSKILL_TXT_000358	Special Bow Mastery
+IDS_PROPSKILL_TXT_000359	Erhöht den Schaden, während du einen Bogen verwendest.
+IDS_PROPSKILL_TXT_000360	Special INT Mastery
+IDS_PROPSKILL_TXT_000361	Erhöht die INT
+IDS_PROPSKILL_TXT_000362	Special INT Mastery
+IDS_PROPSKILL_TXT_000363	Erhöht die INT
+IDS_PROPSKILL_TXT_000364	Special Knuckle Mastery
+IDS_PROPSKILL_TXT_000365	Erhöht den Schaden wenn du einen Knuckle verwendest.
+IDS_PROPSKILL_TXT_000366	Blessing of the Wise Man
+IDS_PROPSKILL_TXT_000367	Kann zufällig einen negativen Effekt (Gift, Blutung oder Fluch) von einem Gruppenmitgliedes entfernen. Chance steigt bei höherem Skilllevel.
+IDS_PROPSKILL_TXT_000368	Quick Step (Event)
+IDS_PROPSKILL_TXT_000369	Erhöht deine Geschwindigkeit.
+IDS_PROPSKILL_TXT_000370	Haste (Event)
+IDS_PROPSKILL_TXT_000371	Erhöht das Angriffstempo des Ziels.
+IDS_PROPSKILL_TXT_000372	Heap-Up (Event)
+IDS_PROPSKILL_TXT_000373	Erhöht die STA des Ziels.
+IDS_PROPSKILL_TXT_000374	Accuracy (Event)
+IDS_PROPSKILL_TXT_000375	Erhöht die Trefferrate des Ziels.
+IDS_PROPSKILL_TXT_000376	Templar Pulling
+IDS_PROPSKILL_TXT_000377	Ziehe deinen Gegner zu dir. Ein 1H-Schwert muss ausgerüstet sein.
+IDS_PROPSKILL_TXT_000378	Grand Rage
+IDS_PROPSKILL_TXT_000379	Ein Schlag, der hohen Schaden zufügt. Ein 1H-Schwert muss ausgerüstet sein.
+IDS_PROPSKILL_TXT_000380	Shield Strike
+IDS_PROPSKILL_TXT_000381	Schlage mit deinem Schild zu. Kann das Ziel betäuben. Ein Schild muss ausgerüstet sein.
+IDS_PROPSKILL_TXT_000382	Angry Increase
+IDS_PROPSKILL_TXT_000383	Provoziere deinen Gegner und erhöhe die Aggrorate
+IDS_PROPSKILL_TXT_000384	Holy Armor
+IDS_PROPSKILL_TXT_000385	Erhöht die Verteidigung für 5 Minuten.
+IDS_PROPSKILL_TXT_000386	Scope Strike
+IDS_PROPSKILL_TXT_000387	Fügt Flächenschaden zu. Eine 2H-Axt muss ausgerüstet sein.
+IDS_PROPSKILL_TXT_000388	Cross Of Blood
+IDS_PROPSKILL_TXT_000389	Füge hohen Schaden zu.
+IDS_PROPSKILL_TXT_000390	Storm Blast
+IDS_PROPSKILL_TXT_000391	Fügt Flächenschaden zu.
+IDS_PROPSKILL_TXT_000392	Power Increase
+IDS_PROPSKILL_TXT_000393	Erhöht die Angriffskraft für 5 Minuten.
+IDS_PROPSKILL_TXT_000394	Mad Hurricane
+IDS_PROPSKILL_TXT_000395	Fügt einem Ziel hohen Schaden zu.
+IDS_PROPSKILL_TXT_000396	Evasion Increase
+IDS_PROPSKILL_TXT_000397	Erhöht die Nahkampfabwehr für 5 Minuten.
+IDS_PROPSKILL_TXT_000398	Control Increase
+IDS_PROPSKILL_TXT_000399	Erhöht die Treffsicherheit für 5 Minuten.
+IDS_PROPSKILL_TXT_000400	Back Stab
+IDS_PROPSKILL_TXT_000401	Greife den Gegner von hinten an!
+IDS_PROPSKILL_TXT_000402	Range Strike
+IDS_PROPSKILL_TXT_000403	Fügt Flächenschaden zu.
+IDS_PROPSKILL_TXT_000404	Power Increase
+IDS_PROPSKILL_TXT_000405	Erhöht die Angriffskraft für 5 Minuten.
+IDS_PROPSKILL_TXT_000406	Control Increase
+IDS_PROPSKILL_TXT_000407	Erhöht die Treffsicherheit für 5 Minuten.
+IDS_PROPSKILL_TXT_000408	Hawk Eye
+IDS_PROPSKILL_TXT_000409	Erhöht die Reichweite deines Bogens.
+IDS_PROPSKILL_TXT_000410	Prayer of Healing
+IDS_PROPSKILL_TXT_000411	Regeneriert die HP deiner Gruppenmitglieder über einen bestimmten Zeitraum.
+IDS_PROPSKILL_TXT_000412	Blessed Step
+IDS_PROPSKILL_TXT_000413	Erhöht die Bewegungsgeschwindigkeit von Gruppenmitgliedern für 5 Minuten.
+IDS_PROPSKILL_TXT_000414	Blessed Body
+IDS_PROPSKILL_TXT_000415	Erhöht die HP deiner Gruppenmitglieder für 5 Minuten.
+IDS_PROPSKILL_TXT_000416	Blessed Armor
+IDS_PROPSKILL_TXT_000417	Erhöht die Verteidigung deiner Gruppenmitglieder für 5 Minuten.
+IDS_PROPSKILL_TXT_000418	Absolute Barrier
+IDS_PROPSKILL_TXT_000419	Du erhältst 5 Minuten lang keinen Schaden.
+IDS_PROPSKILL_TXT_000420	Fetters
+IDS_PROPSKILL_TXT_000421	Hält ein Ziel für 47-60 Sekunden fest. Das Ziel kann Fähigkeiten benutzen, sich aber nicht bewegen.
+IDS_PROPSKILL_TXT_000422	Aura of Tenacity
+IDS_PROPSKILL_TXT_000423	Erhöht den zusätzlichen Magieschaden deiner Gruppenmitglieder für 5 Minuten.
+IDS_PROPSKILL_TXT_000424	Aura of Rage
+IDS_PROPSKILL_TXT_000425	Erhöht die Angriffskraft deiner Gruppenmitglieder für 5 Minuten.
+IDS_PROPSKILL_TXT_000426	Aura of Speed
+IDS_PROPSKILL_TXT_000427	Erhöht die Angriffsgeschwindigkeit deiner Gruppenmitglieder für 5 Minuten.
+IDS_PROPSKILL_TXT_000428	Aura of Madness
+IDS_PROPSKILL_TXT_000429	Erhöht die kritische Trefferrate der Gruppenmitglieder für 5 Minuten.
+IDS_PROPSKILL_TXT_000430	Darkness Scream
+IDS_PROPSKILL_TXT_000431	Fügt Schaden über Zeit zu.
+IDS_PROPSKILL_TXT_000432	Darkness Rake
+IDS_PROPSKILL_TXT_000433	Fügt hohen Schaden zu.
+IDS_PROPSKILL_TXT_000434	Attack Decrease
+IDS_PROPSKILL_TXT_000435	Senkt die Angriffskraft eines Ziels.
+IDS_PROPSKILL_TXT_000436	Defender Decrease
+IDS_PROPSKILL_TXT_000437	Senkt die DEF eines Ziels.
+IDS_PROPSKILL_TXT_000438	Speed Decrease
+IDS_PROPSKILL_TXT_000439	Senkt die Angriffsgeschwindigkeit eines Ziels.
+IDS_PROPSKILL_TXT_000440	Thunderbolts
+IDS_PROPSKILL_TXT_000441	Fügt Flächenschaden zu.
+IDS_PROPSKILL_TXT_000442	Final Spear
+IDS_PROPSKILL_TXT_000443	Werfe einen magischen Speer auf deine Gegner.
+IDS_PROPSKILL_TXT_000444	Cosmic Element
+IDS_PROPSKILL_TXT_000445	Konzentriere die Elemente und füge einem Ziel Schaden zu.
+IDS_PROPSKILL_TXT_000446	Sleeping
+IDS_PROPSKILL_TXT_000447	Bringt das Ziel zum einschlafen.
+IDS_PROPSKILL_TXT_000448	Holding Storm
+IDS_PROPSKILL_TXT_000449	Hindert dein Ziel daran, sich zu bewegen.
+IDS_PROPSKILL_TXT_000450	Ancient Death Rune
+IDS_PROPSKILL_TXT_000451	Mit einer gewissen Wahrscheinlichkeit, tötest du deinen Gegner mit einem Schlag.
+IDS_PROPSKILL_TXT_000452	Ancient Life Rune
+IDS_PROPSKILL_TXT_000453	Kann bei Benutzung der Waffe 100% HP wiederherstellen.
+IDS_PROPSKILL_TXT_000454	Ancient Battle Rune
+IDS_PROPSKILL_TXT_000455	Kann bei Benutzung der Waffe 100% FP wiederherstellen.
+IDS_PROPSKILL_TXT_000456	Ancient Magic Rune
+IDS_PROPSKILL_TXT_000457	Kann bei Benutzung der Waffe 100% MP wiederherstellen.
+IDS_PROPSKILL_TXT_000458	Ancient Venom Rune
+IDS_PROPSKILL_TXT_000459	Kann bei Benutzung der Waffe, einen Gegner vergiften.
+IDS_PROPSKILL_TXT_000460	Ancient Blood Rune
+IDS_PROPSKILL_TXT_000461	Kann bei Benutzung der Waffe, eine blutende Wunde zufügen.

@@ -1,41 +1,41 @@
 ids_textclient_connecting	連接中，請稍後
-ids_textclient_cantconnect	無法連接到服務器，請檢查網路連接
-ids_textclient_oldclient	客戶端版本過低
-ids_textclient_wrongserver	服務器驗證錯誤
+ids_textclient_cantconnect	無法連接到伺服器，請檢查網路連接
+ids_textclient_oldclient	用戶端版本過低
+ids_textclient_wrongserver	伺服器驗證錯誤
 ids_textclient_unknownerror	未知錯誤，請重試
 ids_textclient_alreadyconnected	您已登入
-ids_textclient_serverfull	服務器已滿，請稍後再試或選擇其他服務器
+ids_textclient_serverfull	伺服器已滿，請稍後再試或選擇其他伺服器
 ids_textclient_bigmonster	BOSS出現!!!
 ids_textclient_app_map	世界地圖
 ids_textclient_app_option	設定
-ids_textclient_app_logout	登出賬戶
-ids_textclient_app_quit	退出游戲
+ids_textclient_app_logout	註銷帳戶
+ids_textclient_app_quit	退出遊戲
 ids_textclient_app_navigator	導航
 ids_textclient_app_debug	Debug
-ids_textclient_loggingout	 %d 秒后登出.
-ids_textclient_logout	您確定要登出嗎？如果您的角色沒有鏈接到任何賬戶會導致已有進度丟失哦。
-ids_textclient_exit	您確定要結束游戲嗎？
-ids_textclient_disconnected	從服務器斷開連接
-ids_textclient_creationdisabled	本服務器創建角色暫不可用
-ids_textclient_optionreboot	你必須重啓游戲以便更改生效
+ids_textclient_loggingout	 %d 秒後註銷.
+ids_textclient_logout	您確定要註銷嗎？如果您的角色沒有連結到任何帳戶會導致已有進度丟失哦。
+ids_textclient_exit	您確定要結束遊戲嗎？
+ids_textclient_disconnected	從伺服器斷開連接
+ids_textclient_creationdisabled	本伺服器創建角色暫不可用
+ids_textclient_optionreboot	你必須重啟遊戲以便更改生效
 ids_textclient_maphidden	似乎有一種邪惡的存在阻礙了你的視野
 ids_textclient_item_desc	介紹：
-ids_textclient_invalidcharacters	名稱含有禁用字符
-ids_textclient_invalidname	名稱含有禁用詞匯
-ids_textclient_ipbanned	您的IP地址被封禁，詳情請咨詢管理員
-ids_textclient_ipblocked	檢測到您的IP地址出現異常，請等待 %s 后重試
-ids_textclient_secs	second(s)
-ids_textclient_mins	minute(s)
-ids_textclient_hours	hour(s)
-ids_textclient_sessionexpired	您的賬戶憑據已過期，請重新登入
+ids_textclient_invalidcharacters	名稱含有禁用字元
+ids_textclient_invalidname	名稱含有禁用詞彙
+ids_textclient_ipbanned	您的IP地址被封禁，詳情請諮詢管理員
+ids_textclient_ipblocked	檢測到您的IP地址出現異常，請等待 %s 後重試
+ids_textclient_secs	秒(s)
+ids_textclient_mins	分(s)
+ids_textclient_hours	時(s)
+ids_textclient_sessionexpired	您的帳戶憑據已過期，請重新登入
 ids_textclient_admin	Admin
 ids_textclient_gamemaster	Game Master
 ids_textclient_app_chat	聊天
-ids_textclient_invalidlogin	賬戶或密碼有誤
+ids_textclient_invalidlogin	帳戶或密碼有誤
 ids_textclient_accountconnected	您已登入
 ids_textclient_nowposition	位置 : x = %f, y = %f, z = %f
 ids_textclient_nottransself	您不能對自己使用 PM.
-ids_textclient_playernotexist	%s 角色不存在或不在綫上
+ids_textclient_playernotexist	%s 角色不存在或不線上上
 ids_textclient_app_notice	注意
 ids_textclient_app_status	狀態
 ids_textclient_playerinformation	%s - Lv: %d
@@ -45,17 +45,17 @@ ids_textclient_stand_limit	站立時無法使用
 ids_textclient_flight_nouse	飛行時無法使用
 ids_textclient_error_nofly	此處禁止飛行
 ids_textclient_error_notalk	您被禁言了
-ids_textclient_error_chatspam	由於短時間内發言過多，除以3分鐘封禁
+ids_textclient_error_chatspam	由於短時間內發言過多，除以3分鐘封禁
 ids_textclient_app_motion	動作
 ids_textclient_app_charinfo	角色
 ids_textclient_limithp	                此時無法恢復HP
 ids_textclient_limitmp	此時無法恢復MP
 ids_textclient_limitfp	FP回復率降低
 ids_textclient_attentioncooltime	請稍後再次使用
-ids_textclient_death	單擊復活回到最近城鎮，或使用道具立刻復活
+ids_textclient_death	按一下復活回到最近城鎮，或使用道具立刻復活
 ids_textclient_mobpriority	你不能攻擊正與別人戰鬥的怪物
 ids_textclient_noquitcombat	戰鬥時不能退出
-ids_textclient_levelup	Level up! 您可以在角色窗口修改點數
+ids_textclient_levelup	Level up! 您可以在角色視窗修改點數
 ids_textclient_levelup_caption	恭喜！您升級了！
 ids_textclient_charstatus_apply_q	確認使用當前點數設置?
 ids_textclient_charstatus_firstjob 您的點數會在第一次轉職時重置
@@ -68,7 +68,7 @@ ids_textclient_speed_fast	快
 ids_textclient_speed_veryfast	非常快
 ids_textclient_speed_fastest	最快
 ids_textclient_itempriority	%s 該物品屬於其他玩家，請稍後
-ids_textclient_lackspace	背包已滿，請整理后再試
+ids_textclient_lackspace	背包已滿，請整理後再試
 ids_textclient_reapitem	已回復 %s.
 ids_textclient_app_inventory	背包
 ids_textclient_reapmoney	獲得 %s 金幣 (總計: %s 金幣).
@@ -82,8 +82,13 @@ ids_textclient_notarget	無法攻擊，沒有目標
 ids_textclient_notuse	無法使用
 ids_textclient_error_notlevel	等級太低
 ids_textclient_block_pm	%s 在 “拒絕密語/消息”設置
-ids_textclient_error_link_pm	您必須將角色與賬戶綁定方可使用密語
+ids_textclient_error_link_pm	您必須將角色與帳戶綁定方可使用密語
 ids_textclient_yettrade	角色忙，請稍後再試
 ids_textclient_itemnotuse_trading	交易時無法使用
 ids_textclient_redchip	紅色卡片
-ids_textclient_error_equiptrade	卸下后方可出售
+ids_textclient_error_equiptrade	卸下後方可出售
+ids_textclient_error_npcbufflevel	只有等級在 %d~%d 之間的角色能夠得到增益.
+ids_textclient_error_npcbufffail	現在還不能使用 %s  請稍後.
+ids_textclient_unregistered	未註冊
+ids_textclient_level15job	是時候選擇你的職業了.
+ids_textclient_changejob	恭喜!  你已達到 %s 職業等級.

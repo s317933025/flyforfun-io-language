@@ -1,12 +1,12 @@
-ids_language_code	CNT
+ids_language_code	CNS
 ids_ui_home_title	主頁
 ids_ui_home_newchar	新角色
 ids_ui_home_login	登錄
 ids_ui_home_website	官方頁面
-ids_ui_home_credits	Credits
-ids_ui_home_server	服務器:
+ids_ui_home_credits	製作人員
+ids_ui_home_server	伺服器:
 ids_ui_login_charlogin	角色登入 :
-ids_ui_login_password	賬戶密碼 :
+ids_ui_login_password	帳戶密碼 :
 ids_ui_login_lost	忘記密碼?
 ids_ui_newchar_name	名稱 :
 ids_ui_newchar_girl	女
@@ -14,13 +14,13 @@ ids_ui_newchar_boy	男
 ids_ui_newchar_create	開始
 ids_ui_msgbox_ok	Ok
 ids_ui_msgbox_cancel	取消
-ids_ui_msgbox_yes	Yes
-ids_ui_msgbox_no	No
+ids_ui_msgbox_yes	是
+ids_ui_msgbox_no	否
 ids_ui_loadingscreen	載入中...
 ids_ui_option_title	設定
 ids_ui_option_music 音樂大小
 ids_ui_option_sound	音效大小
-ids_ui_option_texquality	材質質量
+ids_ui_option_texquality	材質品質
 ids_ui_option_texhigh	高
 ids_ui_option_texmid	中
 ids_ui_option_texlow	低
@@ -30,12 +30,12 @@ ids_ui_option_save	儲存
 ids_ui_navigator_player	玩家
 ids_ui_navigator_npc	NPC
 ids_ui_navigator_monster	怪物
-ids_ui_privacy_notice	隱私聲明
+ids_ui_privacy_notice	隱私權聲明
 ids_ui_msgbox_accept	接受
 ids_ui_msgbox_decline	拒絕
-ids_ui_option_keyboard	鍵盤佈局
+ids_ui_option_keyboard	鍵盤配置
 ids_ui_msgbox_close	關閉
-ids_ui_option_shadows	陰影質量
+ids_ui_option_shadows	陰影品質
 ids_ui_option_fullscreen	全屏
 ids_ui_motion_tab_mot	動作
 ids_ui_motion_tab_emo	表情
@@ -46,7 +46,7 @@ ids_ui_charinfo_name	名稱
 ids_ui_charinfo_login	登入
 ids_ui_charinfo_job	職業
 ids_ui_charinfo_level	等級
-ids_ui_charinfo_server	服務器
+ids_ui_charinfo_server	伺服器
 ids_ui_charinfo_detail	詳細
 ids_ui_charinfo_atk	攻擊
 ids_ui_charinfo_critical	暴擊
@@ -62,12 +62,12 @@ ids_ui_charinfo_reset	重置
 ids_ui_charinfo_changestate	修改技能點數
 ids_ui_charinfo_apply_tooltip	套用新的點數設定
 ids_ui_charinfo_reset_tooltip	還原原有點數設定
-ids_ui_charinfo_plusminus_tooltip	修改技能點數后請單擊套用
+ids_ui_charinfo_plusminus_tooltip	修改技能點數後請按一下套用
 ids_ui_charinfo_str_tooltip	增加武器攻擊力 (#cffb40000Except for wand#nc)
 ids_ui_charinfo_sta_tooltip	增加防禦，HP FP上限增加 \nHP, FP 回復速率增加
 ids_ui_charinfo_dex_tooltip	攻擊速度上升\n閃避率, 格擋率 增加\n增加暴擊率\n#cffb40000提升弓的攻擊力#nc
-ids_ui_charinfo_int_tooltip	大量提升MP上綫\n魔法傷害增加
-ids_ui_charinfo_gp_tooltip	修改技能點數后請單擊套用
+ids_ui_charinfo_int_tooltip	大量提升MP上線\n魔法傷害增加
+ids_ui_charinfo_gp_tooltip	修改技能點數後請按一下套用
 ids_ui_tooltip_sex_male	性別: 男
 ids_ui_tooltip_sex_female	性別: 女
 ids_ui_tooltip_onehand	單手武器
@@ -90,8 +90,8 @@ ids_ui_tooltip_inv_clo	披風
 ids_ui_tooltip_inv_weapon	武器
 ids_ui_tooltip_inv_guard	盾牌
 ids_ui_tooltip_inv_mask	面具
-ids_ui_tooltip_inv_rid	Flying 滑板
-ids_ui_tooltip_inv_necklace	項鏈
+ids_ui_tooltip_inv_rid	滑板
+ids_ui_tooltip_inv_necklace	項鍊
 ids_ui_tooltip_inv_ring	戒指
 ids_ui_tooltip_inv_earring	耳環
 ids_ui_tooltip_inv_bullet	輔助武器(箭矢, 飛鏢)
@@ -105,17 +105,17 @@ ids_ui_iventory_bag_n	背包%d
 ids_ui_tooltip_mon_lvl	Lv.
 ids_ui_tooltip_mon_drop	Booty:
 ids_ui_tooltip_mon_no_drop	無
-ids_ui_map_moninfo	顯示怪物信息
+ids_ui_map_moninfo	顯示怪物資訊
 ids_ui_tooltip_delete_item	掉落此處的物品消失了
 ids_ui_inventory_delete	已掉落
 ids_ui_inventory_delete_confirm	確定要刪除該物品？
 ids_ui_inventory_delete_cnt	數目
 ids_ui_dialog	對話
-ids_ui_dialog_title	閑聊
+ids_ui_dialog_title	閒聊
 ids_ui_dialog_about	詢問 %s
-ids_ui_option_tab_game	游戲 / 音頻
+ids_ui_option_tab_game	遊戲 / 音訊
 ids_ui_option_tab_video	視頻
-ids_ui_option_pm	開啓 密語 & 消息
+ids_ui_option_pm	開啟 密語 & 消息
 ids_ui_instantmsg_title	消息
 ids_ui_message_send	發送
 ids_ui_shop_title	商店
@@ -134,3 +134,14 @@ ids_ui_msgbox_valid	Ok
 ids_ui_buyitem_title	已購買
 ids_ui_buyitem_confirm	確認要購買嗎？
 ids_ui_buyitem_price	花費
+ids_ui_option_grass	草地效果 (Beta)
+ids_ui_option_showlogin	角色登入
+ids_ui_tooltip_max_hp	Max. HP
+ids_ui_tooltip_max_mp	Max. MP
+ids_ui_tooltip_max_fp	Max. FP
+ids_ui_tooltip_speed	速度
+ids_ui_tooltip_atkspeed	攻擊速度
+ids_ui_tooltip_blockmelee	物理格擋
+ids_ui_tooltip_hitrate	攻擊
+ids_ui_display_buffs	顯示/隱藏 buffs
+ids_ui_selectjob_title	選擇一個新的職業

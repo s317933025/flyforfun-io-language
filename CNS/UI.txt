@@ -3,7 +3,7 @@ ids_ui_home_title	主页
 ids_ui_home_newchar	新角色
 ids_ui_home_login	登录
 ids_ui_home_website	官方页面
-ids_ui_home_credits	Credits
+ids_ui_home_credits	制作人员
 ids_ui_home_server	服务器:
 ids_ui_login_charlogin	角色登入 :
 ids_ui_login_password	账户密码 :
@@ -14,8 +14,8 @@ ids_ui_newchar_boy	男
 ids_ui_newchar_create	开始
 ids_ui_msgbox_ok	Ok
 ids_ui_msgbox_cancel	取消
-ids_ui_msgbox_yes	Yes
-ids_ui_msgbox_no	No
+ids_ui_msgbox_yes	是
+ids_ui_msgbox_no	否
 ids_ui_loadingscreen	载入中...
 ids_ui_option_title	设定
 ids_ui_option_music 音乐大小
@@ -90,7 +90,7 @@ ids_ui_tooltip_inv_clo	披风
 ids_ui_tooltip_inv_weapon	武器
 ids_ui_tooltip_inv_guard	盾牌
 ids_ui_tooltip_inv_mask	面具
-ids_ui_tooltip_inv_rid	Flying 滑板
+ids_ui_tooltip_inv_rid	滑板
 ids_ui_tooltip_inv_necklace	项链
 ids_ui_tooltip_inv_ring	戒指
 ids_ui_tooltip_inv_earring	耳环
@@ -134,3 +134,14 @@ ids_ui_msgbox_valid	Ok
 ids_ui_buyitem_title	已购买
 ids_ui_buyitem_confirm	确认要购买吗？
 ids_ui_buyitem_price	花费
+ids_ui_option_grass	草地效果 (Beta)
+ids_ui_option_showlogin	角色登入
+ids_ui_tooltip_max_hp	Max. HP
+ids_ui_tooltip_max_mp	Max. MP
+ids_ui_tooltip_max_fp	Max. FP
+ids_ui_tooltip_speed	速度
+ids_ui_tooltip_atkspeed	攻击速度
+ids_ui_tooltip_blockmelee	物理格挡
+ids_ui_tooltip_hitrate	攻击
+ids_ui_display_buffs	显示/隐藏 buffs
+ids_ui_selectjob_title	选择一个新的职业

@@ -1,462 +1,462 @@
-IDS_PROPSKILL_TXT_000000	Clean Hit
-IDS_PROPSKILL_TXT_000001	A powerful, downward strike.
-IDS_PROPSKILL_TXT_000002	Flurry
-IDS_PROPSKILL_TXT_000003	Rapid, stabbing attack.
-IDS_PROPSKILL_TXT_000004	Over Cut
-IDS_PROPSKILL_TXT_000005	Powerful, upward, finishing move.
-IDS_PROPSKILL_TXT_000006	Slash
-IDS_PROPSKILL_TXT_000007	Strikes the enemy two times, in rapid succession.
-IDS_PROPSKILL_TXT_000008	Keenwheel
-IDS_PROPSKILL_TXT_000009	A continuous spinning attack.
-IDS_PROPSKILL_TXT_000010	Blindside
-IDS_PROPSKILL_TXT_000011	A spinning, finishing move.
-IDS_PROPSKILL_TXT_000012	Protection
-IDS_PROPSKILL_TXT_000013	Increases the defense of a Shield against melee attacks.
-IDS_PROPSKILL_TXT_000014	Pan Barrier
-IDS_PROPSKILL_TXT_000015	Increases the defense of a shield against ranged attacks.
-IDS_PROPSKILL_TXT_000016	Blazing Sword
-IDS_PROPSKILL_TXT_000017	Increases the accuracy and striking power of a sword.
-IDS_PROPSKILL_TXT_000018	Smite Axe
-IDS_PROPSKILL_TXT_000019	Increases your Defense Rate and Striking Power of an axe.
-IDS_PROPSKILL_TXT_000020	Empower Weapon
-IDS_PROPSKILL_TXT_000021	Strengthens the elemental damage of a weapon.
-IDS_PROPSKILL_TXT_000022	Bloody Strike
-IDS_PROPSKILL_TXT_000023	Drains life from an enemy.
-IDS_PROPSKILL_TXT_000024	Sword Mastery
-IDS_PROPSKILL_TXT_000025	Increases the striking power of a sword.
-IDS_PROPSKILL_TXT_000026	Axe Mastery
-IDS_PROPSKILL_TXT_000027	Increases the striking power of an axe.
-IDS_PROPSKILL_TXT_000028	Special Hit
-IDS_PROPSKILL_TXT_000029	A single, powerful strike.
-IDS_PROPSKILL_TXT_000030	Guillotine
-IDS_PROPSKILL_TXT_000031	A powerful, ranged attack.
-IDS_PROPSKILL_TXT_000032	Sneaker
-IDS_PROPSKILL_TXT_000033	Stops an enemy.
-IDS_PROPSKILL_TXT_000034	Hit Reflect
-IDS_PROPSKILL_TXT_000035	This skill absorbs one attack and releases back at an enemy.
-IDS_PROPSKILL_TXT_000036	Guard
-IDS_PROPSKILL_TXT_000037	Increases defense by lowering attack power. Requires a two-handed weapon.
-IDS_PROPSKILL_TXT_000038	Pain Reflection
-IDS_PROPSKILL_TXT_000039	Reflects a part of the damage received by an enemy.
-IDS_PROPSKILL_TXT_000040	Rage
-IDS_PROPSKILL_TXT_000041	Increases striking power and HP. Lowers defense and accuracy rate. Requires a two-handed weapon.
-IDS_PROPSKILL_TXT_000042	Power Swing
-IDS_PROPSKILL_TXT_000043	To strike a blow at the enemy by flourishing a weapon. Requires a two-handed weapon.
-IDS_PROPSKILL_TXT_000044	Earth Divider
-IDS_PROPSKILL_TXT_000045	Powerful, downward strike.
-IDS_PROPSKILL_TXT_000046	Charge
-IDS_PROPSKILL_TXT_000047	Powerful, upward strike.
-IDS_PROPSKILL_TXT_000048	Pain Dealer
-IDS_PROPSKILL_TXT_000049	Powerful, downward strike. Lowers the defense of the target. Requires two-handed axe.
-IDS_PROPSKILL_TXT_000050	Power Stomp
-IDS_PROPSKILL_TXT_000051	Pounds the ground, stunning nearby enemies. Requires two-handed axe.
-IDS_PROPSKILL_TXT_000052	Cross Strike
-IDS_PROPSKILL_TXT_000053	Powerful strike using two weapons.
-IDS_PROPSKILL_TXT_000054	Armor Penetrate
-IDS_PROPSKILL_TXT_000055	Strikes at the enemy and lowers its defense.
-IDS_PROPSKILL_TXT_000056	Silent Strike
-IDS_PROPSKILL_TXT_000057	A fast, sliding strike. Requires two weapons.
-IDS_PROPSKILL_TXT_000058	Blade Dance
-IDS_PROPSKILL_TXT_000059	Strikes at multiple enemies. Requires two swords.
-IDS_PROPSKILL_TXT_000060	Spring Attack
-IDS_PROPSKILL_TXT_000061	Strikes at an enemy multiple times. Requires two axes.
-IDS_PROPSKILL_TXT_000062	Hawk Attack
-IDS_PROPSKILL_TXT_000063	Powerful, downward strike. Small chance to blind the target. Requires two axes.
-IDS_PROPSKILL_TXT_000064	Sonic Blade
-IDS_PROPSKILL_TXT_000065	Powerful, slashing attack. Requires two weapons.
-IDS_PROPSKILL_TXT_000066	Berserk
-IDS_PROPSKILL_TXT_000067	Increases attack speed and striking power. Unable to use other skills using Berserk.
-IDS_PROPSKILL_TXT_000068	Heal
-IDS_PROPSKILL_TXT_000069	Recover the HP of a target.
-IDS_PROPSKILL_TXT_000070	Straight Punch
-IDS_PROPSKILL_TXT_000071	Powerful, straight punch.
-IDS_PROPSKILL_TXT_000072	Resurrection
-IDS_PROPSKILL_TXT_000073	Resurrects a dead player.
-IDS_PROPSKILL_TXT_000074	Patience
-IDS_PROPSKILL_TXT_000075	Increase the Max. HP of a target for a limited time.
-IDS_PROPSKILL_TXT_000076	Prevention
-IDS_PROPSKILL_TXT_000077	Target recovers HP when it reaches below a certain point.
-IDS_PROPSKILL_TXT_000078	Heap Up
-IDS_PROPSKILL_TXT_000079	Increases the physical strength of the target.
-IDS_PROPSKILL_TXT_000080	Cannon Ball
-IDS_PROPSKILL_TXT_000081	Increases the DEX of the target.
-IDS_PROPSKILL_TXT_000082	Circle Healing
-IDS_PROPSKILL_TXT_000083	Heals party members close to you.
-IDS_PROPSKILL_TXT_000084	Mental Sign
-IDS_PROPSKILL_TXT_000085	Increases INT of a target
-IDS_PROPSKILL_TXT_000086	Beef Up
-IDS_PROPSKILL_TXT_000087	Increases striking power of a target.
-IDS_PROPSKILL_TXT_000088	Burst Crack
-IDS_PROPSKILL_TXT_000089	Pounds the ground and damages enemies around you.
-IDS_PROPSKILL_TXT_000090	Stonehand
-IDS_PROPSKILL_TXT_000091	All attacks gain the chance to stun.
-IDS_PROPSKILL_TXT_000092	Quick Step
-IDS_PROPSKILL_TXT_000093	Increases the walk speed of a target.
-IDS_PROPSKILL_TXT_000094	Cat's Reflex
-IDS_PROPSKILL_TXT_000095	Increases the block rate of a target.
-IDS_PROPSKILL_TXT_000096	Accuracy
-IDS_PROPSKILL_TXT_000097	Increases the accuracy of a target.
-IDS_PROPSKILL_TXT_000098	Power Fist
-IDS_PROPSKILL_TXT_000099	Concentrated power strike.
-IDS_PROPSKILL_TXT_000100	Haste
-IDS_PROPSKILL_TXT_000101	Increases attack speed of a target.
-IDS_PROPSKILL_TXT_000102	Heal Rain
-IDS_PROPSKILL_TXT_000103	Recovers HP for party members near you.
-IDS_PROPSKILL_TXT_000104	Holycross
-IDS_PROPSKILL_TXT_000105	Target enemy takes double damage for a limited time.
-IDS_PROPSKILL_TXT_000106	Protect
-IDS_PROPSKILL_TXT_000107	Decreases the damage from physical attacks on a target.
-IDS_PROPSKILL_TXT_000108	Holyguard
-IDS_PROPSKILL_TXT_000109	Decreases the damage from magical attacks on a target.
-IDS_PROPSKILL_TXT_000110	Spirit Fortune
-IDS_PROPSKILL_TXT_000111	Increases striking power of a target.
-IDS_PROPSKILL_TXT_000112	Gvur Tialla
-IDS_PROPSKILL_TXT_000113	Removes de-buffs from a target.
-IDS_PROPSKILL_TXT_000114	Geburah Tiphreth
-IDS_PROPSKILL_TXT_000115	This ability draws upon the inner strength of nearby party members, increasing both Attack Power and Attack Speed for a limited time.
-IDS_PROPSKILL_TXT_000116	Merkaba Hanzelrusha
-IDS_PROPSKILL_TXT_000117	Enemies take damage in an area around you.
-IDS_PROPSKILL_TXT_000118	Belial Smashing
-IDS_PROPSKILL_TXT_000119	Sliding, crushing attack.
-IDS_PROPSKILL_TXT_000120	Piercing Serpent
-IDS_PROPSKILL_TXT_000121	Fires a piercing beam at the target. 
-IDS_PROPSKILL_TXT_000122	Blood Fist
-IDS_PROPSKILL_TXT_000123	Strikes a heavy blow to the enemy that causes it to lose health over time.
-IDS_PROPSKILL_TXT_000124	Sonichand
-IDS_PROPSKILL_TXT_000125	Fast, straight punch.
-IDS_PROPSKILL_TXT_000126	Asmodeus
-IDS_PROPSKILL_TXT_000127	Increases striking power.
-IDS_PROPSKILL_TXT_000128	Baraqijal Esna
-IDS_PROPSKILL_TXT_000129	Increases striking power while decreasing defensive power
-IDS_PROPSKILL_TXT_000130	Bgvur Tialbold
-IDS_PROPSKILL_TXT_000131	Strikes at nearby enemies with an outward shockwave.
-IDS_PROPSKILL_TXT_000132	Asalraalaikum
-IDS_PROPSKILL_TXT_000133	Fully concentrated strike. Consumes 100% MP.
-IDS_PROPSKILL_TXT_000134	Flame Ball
-IDS_PROPSKILL_TXT_000135	Strikes at the enemy with a ball of flame.
-IDS_PROPSKILL_TXT_000136	Flame Geyser
-IDS_PROPSKILL_TXT_000137	Damages the enemy continuously with a geyser of flame.
-IDS_PROPSKILL_TXT_000138	Swordwind
-IDS_PROPSKILL_TXT_000139	Ranged, wind attack.
-IDS_PROPSKILL_TXT_000140	Strongwind
-IDS_PROPSKILL_TXT_000141	Ranged, wind attack that moves the enemy.
-IDS_PROPSKILL_TXT_000142	Blinkpool
-IDS_PROPSKILL_TXT_000143	Allows you to teleport.
-IDS_PROPSKILL_TXT_000144	Ice Missile
-IDS_PROPSKILL_TXT_000145	Blasts the enemy with a missile of ice.
-IDS_PROPSKILL_TXT_000146	Static Ball
-IDS_PROPSKILL_TXT_000147	Damages the enemy with a ball of static.
-IDS_PROPSKILL_TXT_000148	Stone Spike
-IDS_PROPSKILL_TXT_000149	Damages an enemy with a stone spike. Chance to stun the enemy.
-IDS_PROPSKILL_TXT_000150	Mental Strike
-IDS_PROPSKILL_TXT_000151	Ranged Mental attack.
-IDS_PROPSKILL_TXT_000152	Fire Strike
-IDS_PROPSKILL_TXT_000153	Damages an enemy with a fire ball. The enemy loses health for a limited time afterwards.
-IDS_PROPSKILL_TXT_000154	Wind Cutter
-IDS_PROPSKILL_TXT_000155	Ranged, wind attack.
-IDS_PROPSKILL_TXT_000156	Waterball
-IDS_PROPSKILL_TXT_000157	A water attack that shoots multiple water orbs at your target.  The amount and strength of the orbs increases based on the skill level.
-IDS_PROPSKILL_TXT_000158	Water Well
-IDS_PROPSKILL_TXT_000159	Splashes the enemy with a water attack. The enemy takes damage over time.
-IDS_PROPSKILL_TXT_000160	Lighting Ram
-IDS_PROPSKILL_TXT_000161	Damages the enemy with an electric ball
-IDS_PROPSKILL_TXT_000162	Lighting Shock
-IDS_PROPSKILL_TXT_000163	Damages the enemy with a small but fast lightning ball.
-IDS_PROPSKILL_TXT_000164	Rock Crash
-IDS_PROPSKILL_TXT_000165	Damages the enemy with a giant stone.
-IDS_PROPSKILL_TXT_000166	Rooting
-IDS_PROPSKILL_TXT_000167	Prevents an enemy from approaching.
-IDS_PROPSKILL_TXT_000168	Demonology
-IDS_PROPSKILL_TXT_000169	Damages the enemy with a mental blast.
-IDS_PROPSKILL_TXT_000170	Satanology
-IDS_PROPSKILL_TXT_000171	Prevents an enemy from approaching.
-IDS_PROPSKILL_TXT_000172	Psychic Bomb
-IDS_PROPSKILL_TXT_000173	Damages the enemy the with a ball of mental energy.
-IDS_PROPSKILL_TXT_000174	Psychic Wall
-IDS_PROPSKILL_TXT_000175	Creates a wall that pushes an enemy back and damages them if they touch it.
-IDS_PROPSKILL_TXT_000176	Spirit Bomb
-IDS_PROPSKILL_TXT_000177	Does damage to an enemy based on your remaining MP amount.
-IDS_PROPSKILL_TXT_000178	Crucio Spell
-IDS_PROPSKILL_TXT_000179	Deals damage to an enemy equal to twice the amount the enemy deals.
-IDS_PROPSKILL_TXT_000180	Maximum Crisis
-IDS_PROPSKILL_TXT_000181	Surrounds and damages the enemy in a strong mental barrier.
-IDS_PROPSKILL_TXT_000182	Psychic Square
-IDS_PROPSKILL_TXT_000183	Damages the enemies around you with a psychic blast.
-IDS_PROPSKILL_TXT_000184	Firebird
-IDS_PROPSKILL_TXT_000185	Damages the enemy with a fire blast.
-IDS_PROPSKILL_TXT_000186	Fire Master
-IDS_PROPSKILL_TXT_000187	Increases the striking power of fire spells,
-IDS_PROPSKILL_TXT_000188	Burningfield
-IDS_PROPSKILL_TXT_000189	Does damage to the enemy over a period of time
-IDS_PROPSKILL_TXT_000190	Lightning Strike
-IDS_PROPSKILL_TXT_000191	Damages the enemy with a bolt of lightning.
-IDS_PROPSKILL_TXT_000192	Lightning Mastery
-IDS_PROPSKILL_TXT_000193	Increases the striking power of electric spells.
-IDS_PROPSKILL_TXT_000194	Electric Shock
-IDS_PROPSKILL_TXT_000195	Damage surrounding enemies with electricity. Defense of the enemies decreases.
-IDS_PROPSKILL_TXT_000196	Stone Spear
-IDS_PROPSKILL_TXT_000197	Damages an enemy with a stone spear.
-IDS_PROPSKILL_TXT_000198	Earth Master
-IDS_PROPSKILL_TXT_000199	Increases the striking power of earth spells.
-IDS_PROPSKILL_TXT_000200	Earthquake
-IDS_PROPSKILL_TXT_000201	Damages surrounding enemies area.
-IDS_PROPSKILL_TXT_000202	Iceshark
-IDS_PROPSKILL_TXT_000203	Ranged attack that fires an ice projectile.
-IDS_PROPSKILL_TXT_000204	Water Master
-IDS_PROPSKILL_TXT_000205	Increases striking power of water spells.
-IDS_PROPSKILL_TXT_000206	Poison Cloud
-IDS_PROPSKILL_TXT_000207	Damages enemies in the surrounding area.
-IDS_PROPSKILL_TXT_000208	Void
-IDS_PROPSKILL_TXT_000209	To attack the enemy by generating a perfect vacuum.
-IDS_PROPSKILL_TXT_000210	Wind Master
-IDS_PROPSKILL_TXT_000211	Increases the striking power of wind spells.
-IDS_PROPSKILL_TXT_000212	Windfield
-IDS_PROPSKILL_TXT_000213	Damages surrounding enemies with a wind attack. The speed of the enemies will be reduced.
-IDS_PROPSKILL_TXT_000214	Meteo Shower
-IDS_PROPSKILL_TXT_000215	Damages surrounding enemies with a falling meteor.
-IDS_PROPSKILL_TXT_000216	Lightingstorm
-IDS_PROPSKILL_TXT_000217	Damages surrounding enemies with electric blasts.
-IDS_PROPSKILL_TXT_000218	Sandstorm
-IDS_PROPSKILL_TXT_000219	Damages surrounding enemies with a sandstorm.
-IDS_PROPSKILL_TXT_000220	Blizzard
-IDS_PROPSKILL_TXT_000221	Damages surrounding enemies with a snowstorm.
-IDS_PROPSKILL_TXT_000222	Yo-Yo mastery
-IDS_PROPSKILL_TXT_000223	Increases damage done with a Yo-yo.
-IDS_PROPSKILL_TXT_000224	Bow Mastery
-IDS_PROPSKILL_TXT_000225	Increases damage done with a Bow.
-IDS_PROPSKILL_TXT_000226	Dark Illusion
-IDS_PROPSKILL_TXT_000227	Become Invisible for a short time.
-IDS_PROPSKILL_TXT_000228	Rapid Shot
-IDS_PROPSKILL_TXT_000229	Fire arrows wildly.
-IDS_PROPSKILL_TXT_000230	Fast Walker
-IDS_PROPSKILL_TXT_000231	Increases walk speed for a short time
-IDS_PROPSKILL_TXT_000232	Aimed Shot
-IDS_PROPSKILL_TXT_000233	Slow shot that has a chance to deal double damage.
-IDS_PROPSKILL_TXT_000234	Slow Step
-IDS_PROPSKILL_TXT_000235	Slows an enemy
-IDS_PROPSKILL_TXT_000236	Silent Shot
-IDS_PROPSKILL_TXT_000237	A surprise attack that does more damage during Dark Illusion.
-IDS_PROPSKILL_TXT_000238	Perfect Block
-IDS_PROPSKILL_TXT_000239	Increases block rate.
-IDS_PROPSKILL_TXT_000240	Arrow Rain
-IDS_PROPSKILL_TXT_000241	Creates a rain of arrows that does damage over time.
-IDS_PROPSKILL_TXT_000242	Cross Line
-IDS_PROPSKILL_TXT_000243	A Yo-yo strike that can cause stun.
-IDS_PROPSKILL_TXT_000244	Auto Shot
-IDS_PROPSKILL_TXT_000245	Rapid shot that can blind an enemy.
-IDS_PROPSKILL_TXT_000246	Snatch
-IDS_PROPSKILL_TXT_000247	Steal penya from a target while in Dark Illusion. Attack from behind.
-IDS_PROPSKILL_TXT_000248	Counterattack
-IDS_PROPSKILL_TXT_000249	Execute an attack after the enemy does.
-IDS_PROPSKILL_TXT_000250	Deadly swing
-IDS_PROPSKILL_TXT_000251	Strong Yo-yo blast. Chance to make the enemy lose health over time.
-IDS_PROPSKILL_TXT_000252	Pulling
-IDS_PROPSKILL_TXT_000253	Brings a target to you using Yo-yo.
-IDS_PROPSKILL_TXT_000254	Critical Swing
-IDS_PROPSKILL_TXT_000255	Increases chance of critical strike. 
-IDS_PROPSKILL_TXT_000256	Enchant Poison
-IDS_PROPSKILL_TXT_000257	Adds poison damage to your yo-yo and increases striking power.
-IDS_PROPSKILL_TXT_000258	Enchant Blood
-IDS_PROPSKILL_TXT_000259	Adds blood damage to your yo-yo and increases striking power.
-IDS_PROPSKILL_TXT_000260	Enchant Absorb
-IDS_PROPSKILL_TXT_000261	Adds the ability to drain HP to your yo-yo.
-IDS_PROPSKILL_TXT_000262	Sneak Stab
-IDS_PROPSKILL_TXT_000263	Attack a target from behind. Chance to stun target.
-IDS_PROPSKILL_TXT_000264	Penya Strike
-IDS_PROPSKILL_TXT_000265	Strengthens the attack of a yo-yo by consuming penya.
-IDS_PROPSKILL_TXT_000266	Escape
-IDS_PROPSKILL_TXT_000267	Removes the effects of Ice Missile, Slow Step, and Ice Arrow.
-IDS_PROPSKILL_TXT_000268	Vital stab
-IDS_PROPSKILL_TXT_000269	Surprise attack while in Dark Illusion.
-IDS_PROPSKILL_TXT_000270	Fast Shot
-IDS_PROPSKILL_TXT_000271	Increase Bow attack speed for a limited time.
-IDS_PROPSKILL_TXT_000272	Ice Arrow
-IDS_PROPSKILL_TXT_000273	Slows an enemy down by shooting it with arrows covered in ice.
-IDS_PROPSKILL_TXT_000274	Flame Arrow
-IDS_PROPSKILL_TXT_000275	Gives the fire element to arrows and damages surrounding enemies.
-IDS_PROPSKILL_TXT_000276	Piercing Arrow
-IDS_PROPSKILL_TXT_000277	Increased arrow strike.
-IDS_PROPSKILL_TXT_000278	Poison Arrow
-IDS_PROPSKILL_TXT_000279	Adds poison damage to Bow and increase your striking damage.
-IDS_PROPSKILL_TXT_000280	Silent Arrow
-IDS_PROPSKILL_TXT_000281	Attacks the enemy and prevents him from casting spells.
-IDS_PROPSKILL_TXT_000282	Nature
-IDS_PROPSKILL_TXT_000283	Increases resistance to magic.
-IDS_PROPSKILL_TXT_000284	Triple shot
-IDS_PROPSKILL_TXT_000285	Fires three arrows at once.
-IDS_PROPSKILL_TXT_000286	Flash
-IDS_PROPSKILL_TXT_000287	Blinded by the flash of light.
-IDS_PROPSKILL_TXT_000288	Single Stun
-IDS_PROPSKILL_TXT_000289	You are stunned and cannot move.
-IDS_PROPSKILL_TXT_000290	Stun Group
-IDS_PROPSKILL_TXT_000291	You are stunned and you cannot move.
-IDS_PROPSKILL_TXT_000292	Damage
+IDS_PROPSKILL_TXT_000000	重擊
+IDS_PROPSKILL_TXT_000001	見習生前段技能，將力量集中後，瞬間爆發出威力的單手武器技能
+IDS_PROPSKILL_TXT_000002	連擊
+IDS_PROPSKILL_TXT_000003	見習生中段技能，快速連續突刺敵人的單手武器技能
+IDS_PROPSKILL_TXT_000004	爆擊
+IDS_PROPSKILL_TXT_000005	見習生後段技能，使用聚集的力量將敵人擊飛，並讓敵人受到強大傷害的單手武器技能
+IDS_PROPSKILL_TXT_000006	月牙斬
+IDS_PROPSKILL_TXT_000007	勇者前段技能，將身體彎曲並集氣後，利用反彈力連續揮出二連刀的單手劍與斧頭的技能
+IDS_PROPSKILL_TXT_000008	旋風斬
+IDS_PROPSKILL_TXT_000009	勇者中段技能，急速旋轉身體並在空中施展迴旋斬來攻擊目標的單手劍技能
+IDS_PROPSKILL_TXT_000010	爆炎劍氣
+IDS_PROPSKILL_TXT_000011	勇者後段技能，集中攻擊敵人的弱點並將他擊擊飛的單手劍技能
+IDS_PROPSKILL_TXT_000012	防禦術
+IDS_PROPSKILL_TXT_000013	使用盾來提升自己的防禦力
+IDS_PROPSKILL_TXT_000014	霸體
+IDS_PROPSKILL_TXT_000015	使用盾來提高對遠距離攻擊的迴避率
+IDS_PROPSKILL_TXT_000016	狂暴刃
+IDS_PROPSKILL_TXT_000017	讓劍瞬間變的非常銳利
+IDS_PROPSKILL_TXT_000018	狂戰斧
+IDS_PROPSKILL_TXT_000019	加重斧頭傷害值，並提高防禦力
+IDS_PROPSKILL_TXT_000020	屬性之光
+IDS_PROPSKILL_TXT_000021	讓武器原本擁有的屬性攻擊力增加
+IDS_PROPSKILL_TXT_000022	血之讚頌
+IDS_PROPSKILL_TXT_000023	吸收對方的HP來維持自己的生命
+IDS_PROPSKILL_TXT_000024	劍之研習
+IDS_PROPSKILL_TXT_000025	提升劍的熟練度，可讓劍發動的攻擊力增加的被動技能.
+IDS_PROPSKILL_TXT_000026	斧之研習
+IDS_PROPSKILL_TXT_000027	提升斧頭的熟練度，可讓斧頭發動的攻擊力增加的被動技能
+IDS_PROPSKILL_TXT_000028	衝刺
+IDS_PROPSKILL_TXT_000029	集氣後，快速往前衝刺敵人
+IDS_PROPSKILL_TXT_000030	靈劍氣
+IDS_PROPSKILL_TXT_000031	集氣後，發射劍氣
+IDS_PROPSKILL_TXT_000032	勇者之網
+IDS_PROPSKILL_TXT_000033	集勇者之氣化為一個堅固的網子套住敵人，使敵人無法移動。
+IDS_PROPSKILL_TXT_000034	反擊
+IDS_PROPSKILL_TXT_000035	將怪物給予的傷害還擊回去，使敵人受到更大的傷害
+IDS_PROPSKILL_TXT_000036	護衛
+IDS_PROPSKILL_TXT_000037	降低攻擊力來提高防禦力
+IDS_PROPSKILL_TXT_000038	血債血償
+IDS_PROPSKILL_TXT_000039	將所受到的傷害，還擊回去
+IDS_PROPSKILL_TXT_000040	怒氣
+IDS_PROPSKILL_TXT_000041	限定時間內，讓防禦力及命中率降低,但大幅提升攻擊力與HP(包含最大值)
+IDS_PROPSKILL_TXT_000042	橫風斬
+IDS_PROPSKILL_TXT_000043	用武器進行平掃攻擊，並震退敵人
+IDS_PROPSKILL_TXT_000044	大地爆碎劍
+IDS_PROPSKILL_TXT_000045	用強大的力量將劍重重的劈在敵人的身上，使敵人受到重大的傷害
+IDS_PROPSKILL_TXT_000046	死風狂擊
+IDS_PROPSKILL_TXT_000047	將劍放在前方快速衝刺後，再進行拋擊
+IDS_PROPSKILL_TXT_000048	致命一擊
+IDS_PROPSKILL_TXT_000049	讓敵人受到重大傷害並引發大量的出血，使敵人在一定機率之下，降低防禦力
+IDS_PROPSKILL_TXT_000050	大地共鳴
+IDS_PROPSKILL_TXT_000051	使用雙手斧大力的揮砍地面，攻擊周圍所有敵人，有機率將敵人震退
+IDS_PROPSKILL_TXT_000052	稻妻二刀斬
+IDS_PROPSKILL_TXT_000053	交替著武器，並製造出強大的傷害
+IDS_PROPSKILL_TXT_000054	爆碎點刺
+IDS_PROPSKILL_TXT_000055	成功時，力量足以摧毀敵人盔甲的，使敵人的防具受到50%的損壞，並減弱防禦力
+IDS_PROPSKILL_TXT_000056	光速突刺
+IDS_PROPSKILL_TXT_000057	用光速貫通敵人身體，並讓敵人受到嚴重傷害
+IDS_PROPSKILL_TXT_000058	暗殺者之舞
+IDS_PROPSKILL_TXT_000059	將雙刀展開並對周圍的敵人進行攻擊
+IDS_PROPSKILL_TXT_000060	千光刃
+IDS_PROPSKILL_TXT_000061	衝刺的同時進行快速的連發攻擊，最後所顯示的傷害值為累加的總傷害值
+IDS_PROPSKILL_TXT_000062	鬼斧斬
+IDS_PROPSKILL_TXT_000063	面向敵人跳起來後，使用雙斧用力砍敵人，使敵人受到強大的傷害及暗黑效果
+IDS_PROPSKILL_TXT_000064	滅
+IDS_PROPSKILL_TXT_000065	暗殺者最強技能！將所有的氣集中在武器後，用盡全力攻擊敵人
+IDS_PROPSKILL_TXT_000066	速度集中
+IDS_PROPSKILL_TXT_000067	限制時間內，犧牲所有其他可使用的技能來提高攻擊速度(其他技能暫時無法使用)
+IDS_PROPSKILL_TXT_000068	治癒術
+IDS_PROPSKILL_TXT_000069	立即恢復HP
+IDS_PROPSKILL_TXT_000070	神拳術
+IDS_PROPSKILL_TXT_000071	將所有精神集中在力量，用力揮出去的拳套技能
+IDS_PROPSKILL_TXT_000072	復活術
+IDS_PROPSKILL_TXT_000073	將死亡的對象復活
+IDS_PROPSKILL_TXT_000074	生命的祝福
+IDS_PROPSKILL_TXT_000075	在技能的有效時限內提高對方的HP上限
+IDS_PROPSKILL_TXT_000076	千鈞一髮
+IDS_PROPSKILL_TXT_000077	受到面臨死亡的攻擊時，立刻恢復所損的HP以避免死亡
+IDS_PROPSKILL_TXT_000078	強化術
+IDS_PROPSKILL_TXT_000079	提高對方的體力
+IDS_PROPSKILL_TXT_000080	敏捷術
+IDS_PROPSKILL_TXT_000081	提高對方的敏捷
+IDS_PROPSKILL_TXT_000082	集體治癒術
+IDS_PROPSKILL_TXT_000083	恢復施展者四周限定範圍內的團員HP
+IDS_PROPSKILL_TXT_000084	心靈點滴
+IDS_PROPSKILL_TXT_000085	提高對方的智力
+IDS_PROPSKILL_TXT_000086	祝福的神力
+IDS_PROPSKILL_TXT_000087	接受精靈的祝福使手臂充滿了力量(提升力量).
+IDS_PROPSKILL_TXT_000088	爆震術
+IDS_PROPSKILL_TXT_000089	使用拳套用力敲打地面，使自己附近的敵人受到傷害
+IDS_PROPSKILL_TXT_000090	石拳重擊
+IDS_PROPSKILL_TXT_000091	藉助精靈的力量，找出敵人的弱點攻擊並以一定的機率擊暈
+IDS_PROPSKILL_TXT_000092	風精之舞
+IDS_PROPSKILL_TXT_000093	藉助精靈的力量，使移動速度變快
+IDS_PROPSKILL_TXT_000094	靈敏術
+IDS_PROPSKILL_TXT_000095	藉助精靈的力量，提升迴避率
+IDS_PROPSKILL_TXT_000096	第三眼
+IDS_PROPSKILL_TXT_000097	藉助精靈的力量，提高命中率
+IDS_PROPSKILL_TXT_000098	大怒神
+IDS_PROPSKILL_TXT_000099	藉助精靈的力量瞬間爆發出威力
+IDS_PROPSKILL_TXT_000100	風精的祝福
+IDS_PROPSKILL_TXT_000101	讓對方的攻擊速度上升
+IDS_PROPSKILL_TXT_000102	祝福的洗禮
+IDS_PROPSKILL_TXT_000103	生命之水降臨在每個隊伍成員的身上，使所有的隊友回復大量的HP
+IDS_PROPSKILL_TXT_000104	天神之戒
+IDS_PROPSKILL_TXT_000105	對敵人施展一次，即可讓敵人受到的損害值變成兩倍
+IDS_PROPSKILL_TXT_000106	天神之盾
+IDS_PROPSKILL_TXT_000107	物理防禦力提升
+IDS_PROPSKILL_TXT_000108	天神之護
+IDS_PROPSKILL_TXT_000109	魔法防禦力提升
+IDS_PROPSKILL_TXT_000110	攻擊強化
+IDS_PROPSKILL_TXT_000111	物理攻擊力提升
+IDS_PROPSKILL_TXT_000112	眾神的守護
+IDS_PROPSKILL_TXT_000113	解除所有異常狀態
+IDS_PROPSKILL_TXT_000114	戰士之歌
+IDS_PROPSKILL_TXT_000115	吟唱戰歌，讓有效範圍內的隊友變成狂戰士
+IDS_PROPSKILL_TXT_000116	神聖領域
+IDS_PROPSKILL_TXT_000117	設置一個神聖的結界，讓進入結界的怪物持續受到傷害
+IDS_PROPSKILL_TXT_000118	火龍拳
+IDS_PROPSKILL_TXT_000119	拳頭冒出火花，同時往前衝刺進行強力的攻擊
+IDS_PROPSKILL_TXT_000120	橫衝直撞
+IDS_PROPSKILL_TXT_000121	進行直線性的範圍攻擊
+IDS_PROPSKILL_TXT_000122	血之狂舞
+IDS_PROPSKILL_TXT_000123	讓敵人嚴重出血，並有持續失血的效果
+IDS_PROPSKILL_TXT_000124	百裂拳
+IDS_PROPSKILL_TXT_000125	依照等級增加打擊數
+IDS_PROPSKILL_TXT_000126	戰力強化
+IDS_PROPSKILL_TXT_000127	限定時間內提升攻擊力，降低防禦力
+IDS_PROPSKILL_TXT_000128	挑釁
+IDS_PROPSKILL_TXT_000129	將敵人的防禦力降低，但卻會提升攻擊力
+IDS_PROPSKILL_TXT_000130	波動拳
+IDS_PROPSKILL_TXT_000131	將自己周圍的怪物, 利用氣的波動進行攻擊
+IDS_PROPSKILL_TXT_000132	羅煞狂爆拳
+IDS_PROPSKILL_TXT_000133	消耗所有的MP來製造最大的傷害
+IDS_PROPSKILL_TXT_000134	火焰迴旋
+IDS_PROPSKILL_TXT_000135	施展火屬性的魔法迴旋刀刃
+IDS_PROPSKILL_TXT_000136	自體焚燒
+IDS_PROPSKILL_TXT_000137	召喚熱氣來持續傷害對方
+IDS_PROPSKILL_TXT_000138	疾風之刃
+IDS_PROPSKILL_TXT_000139	施展風屬性魔法刀刃
+IDS_PROPSKILL_TXT_000140	颶風爆
+IDS_PROPSKILL_TXT_000141	施展強大颶風，將對方擊退
+IDS_PROPSKILL_TXT_000142	風之傳送
+IDS_PROPSKILL_TXT_000143	使用魔法之風瞬間移動到指定的地點 (指標範圍內)
+IDS_PROPSKILL_TXT_000144	冰刃
+IDS_PROPSKILL_TXT_000145	藉助水精靈的力量攻擊敵人
+IDS_PROPSKILL_TXT_000146	電光球
+IDS_PROPSKILL_TXT_000147	藉助雷精靈的力量攻擊敵人
+IDS_PROPSKILL_TXT_000148	大地的懲罰
+IDS_PROPSKILL_TXT_000149	藉助大地精靈的力量攻擊敵人， 一定機率內將敵人擊暈
+IDS_PROPSKILL_TXT_000150	念力球
+IDS_PROPSKILL_TXT_000151	集中精神力發動無屬性攻擊
+IDS_PROPSKILL_TXT_000152	火神之怒
+IDS_PROPSKILL_TXT_000153	發射強化的火球使敵人變成火燒狀態
+IDS_PROPSKILL_TXT_000154	風刃之劍
+IDS_PROPSKILL_TXT_000155	利用銳利的風刃來貫通敵人的身體
+IDS_PROPSKILL_TXT_000156	水球術
+IDS_PROPSKILL_TXT_000157	收集空氣中的水氣做成水球後發射
+IDS_PROPSKILL_TXT_000158	水龍之柱
+IDS_PROPSKILL_TXT_000159	召喚水柱攻擊對方，敵人的身體會持續維持被淋濕的狀態
+IDS_PROPSKILL_TXT_000160	高壓電光球
+IDS_PROPSKILL_TXT_000161	將雷電壓縮成球體後發射，並讓敵人受到強烈的傷害
+IDS_PROPSKILL_TXT_000162	雷擊術
+IDS_PROPSKILL_TXT_000163	看起來與一般攻擊一樣，但是施展後會讓敵人的身體持續被雷電包圍
+IDS_PROPSKILL_TXT_000164	石神降臨
+IDS_PROPSKILL_TXT_000165	召喚出巨大的石頭並丟向敵人，被打到的敵人身體會粉碎
+IDS_PROPSKILL_TXT_000166	大地之手
+IDS_PROPSKILL_TXT_000167	召喚大地精靈，並讓對方的動作封鎖起來
+IDS_PROPSKILL_TXT_000168	心靈恐懼
+IDS_PROPSKILL_TXT_000169	召喚出惡魔的幻影，使敵人心發恐慌來減弱攻擊力
+IDS_PROPSKILL_TXT_000170	釘影術
+IDS_PROPSKILL_TXT_000171	擾亂敵人的眼睛，使敵人暫時無法移動
+IDS_PROPSKILL_TXT_000172	念力爆炸
+IDS_PROPSKILL_TXT_000173	將精神力瞬間爆發後，發出強力的攻擊
+IDS_PROPSKILL_TXT_000174	念力牆
+IDS_PROPSKILL_TXT_000175	利用強大的念力，製造出一面隱形牆，使敵人無法靠近
+IDS_PROPSKILL_TXT_000176	幻影冥魅
+IDS_PROPSKILL_TXT_000177	依照自身的mp多寡來計算敵人所受到的傷害
+IDS_PROPSKILL_TXT_000178	降頭魔咒
+IDS_PROPSKILL_TXT_000179	針對魔法或技能的攻擊，將會以一定的機率把傷害值用兩倍的方式反擊回去
+IDS_PROPSKILL_TXT_000180	命運輪盤
+IDS_PROPSKILL_TXT_000181	對敵人發動命運輪盤，若敵人中了，將會受到強力的傷害，但是失敗時將會讓自己受到傷害
+IDS_PROPSKILL_TXT_000182	絕對結界
+IDS_PROPSKILL_TXT_000183	將敵人拉進自己的精神世界，使所有進入結界的敵人受到嚴重的傷害
+IDS_PROPSKILL_TXT_000184	火鳳凰
+IDS_PROPSKILL_TXT_000185	召喚火鳥對敵人進行火屬性攻擊
+IDS_PROPSKILL_TXT_000186	火屬性研究
+IDS_PROPSKILL_TXT_000187	提升火屬性的攻擊力
+IDS_PROPSKILL_TXT_000188	火龍吐息
+IDS_PROPSKILL_TXT_000189	在一定範圍內召喚出火燄，使敵人持續受到傷害
+IDS_PROPSKILL_TXT_000190	天之裂痕
+IDS_PROPSKILL_TXT_000191	施展強力的雷震，讓怪物受到強大的傷害
+IDS_PROPSKILL_TXT_000192	雷屬性研究
+IDS_PROPSKILL_TXT_000193	提升雷屬性的攻擊力
+IDS_PROPSKILL_TXT_000194	雷鳴落震
+IDS_PROPSKILL_TXT_000195	召喚出強烈的電磁場，使周圍所有的怪物受到攻擊，並引起麻痺使防禦力降低
+IDS_PROPSKILL_TXT_000196	石槍術
+IDS_PROPSKILL_TXT_000197	將銳利的石槍投向敵人
+IDS_PROPSKILL_TXT_000198	地屬性研究
+IDS_PROPSKILL_TXT_000199	提升地屬性的攻擊力
+IDS_PROPSKILL_TXT_000200	天搖地動
+IDS_PROPSKILL_TXT_000201	在一定範圍內製造大地震，使敵人受到傷害
+IDS_PROPSKILL_TXT_000202	冰劍術
+IDS_PROPSKILL_TXT_000203	將水氣凝聚成冰塊，投向對方進行攻擊
+IDS_PROPSKILL_TXT_000204	水屬性研究
+IDS_PROPSKILL_TXT_000205	提升水屬性的攻擊力
+IDS_PROPSKILL_TXT_000206	毒雲密佈
+IDS_PROPSKILL_TXT_000207	召喚毒雲，並使用風與毒進行攻擊
+IDS_PROPSKILL_TXT_000208	真空之擊
+IDS_PROPSKILL_TXT_000209	把對方的周圍變成真空狀態後，進行風屬性攻擊
+IDS_PROPSKILL_TXT_000210	風屬性研究
+IDS_PROPSKILL_TXT_000211	提升風屬性的攻擊力
+IDS_PROPSKILL_TXT_000212	狂風怒吼
+IDS_PROPSKILL_TXT_000213	有效時間內，將特定地區變成強風區域，使所有該區範圍內的敵人，移動速度變慢
+IDS_PROPSKILL_TXT_000214	紅石星塵
+IDS_PROPSKILL_TXT_000215	召喚隕石來攻擊周圍所有的敵人，使敵人受到火與地屬性的攻擊
+IDS_PROPSKILL_TXT_000216	雷風狂襲
+IDS_PROPSKILL_TXT_000217	讓周圍所有的敵人受到風與雷的攻擊
+IDS_PROPSKILL_TXT_000218	沙塵風暴
+IDS_PROPSKILL_TXT_000219	引發沙塵風暴，讓周圍所有的敵人受到風與地屬性的攻擊
+IDS_PROPSKILL_TXT_000220	雪山崩塌
+IDS_PROPSKILL_TXT_000221	引發雪崩，使周圍所有的敵人受到水與地屬性的攻擊，並有昏眩的效果
+IDS_PROPSKILL_TXT_000222	溜刃研習
+IDS_PROPSKILL_TXT_000223	增加溜刃的攻擊力
+IDS_PROPSKILL_TXT_000224	弓箭研習
+IDS_PROPSKILL_TXT_000225	增加弓箭的攻擊力
+IDS_PROPSKILL_TXT_000226	幻影術
+IDS_PROPSKILL_TXT_000227	施展出幻影，並隱身黑暗處
+IDS_PROPSKILL_TXT_000228	亂箭射殺
+IDS_PROPSKILL_TXT_000229	沒有指定的目標，隨意發射箭
+IDS_PROPSKILL_TXT_000230	加速術
+IDS_PROPSKILL_TXT_000231	增加移動速度
+IDS_PROPSKILL_TXT_000232	狙擊
+IDS_PROPSKILL_TXT_000233	機率性的發射出兩倍攻擊力且精準的箭
+IDS_PROPSKILL_TXT_000234	緩速術
+IDS_PROPSKILL_TXT_000235	使對方的移動速度與攻擊速度變低
+IDS_PROPSKILL_TXT_000236	沉默射擊
+IDS_PROPSKILL_TXT_000237	必須在幻影術的狀態下施展，施展後幻影術的狀態會被解除
+IDS_PROPSKILL_TXT_000238	絕對防禦
+IDS_PROPSKILL_TXT_000239	隔擋率上升
+IDS_PROPSKILL_TXT_000240	箭雨
+IDS_PROPSKILL_TXT_000241	向天空發射箭矢，使箭矢像雨般降落在敵人的頭上
+IDS_PROPSKILL_TXT_000242	十字爆氣
+IDS_PROPSKILL_TXT_000243	集中溜刃的氣，發射強大的爆擊
+IDS_PROPSKILL_TXT_000244	自動射擊
+IDS_PROPSKILL_TXT_000245	定點連續發射箭矢，有一定的機率可使敵人中暗黑屬性傷害
+IDS_PROPSKILL_TXT_000246	強奪
+IDS_PROPSKILL_TXT_000247	只能在對方的背後施展，且需在幻影術狀態之下才可做使用。使用後，會有一定的機率偷竊金幣以及給予致命的傷害值
+IDS_PROPSKILL_TXT_000248	逆襲
+IDS_PROPSKILL_TXT_000249	迴避一次的攻擊，並強力的反擊對方
+IDS_PROPSKILL_TXT_000250	致命之舞
+IDS_PROPSKILL_TXT_000251	可讓敵人受到致命的攻擊，並持續的出血
+IDS_PROPSKILL_TXT_000252	零距離
+IDS_PROPSKILL_TXT_000253	利用溜刃把對方拉到自己的前面
+IDS_PROPSKILL_TXT_000254	爆擊之舞
+IDS_PROPSKILL_TXT_000255	增加溜刃的爆擊率
+IDS_PROPSKILL_TXT_000256	毒性溜溜
+IDS_PROPSKILL_TXT_000257	在溜刃上追加毒屬性使攻擊力提升，有一定機率使敵人中毒
+IDS_PROPSKILL_TXT_000258	出血
+IDS_PROPSKILL_TXT_000259	在溜刃上追加致命的屬性，使敵人受到持續性的傷害
+IDS_PROPSKILL_TXT_000260	吸血溜溜
+IDS_PROPSKILL_TXT_000261	在溜刃上追加吸血的效果，並且提升攻擊力，可追加吸收對方HP的效果
+IDS_PROPSKILL_TXT_000262	背後突襲
+IDS_PROPSKILL_TXT_000263	必須在敵人的背後使用此技能，施展後可機率性的使敵人短暫暈眩
+IDS_PROPSKILL_TXT_000264	砸錢攻擊
+IDS_PROPSKILL_TXT_000265	無視防禦力的進行攻擊，打擊出多少傷害值，就必須付出相同數值的金幣。
+IDS_PROPSKILL_TXT_000266	逃脫
+IDS_PROPSKILL_TXT_000267	解除自己移動速度變慢的狀態
+IDS_PROPSKILL_TXT_000268	投魂一擊
+IDS_PROPSKILL_TXT_000269	使用幻影術的狀態之下，解除幻影術的同時使用才可施展成功。有爆擊的傷害力，並且在一定機率下，使出雙倍攻擊
+IDS_PROPSKILL_TXT_000270	光速射擊
+IDS_PROPSKILL_TXT_000271	限制時間內，使射擊弓箭的速度變快
+IDS_PROPSKILL_TXT_000272	冰箭
+IDS_PROPSKILL_TXT_000273	具有爆發的威力，可讓周圍的所有怪物受到冷氣的傷害，並且有使敵人的速度遲緩的追加效果
+IDS_PROPSKILL_TXT_000274	聖火之箭
+IDS_PROPSKILL_TXT_000275	區域攻擊法術，具有爆發的威力，並且像火龍吐息般，使敵人持續受到火的傷害
+IDS_PROPSKILL_TXT_000276	箭矢貫通
+IDS_PROPSKILL_TXT_000277	貫通目標，並讓縱向的所有敵人都受到傷害
+IDS_PROPSKILL_TXT_000278	毒箭
+IDS_PROPSKILL_TXT_000279	讓對方感染毒，並且持續的受到傷害
+IDS_PROPSKILL_TXT_000280	沉默之箭
+IDS_PROPSKILL_TXT_000281	進行強力的攻擊，並且追加沉默的效果（中了沉默狀態就無法使用魔法）
+IDS_PROPSKILL_TXT_000282	自然之道
+IDS_PROPSKILL_TXT_000283	提升屬性魔法的抵抗力
+IDS_PROPSKILL_TXT_000284	三連矢
+IDS_PROPSKILL_TXT_000285	一次發射三支箭，使威力增強
+IDS_PROPSKILL_TXT_000286	閃光彈
+IDS_PROPSKILL_TXT_000287	讓眼睛無法睜開
+IDS_PROPSKILL_TXT_000288	定身(單)
+IDS_PROPSKILL_TXT_000289	無法移動的狀態
+IDS_PROPSKILL_TXT_000290	定身(雙)
+IDS_PROPSKILL_TXT_000291	無法移動的狀態
+IDS_PROPSKILL_TXT_000292	傷害
 IDS_PROPSKILL_TXT_000293	
-IDS_PROPSKILL_TXT_000294	Atk. Counter
-IDS_PROPSKILL_TXT_000295	Attack just as an enemy attacks
-IDS_PROPSKILL_TXT_000296	Knock back
-IDS_PROPSKILL_TXT_000297	Pushes the enemy back.
-IDS_PROPSKILL_TXT_000298	Burningfield
-IDS_PROPSKILL_TXT_000299	Does damage to the enemy over a period of time
-IDS_PROPSKILL_TXT_000300	Poison
-IDS_PROPSKILL_TXT_000301	Damages an enemy over a period of time.
-IDS_PROPSKILL_TXT_000302	Stun
-IDS_PROPSKILL_TXT_000303	You are stunned and cannot move.
-IDS_PROPSKILL_TXT_000304	Bleeding
-IDS_PROPSKILL_TXT_000305	Damages an enemy over a period of time.
-IDS_PROPSKILL_TXT_000306	Steal HP
-IDS_PROPSKILL_TXT_000307	Drains life from an enemy.
+IDS_PROPSKILL_TXT_000294	逆襲攻擊
+IDS_PROPSKILL_TXT_000295	等待敵人的攻擊後，使用敵人的縫隙攻擊
+IDS_PROPSKILL_TXT_000296	推出
+IDS_PROPSKILL_TXT_000297	退倒敵人
+IDS_PROPSKILL_TXT_000298	火龍吐息
+IDS_PROPSKILL_TXT_000299	在一定範圍內召喚出火燄，使敵人持續受到傷害
+IDS_PROPSKILL_TXT_000300	一般毒
+IDS_PROPSKILL_TXT_000301	在一定的時間內，受到毒的攻擊
+IDS_PROPSKILL_TXT_000302	擊暈
+IDS_PROPSKILL_TXT_000303	無法移動的狀態
+IDS_PROPSKILL_TXT_000304	出血
+IDS_PROPSKILL_TXT_000305	在一定的時間內，受到出血的攻擊
+IDS_PROPSKILL_TXT_000306	吸血
+IDS_PROPSKILL_TXT_000307	無法移動的狀態
 IDS_PROPSKILL_TXT_000308	Swordcross
 IDS_PROPSKILL_TXT_000309	
-IDS_PROPSKILL_TXT_000310	Poison sting
-IDS_PROPSKILL_TXT_000311	Damages an enemy over a period of time.
-IDS_PROPSKILL_TXT_000312	Bleeding
-IDS_PROPSKILL_TXT_000313	Damages an enemy over a period of time.
-IDS_PROPSKILL_TXT_000314	Low Attack
-IDS_PROPSKILL_TXT_000315	Decreases attack speed and cool down time
-IDS_PROPSKILL_TXT_000316	Low Attack
-IDS_PROPSKILL_TXT_000317	Decreases attack speed and cool down time
-IDS_PROPSKILL_TXT_000318	Stun Group
-IDS_PROPSKILL_TXT_000319	You fainted.
-IDS_PROPSKILL_TXT_000320	Krrr's poison
-IDS_PROPSKILL_TXT_000321	Damages an enemy over a period of time.
-IDS_PROPSKILL_TXT_000322	Stun Group
-IDS_PROPSKILL_TXT_000323	You are stunned and cannot move.
-IDS_PROPSKILL_TXT_000324	Berserker Mushroom
-IDS_PROPSKILL_TXT_000325	Increases striking power and attack speed.
-IDS_PROPSKILL_TXT_000326	Protective Tree Bark
-IDS_PROPSKILL_TXT_000327	Increases defense by wrapping the body in tree bark.
-IDS_PROPSKILL_TXT_000328	Buff Break
+IDS_PROPSKILL_TXT_000310	毒針
+IDS_PROPSKILL_TXT_000311	在一定的時間內，受到毒的攻擊
+IDS_PROPSKILL_TXT_000312	出血
+IDS_PROPSKILL_TXT_000313	在一定的時間內，受到出血的攻擊
+IDS_PROPSKILL_TXT_000314	降速
+IDS_PROPSKILL_TXT_000315	降低攻擊速度與施展速度
+IDS_PROPSKILL_TXT_000316	降速
+IDS_PROPSKILL_TXT_000317	降低攻擊速度與施展速度
+IDS_PROPSKILL_TXT_000318	定身(雙)
+IDS_PROPSKILL_TXT_000319	無法移動的狀態
+IDS_PROPSKILL_TXT_000320	魔音傳腦
+IDS_PROPSKILL_TXT_000321	施展後造成目標中毒效果，並維持一段時間
+IDS_PROPSKILL_TXT_000322	定身(雙)
+IDS_PROPSKILL_TXT_000323	無法移動的狀態
+IDS_PROPSKILL_TXT_000324	毒菇菇的瘋狂
+IDS_PROPSKILL_TXT_000325	增加攻擊力與攻擊速度
+IDS_PROPSKILL_TXT_000326	樹皮的保護
+IDS_PROPSKILL_TXT_000327	被樹皮保護著，將低對物理的攻擊
+IDS_PROPSKILL_TXT_000328	解除BUFF
 IDS_PROPSKILL_TXT_000329	
-IDS_PROPSKILL_TXT_000330	Buff Break X
+IDS_PROPSKILL_TXT_000330	解除BUFF X
 IDS_PROPSKILL_TXT_000331	
-IDS_PROPSKILL_TXT_000332	Toggle Buff
+IDS_PROPSKILL_TXT_000332	Buff作用
 IDS_PROPSKILL_TXT_000333	
-IDS_PROPSKILL_TXT_000334	Ultimate Defense
-IDS_PROPSKILL_TXT_000335	You gain defense but cannot move.
-IDS_PROPSKILL_TXT_000336	Drawing
-IDS_PROPSKILL_TXT_000337	Brings your target to you.
-IDS_PROPSKILL_TXT_000338	Silence
-IDS_PROPSKILL_TXT_000339	Target cannot use magic.
-IDS_PROPSKILL_TXT_000340	Eye of the Hawk
-IDS_PROPSKILL_TXT_000341	Increases Bow range
-IDS_PROPSKILL_TXT_000342	Cursed Mind
-IDS_PROPSKILL_TXT_000343	Decreases the Magic Defense of a target by 50%.
-IDS_PROPSKILL_TXT_000344	Stone Feet
-IDS_PROPSKILL_TXT_000345	Prevents your target from moving.
-IDS_PROPSKILL_TXT_000346	Disenchant
-IDS_PROPSKILL_TXT_000347	Removes all buffs from a target.
-IDS_PROPSKILL_TXT_000348	Return
-IDS_PROPSKILL_TXT_000349	Teleport to the nearest town.
-IDS_PROPSKILL_TXT_000350	Burn
-IDS_PROPSKILL_TXT_000351	Damages your target continuously over time.
-IDS_PROPSKILL_TXT_000352	Special One-handed Mastery
-IDS_PROPSKILL_TXT_000353	Increases damage while using a one-handed weapon.
-IDS_PROPSKILL_TXT_000354	Special Two-handed Mastery
-IDS_PROPSKILL_TXT_000355	Increases damage while using a two-handed weapon.
-IDS_PROPSKILL_TXT_000356	Special Yo-Yo Mastery
-IDS_PROPSKILL_TXT_000357	Increases damage while using a Yo-Yo
-IDS_PROPSKILL_TXT_000358	Special Bow Mastery
-IDS_PROPSKILL_TXT_000359	Increases damage while using a Bow.
-IDS_PROPSKILL_TXT_000360	Special INT Mastery
-IDS_PROPSKILL_TXT_000361	Increases INT
-IDS_PROPSKILL_TXT_000362	Special INT Mastery
-IDS_PROPSKILL_TXT_000363	Increases INT
-IDS_PROPSKILL_TXT_000364	Special Knuckle Mastery
-IDS_PROPSKILL_TXT_000365	Increases damage while using a Knuckle.
-IDS_PROPSKILL_TXT_000366	Blessing of the Wise Man.
-IDS_PROPSKILL_TXT_000367	Removes a random bleed, curse or poison debuff from a party member.
-IDS_PROPSKILL_TXT_000368	Quick Step (Event)
-IDS_PROPSKILL_TXT_000369	Increases Run speed.
-IDS_PROPSKILL_TXT_000370	Haste (Event)
-IDS_PROPSKILL_TXT_000371	Increases Attack speed.
-IDS_PROPSKILL_TXT_000372	Heap Up (Event)
-IDS_PROPSKILL_TXT_000373	Increases STA.
-IDS_PROPSKILL_TXT_000374	Accuracy (Event)
-IDS_PROPSKILL_TXT_000375	Increases Hit Rate.
-IDS_PROPSKILL_TXT_000376	Templar's Call
-IDS_PROPSKILL_TXT_000377	Drag a target enemy to you and increases aggro.  Requires a 1h Sword. The aggro function only works on monsters inside of Ankou's Asylum.
-IDS_PROPSKILL_TXT_000378	Sky Splitter
-IDS_PROPSKILL_TXT_000379	A powerful downward slash.  Requires a 1h Sword.
-IDS_PROPSKILL_TXT_000380	Shield Bash
-IDS_PROPSKILL_TXT_000381	Attack your target with your shield. This attack has a chance to stun your enemy.  Requires a shield.
-IDS_PROPSKILL_TXT_000382	Dead Man's Lure
-IDS_PROPSKILL_TXT_000383	This ability will increase the chance that the target creature will focus its attacks on you.  This skill will only take effect monsters in Ankou's Asylum.
-IDS_PROPSKILL_TXT_000384	Heart of the Tower
-IDS_PROPSKILL_TXT_000385	Increase your defense for 5 minutes.  The amount of defense will be raised in relation to the amount of Skill Points used. 
-IDS_PROPSKILL_TXT_000386	Maelstrom Strike
-IDS_PROPSKILL_TXT_000387	A devastating circular attack that will harm all nearby enemies.  Requires a 2h Axe.
-IDS_PROPSKILL_TXT_000388	Deadly X
-IDS_PROPSKILL_TXT_000389	Attack with each hand simultaneously in a vicious attack.  Any combination of weapons can be used as long you have a weapon in each hand.
-IDS_PROPSKILL_TXT_000390	Cross of Blood
-IDS_PROPSKILL_TXT_000391	An explosive attack aimed at your feet that leaves a bloody cross in its wake.  All nearby enemies will be harmed.  
-IDS_PROPSKILL_TXT_000392	Blessing of War
-IDS_PROPSKILL_TXT_000393	Increase Attack Power for 5 minutes.
-IDS_PROPSKILL_TXT_000394	Pandemonium
-IDS_PROPSKILL_TXT_000395	A ranged attack that triggers a magical explosion when it strikes your enemy.
-IDS_PROPSKILL_TXT_000396	Whisper Dodge
-IDS_PROPSKILL_TXT_000397	Increase melee block rate for 5 minutes.
-IDS_PROPSKILL_TXT_000398	Minds Eye
-IDS_PROPSKILL_TXT_000399	Increase hit rate for 5 minutes.
-IDS_PROPSKILL_TXT_000400	Harlequin's Greeting
-IDS_PROPSKILL_TXT_000401	A sneak attack that delivers a powerful blow to the rear of your target. 
-IDS_PROPSKILL_TXT_000402	Condor Dive
-IDS_PROPSKILL_TXT_000403	A ranged attack that damages all enemies near your target. 
-IDS_PROPSKILL_TXT_000404	Devastating Sting
-IDS_PROPSKILL_TXT_000405	Increase attack power for 5 minutes.
-IDS_PROPSKILL_TXT_000406	Farsight
-IDS_PROPSKILL_TXT_000407	Increase accuracy for 5 minutes.
-IDS_PROPSKILL_TXT_000408	Spirit of the Hawk
-IDS_PROPSKILL_TXT_000409	Increases the players bow range for 5 minutes and summons a hawk familiar.
-IDS_PROPSKILL_TXT_000410	Breath of Life
-IDS_PROPSKILL_TXT_000411	Recover target party members HP over a predetermined amount of time.  The skill level of the Breath of Life determines the length of the Healing.
-IDS_PROPSKILL_TXT_000412	Heavens Step
-IDS_PROPSKILL_TXT_000413	Increase the moving speed of your party for 5 minutes.
-IDS_PROPSKILL_TXT_000414	Divine Prosperity
-IDS_PROPSKILL_TXT_000415	Increase the HP of your party members for 5 minutes.
-IDS_PROPSKILL_TXT_000416	Raiment of  Rhisis
-IDS_PROPSKILL_TXT_000417	Increase the defense of your party members for 5 minutes.
-IDS_PROPSKILL_TXT_000418	Soul of Rhisis
-IDS_PROPSKILL_TXT_000419	Cast a protective shield around yourself that absorbs PVP damage.  This shield will last for 5 minutes, until you absorb max damage, or you are the target of a healing spell. 
-IDS_PROPSKILL_TXT_000420	Priest's Grasp
-IDS_PROPSKILL_TXT_000421	Grants the caster a chance to stop an enemy in their tracks.
-IDS_PROPSKILL_TXT_000422	Bubbles Blessing
-IDS_PROPSKILL_TXT_000423	Increase the Magic Attack Power of your party and yourself for 5 minute.
-IDS_PROPSKILL_TXT_000424	Shades Calamity
-IDS_PROPSKILL_TXT_000425	Increase the Attack Power of your party and yourself for 5 minute.
-IDS_PROPSKILL_TXT_000426	Ire of Ibilis
-IDS_PROPSKILL_TXT_000427	Increase the Attack Speed of your party and yourself for 5 minute.
-IDS_PROPSKILL_TXT_000428	Touch of Rhisis
-IDS_PROPSKILL_TXT_000429	Increase the Critical Chance of Magic Attacks of your party and yourself for 5 minute.
-IDS_PROPSKILL_TXT_000430	Cimetiere's Scream
-IDS_PROPSKILL_TXT_000431	Damages the target over time.  This spells lasts 10 seconds and can not be stacked.
-IDS_PROPSKILL_TXT_000432	Aether Grasp
-IDS_PROPSKILL_TXT_000433	This spell propels the shadow of a demon at the enemy. This is a close range attack with a cool down.  The cool down will be reduced depending on the Skill level.
-IDS_PROPSKILL_TXT_000434	Laughter of La Croix
-IDS_PROPSKILL_TXT_000435	Decrease attack power of selected target for up to 25 seconds, this spell does not aggro the target.   The duration is determined by the Skill Level.
-IDS_PROPSKILL_TXT_000436	Samedi's Embrace
-IDS_PROPSKILL_TXT_000437	Decrease defense of selected target for up to 25 seconds, this spell does not aggro the target.  The duration is determined by the Skill Level.
-IDS_PROPSKILL_TXT_000438	Kriminel's Hand
-IDS_PROPSKILL_TXT_000439	Decrease attack speed of selected target for up to 25 seconds, this spell does not aggro the target.  The duration is determined by the Skill Level.
-IDS_PROPSKILL_TXT_000440	EVA Storm
-IDS_PROPSKILL_TXT_000441	Calls down a lighting storm to shock any and all near by enemies. 
-IDS_PROPSKILL_TXT_000442	Spectral Javelin
-IDS_PROPSKILL_TXT_000443	Harness the elements around you and form them into a Javelin.  Once the Javelin is formed, you will launch the Javelin at your enemy.
-IDS_PROPSKILL_TXT_000444	Astral Moon
-IDS_PROPSKILL_TXT_000445	Harness the elements around you and form them into a Sphere.  Once the Sphere is formed, you will launch the Sphere at your enemy.
-IDS_PROPSKILL_TXT_000446	Echoes of the Weary
-IDS_PROPSKILL_TXT_000447	Force your target into a Coma.  The duration of this Coma will vary depending on the level of the Skill.
-IDS_PROPSKILL_TXT_000448	First Blood
-IDS_PROPSKILL_TXT_000449	A ranged insult that has a chance to immobilize your target. 
-IDS_PROPSKILL_TXT_000450	Antiquity Stone_Sigel
-IDS_PROPSKILL_TXT_000451	Kill enemy with one hit in certain rate
-IDS_PROPSKILL_TXT_000452	Antiquity Stone_Berk
-IDS_PROPSKILL_TXT_000453	Recover 100% HP by certain rate
-IDS_PROPSKILL_TXT_000454	Antiquity Stone_Zera
-IDS_PROPSKILL_TXT_000455	Recover 100% FP by certain rate
-IDS_PROPSKILL_TXT_000456	Antiquity Stone_Manaz
-IDS_PROPSKILL_TXT_000457	Recover 100% MP by certain rate
-IDS_PROPSKILL_TXT_000458	Antiquity Stone_Aeo
-IDS_PROPSKILL_TXT_000459	Poison enemy with certain rate
-IDS_PROPSKILL_TXT_000460	Antiquity Stone_Tir
-IDS_PROPSKILL_TXT_000461	Give bleeding damage to enemy with certain rate
+IDS_PROPSKILL_TXT_000334	暴風防禦
+IDS_PROPSKILL_TXT_000335	防禦力會暴增，但是無法移動。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000336	拖曳之術
+IDS_PROPSKILL_TXT_000337	可以把對方拉到自己的面前。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000338	沉默之術
+IDS_PROPSKILL_TXT_000339	中此狀態者，無法使用魔法技能。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000340	鷹之眼
+IDS_PROPSKILL_TXT_000341	增加弓箭攻擊的距離。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000342	弱化魔抗
+IDS_PROPSKILL_TXT_000343	降低對方魔法防禦力50%。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000344	石化之術
+IDS_PROPSKILL_TXT_000345	中此狀態者呈現石化狀態，無法進行任何動作。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000346	相消 
+IDS_PROPSKILL_TXT_000347	刪除對方的援助技能。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000348	歸還
+IDS_PROPSKILL_TXT_000349	移動至鄰近的村莊。(MP和FP全滿才能發動本技能,施展技能後MP和FP消耗到0)
+IDS_PROPSKILL_TXT_000350	火傷
+IDS_PROPSKILL_TXT_000351	在一定時間內，受到持續性的傷害。
+IDS_PROPSKILL_TXT_000352	單手武器精通
+IDS_PROPSKILL_TXT_000353	裝備單手武器時，攻擊力上升。
+IDS_PROPSKILL_TXT_000354	雙手武器精通
+IDS_PROPSKILL_TXT_000355	裝備雙手武器時，攻擊力上升。
+IDS_PROPSKILL_TXT_000356	溜刃武器精通
+IDS_PROPSKILL_TXT_000357	裝備溜刃時，攻擊力上升。
+IDS_PROPSKILL_TXT_000358	弓箭武器精通
+IDS_PROPSKILL_TXT_000359	裝備弓箭時，攻擊力上升。
+IDS_PROPSKILL_TXT_000360	智力修練精通
+IDS_PROPSKILL_TXT_000361	提昇自己的智力。
+IDS_PROPSKILL_TXT_000362	智力修練精通
+IDS_PROPSKILL_TXT_000363	提昇自己的智力。
+IDS_PROPSKILL_TXT_000364	拳套武器精通
+IDS_PROPSKILL_TXT_000365	裝備拳套時，攻擊力上升。
+IDS_PROPSKILL_TXT_000366	賢者的祝福
+IDS_PROPSKILL_TXT_000367	一定的機率，刪除團員的封鎖。
+IDS_PROPSKILL_TXT_000368	風精之舞(活動用)
+IDS_PROPSKILL_TXT_000369	提昇對方移動速度
+IDS_PROPSKILL_TXT_000370	風精的祝福(活動用)
+IDS_PROPSKILL_TXT_000371	提昇對方攻擊速度
+IDS_PROPSKILL_TXT_000372	強化述(活動用)
+IDS_PROPSKILL_TXT_000373	提昇對方體力
+IDS_PROPSKILL_TXT_000374	第三眼(活動用)
+IDS_PROPSKILL_TXT_000375	提昇對方命中率
+IDS_PROPSKILL_TXT_000376	虜獲獵物
+IDS_PROPSKILL_TXT_000377	讓對方移動到自己前面，使仇恨值增加。但是仇恨值只作用在仇恨直相關的怪物身上。
+IDS_PROPSKILL_TXT_000378	聖怒爆擊
+IDS_PROPSKILL_TXT_000379	給予對方重重的傷害。
+IDS_PROPSKILL_TXT_000380	破滅盾擊
+IDS_PROPSKILL_TXT_000381	用盾牌打擊對方，在一定機率下會使其陷入昏厥狀態。
+IDS_PROPSKILL_TXT_000382	挑釁
+IDS_PROPSKILL_TXT_000383	誘發對方的憤怒，使仇恨值提高。但是仇恨值只作用在仇恨直相關的怪物身上。
+IDS_PROPSKILL_TXT_000384	神聖屏障
+IDS_PROPSKILL_TXT_000385	施展者的防禦力在 5分鐘內大幅提升。
+IDS_PROPSKILL_TXT_000386	聖光毀滅
+IDS_PROPSKILL_TXT_000387	讓施展者周圍的所有敵人受到傷害。
+IDS_PROPSKILL_TXT_000388	十字暗襲
+IDS_PROPSKILL_TXT_000389	給予被選擇的對象重重的傷害。
+IDS_PROPSKILL_TXT_000390	幻影風暴
+IDS_PROPSKILL_TXT_000391	讓施展者周維的多數敵人受到傷害。
+IDS_PROPSKILL_TXT_000392	強襲姿態
+IDS_PROPSKILL_TXT_000393	施展者的攻擊力在 5分鐘內大幅提升。
+IDS_PROPSKILL_TXT_000394	風之怒
+IDS_PROPSKILL_TXT_000395	給予對方重重的傷害。
+IDS_PROPSKILL_TXT_000396	影之步
+IDS_PROPSKILL_TXT_000397	施展者的隔擋率在 5分鐘內提升。
+IDS_PROPSKILL_TXT_000398	隼之銳
+IDS_PROPSKILL_TXT_000399	施展者的命中率在 5分鐘內提升。
+IDS_PROPSKILL_TXT_000400	奇襲
+IDS_PROPSKILL_TXT_000401	在對方的背後進行襲擊攻擊。
+IDS_PROPSKILL_TXT_000402	獵鷹突襲
+IDS_PROPSKILL_TXT_000403	讓對方周便的所有人受到傷害。
+IDS_PROPSKILL_TXT_000404	射手狂熱
+IDS_PROPSKILL_TXT_000405	施展者的攻擊力在 5分鐘內大幅提升。
+IDS_PROPSKILL_TXT_000406	射手靈魂
+IDS_PROPSKILL_TXT_000407	施展者的命中率在 5分鐘內提升。
+IDS_PROPSKILL_TXT_000408	鷹眼
+IDS_PROPSKILL_TXT_000409	施展者的弓箭射程距離增加。
+IDS_PROPSKILL_TXT_000410	生命泉源
+IDS_PROPSKILL_TXT_000411	只有在有隊伍的情況下可以使用，可以讓隊伍成員的 HP持續恢復。
+IDS_PROPSKILL_TXT_000412	祝福的舞步
+IDS_PROPSKILL_TXT_000413	只有在有隊伍的情況下可以使用，可以讓隊伍成員的移動速度在 1分鐘內增加。
+IDS_PROPSKILL_TXT_000414	祝福的軀體
+IDS_PROPSKILL_TXT_000415	只有在有隊伍的情況下可以使用，可以讓隊伍成員的最大 HP在 1分鐘內增加。
+IDS_PROPSKILL_TXT_000416	祝福的盔甲
+IDS_PROPSKILL_TXT_000417	只有在有隊伍的情況下可以使用，可以讓隊伍成員的物理防禦力在 1分鐘內增加。
+IDS_PROPSKILL_TXT_000418	絕對障壁
+IDS_PROPSKILL_TXT_000419	只有在多人戰時，可以在 5分鐘內形成保護自己防禦 40傷害的保護膜。該防護膜無法作用在怪物身上。
+IDS_PROPSKILL_TXT_000420	咒縛術
+IDS_PROPSKILL_TXT_000421	讓對方在一定時間內無法移動。
+IDS_PROPSKILL_TXT_000422	堅韌之光
+IDS_PROPSKILL_TXT_000423	只有在有隊伍的情況下可以使用，在施展時間內可以讓周圍隊伍成員的魔法攻擊力提升。
+IDS_PROPSKILL_TXT_000424	勇猛之光
+IDS_PROPSKILL_TXT_000425	只有在有隊伍的情況下可以使用，在施展時間內可以讓周圍隊伍成員的攻擊力提升。
+IDS_PROPSKILL_TXT_000426	神速之光
+IDS_PROPSKILL_TXT_000427	只有在有隊伍的情況下可以使用，在施展時間內可以讓隊伍成員的攻擊速度提升。
+IDS_PROPSKILL_TXT_000428	狂暴之光
+IDS_PROPSKILL_TXT_000429	只有在有隊伍的情況下可以使用，在施展時間內可以讓隊伍成員的致命打擊率提升。
+IDS_PROPSKILL_TXT_000430	黑暗之嘯
+IDS_PROPSKILL_TXT_000431	讓對方在一定時間內持續受到傷害。
+IDS_PROPSKILL_TXT_000432	黑暗侵襲
+IDS_PROPSKILL_TXT_000433	讓對方受到重重的傷害。
+IDS_PROPSKILL_TXT_000434	力量封印
+IDS_PROPSKILL_TXT_000435	讓被選擇的對象之攻擊力減少。
+IDS_PROPSKILL_TXT_000436	防禦封印
+IDS_PROPSKILL_TXT_000437	讓被選擇的對象之防禦力減少。
+IDS_PROPSKILL_TXT_000438	緩速術
+IDS_PROPSKILL_TXT_000439	讓被選擇的對象之攻擊速度減少。
+IDS_PROPSKILL_TXT_000440	雷霆之怒
+IDS_PROPSKILL_TXT_000441	讓施展者周圍的所有人受到傷害。
+IDS_PROPSKILL_TXT_000442	終極之刺
+IDS_PROPSKILL_TXT_000443	利用元素所製作的槍射向敵人，使其受到傷害。
+IDS_PROPSKILL_TXT_000444	生命球
+IDS_PROPSKILL_TXT_000445	向對方投射凝聚的元素，使其受到傷害。
+IDS_PROPSKILL_TXT_000446	催眠
+IDS_PROPSKILL_TXT_000447	讓對方沉睡數秒。
+IDS_PROPSKILL_TXT_000448	暴風枷鎖
+IDS_PROPSKILL_TXT_000449	讓單一對象無法移動。
+IDS_PROPSKILL_TXT_000450	古文字磁石_西凱爾
+IDS_PROPSKILL_TXT_000451	一定機率下一擊擊倒敵人。
+IDS_PROPSKILL_TXT_000452	古文字磁石_貝勒克
+IDS_PROPSKILL_TXT_000453	一定機率下恢復自己的 HP 100%。
+IDS_PROPSKILL_TXT_000454	古文字磁石_柴那
+IDS_PROPSKILL_TXT_000455	一定機率下恢復自己的 FP 100%。
+IDS_PROPSKILL_TXT_000456	古文字磁石_馬那茲
+IDS_PROPSKILL_TXT_000457	一定機率下恢復自己的 MP 100%。
+IDS_PROPSKILL_TXT_000458	古文字磁石_唉歐
+IDS_PROPSKILL_TXT_000459	一定機率下讓敵人中毒。
+IDS_PROPSKILL_TXT_000460	古文字磁石_迪勒
+IDS_PROPSKILL_TXT_000461	一定機率下讓對方受傷。

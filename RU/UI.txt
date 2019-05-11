@@ -3,51 +3,51 @@ ids_ui_home_title	Главная
 ids_ui_home_newchar	Новый персонаж
 ids_ui_home_login	Вход
 ids_ui_home_website	Веб-сайт
-ids_ui_home_credits	Кредиты
+ids_ui_home_credits	Создатели
 ids_ui_home_server	Сервер :
-ids_ui_login_charlogin	Character login :
-ids_ui_login_password	Account password :
-ids_ui_login_lost	Forgot your login?
+ids_ui_login_charlogin	Логин :
+ids_ui_login_password	Пароль :
+ids_ui_login_lost	Забыли логин?
 ids_ui_newchar_name	Имя:
 ids_ui_newchar_girl	Девушка
 ids_ui_newchar_boy	Мальчик
-ids_ui_newchar_create	Солнечный камень
+ids_ui_newchar_create	Создать
 ids_ui_msgbox_ok	OK
 ids_ui_msgbox_cancel	Отмена
-ids_ui_msgbox_yes	Кнопка
+ids_ui_msgbox_yes	Да
 ids_ui_msgbox_no	Нет
 ids_ui_loadingscreen	Загрузка...
 ids_ui_option_title	Настройки
-ids_ui_option_music	Music volume
-ids_ui_option_sound	Sound volume
-ids_ui_option_texquality	Texture quality
+ids_ui_option_music	Музыка
+ids_ui_option_sound	Звуки
+ids_ui_option_texquality	Текстуры
 ids_ui_option_texhigh	Выс.
 ids_ui_option_texmid	Сред.
 ids_ui_option_texlow	Низк.
-ids_ui_option_weather	Weather effects
+ids_ui_option_weather	Эффекты погоды
 ids_ui_option_language	Язык
 ids_ui_option_save	Сохранить
 ids_ui_navigator_player	Игроки
 ids_ui_navigator_npc	NPC
 ids_ui_navigator_monster	Монстры
-ids_ui_privacy_notice	Privacy Policy
-ids_ui_msgbox_accept	Кнопка
-ids_ui_msgbox_decline	Кнопка
-ids_ui_option_keyboard	Keyboard layout
-ids_ui_msgbox_close	Солнечный камень
-ids_ui_option_shadows	Shadows quality
-ids_ui_option_fullscreen	Fullscreen
-ids_ui_motion_tab_mot	Эмоции
+ids_ui_privacy_notice	Правила 
+ids_ui_msgbox_accept	Принять
+ids_ui_msgbox_decline	Отклонить
+ids_ui_option_keyboard	Раскладка клавиатуры
+ids_ui_msgbox_close	Закрыть
+ids_ui_option_shadows	Тени
+ids_ui_option_fullscreen	Полный экран
+ids_ui_motion_tab_mot	Движения
 ids_ui_motion_tab_emo	Эмоции
-ids_ui_revival_title	Resurrection
+ids_ui_revival_title	Воскрешение
 ids_ui_revival_lodestar	Воскрешение у Звезды Жизни
-ids_ui_charinfo_base	Осн. хар-ки
+ids_ui_charinfo_base	Характеристики
 ids_ui_charinfo_name	Название
-ids_ui_charinfo_login	Вход
+ids_ui_charinfo_login	Логин
 ids_ui_charinfo_job	Класс
-ids_ui_charinfo_level	По ур.
+ids_ui_charinfo_level	Уровень
 ids_ui_charinfo_server	Сервер
-ids_ui_charinfo_detail	Доп. хар-ки
+ids_ui_charinfo_detail	Дополнительно
 ids_ui_charinfo_atk	+АТК
 ids_ui_charinfo_critical	КРИТ
 ids_ui_charinfo_def	+ЗЩТ
@@ -57,16 +57,16 @@ ids_ui_charinfo_sta	ВНС
 ids_ui_charinfo_dex	ЛВК
 ids_ui_charinfo_int	ИНТ
 ids_ui_charinfo_statpoints	Очки:
-ids_ui_charinfo_apply	Кнопка
-ids_ui_charinfo_reset	Солнечный камень
+ids_ui_charinfo_apply	Принять
+ids_ui_charinfo_reset	Сброси
 ids_ui_charinfo_changestate	Изменение характеристик
 ids_ui_charinfo_apply_tooltip	Принять изменения.
 ids_ui_charinfo_reset_tooltip	Отменить изменения.
 ids_ui_charinfo_plusminus_tooltip	Распределите очки и нажмите кнопку 'Принять'.
-ids_ui_charinfo_str_tooltip	Strengthens Attack Power of Weapon (#cffb40000Except for wand#nc)
-ids_ui_charinfo_sta_tooltip	Strengthens Defense, Max. HP, Max. FP\nHP, FP recovery rate increased
-ids_ui_charinfo_dex_tooltip	Attack speed increased\nEvasion Rate, Blocking Rate increased\nIncreases Critical Hit Chance.\n#cffb40000Striking power of bow is increased.#nc
-ids_ui_charinfo_int_tooltip	Amount of Max. MP is increased.\nMagic Attack Power
+ids_ui_charinfo_str_tooltip	Увеличивает физическую силу атаки оружия.\n(#cffb40000Кроме волшебных палочек и луков#nc)
+ids_ui_charinfo_sta_tooltip	Увеличивает защиту\nУвеличивает скорость восстановления и максимум ОЗ и ОЭ.
+ids_ui_charinfo_dex_tooltip	Увеличивает скорость атаки\nУвеличивает шанс уклонения и блокировки\nУвеличивает шанс критического удара\n#cffb40000Увеличивает силу атаки лука.#nc
+ids_ui_charinfo_int_tooltip	Увеличивает силу атаки магов и максимум ОМ.
 ids_ui_charinfo_gp_tooltip	Распределите очки и нажмите кнопку 'Принять'.
 ids_ui_tooltip_sex_male	Пол: М
 ids_ui_tooltip_sex_female	Пол: Ж
@@ -76,7 +76,7 @@ ids_ui_tooltip_attack	Атака:
 ids_ui_tooltip_def_a	+ЗЩТ
 ids_ui_tooltip_def_b	+ЗЩТ
 ids_ui_tooltip_attack_speed	Скор. атаки: %s
-ids_ui_tooltip_req_job	Req Job:
+ids_ui_tooltip_req_job	Требуется класс:
 ids_ui_tooltip_req_level	Требуется уровень: %d
 ids_ui_tooltip_restore_mp	Восстанавливает %d ОМ.
 ids_ui_tooltip_restore_hp	Восстанавливает %d ОЗ.
@@ -105,7 +105,7 @@ ids_ui_iventory_bag_n	Bag %d
 ids_ui_tooltip_mon_lvl	Ур.
 ids_ui_tooltip_mon_drop	Booty:
 ids_ui_tooltip_mon_no_drop	Нет
-ids_ui_map_moninfo	Show monsters informations.
+ids_ui_map_moninfo	Показывать информацию о монстрах.
 ids_ui_tooltip_delete_item	Корзина. Перетащите сюда предмет, чтобы удалить его.
 ids_ui_inventory_delete	Подтверждение
 ids_ui_inventory_delete_confirm	Удалить предмет?
@@ -115,7 +115,7 @@ ids_ui_dialog_title	Разговор
 ids_ui_dialog_about	%s
 ids_ui_option_tab_game	Игра / звук
 ids_ui_option_tab_video	Изображение
-ids_ui_option_pm	Allow whispers & messages
+ids_ui_option_pm	Разрешить шепот и сообщения
 ids_ui_instantmsg_title	Сообщение
 ids_ui_message_send	Кнопка
 ids_ui_shop_title	Торговля
@@ -134,8 +134,8 @@ ids_ui_msgbox_valid	OK
 ids_ui_buyitem_title	Подтвердите покупку
 ids_ui_buyitem_confirm	Купить предмет?
 ids_ui_buyitem_price	Цена
-ids_ui_option_grass	Grass (Beta)
-ids_ui_option_showlogin	Players login
+ids_ui_option_grass	Улучшенная трава
+ids_ui_option_showlogin	Показывать логины
 ids_ui_tooltip_max_hp	Запас ОЗ
 ids_ui_tooltip_max_mp	Запас ОМ
 ids_ui_tooltip_max_fp	Запас ОЭ
@@ -143,5 +143,5 @@ ids_ui_tooltip_speed	Скорость
 ids_ui_tooltip_atkspeed	Скорость атаки
 ids_ui_tooltip_blockmelee	Блокирование в бл. бою
 ids_ui_tooltip_hitrate	Меткость
-ids_ui_display_buffs	Show/hide buffs
-ids_ui_selectjob_title	Select new job
+ids_ui_display_buffs	Скрыть/показать усиления
+ids_ui_selectjob_title	Выберите новый класс

@@ -24,9 +24,9 @@ ids_textclient_invalidcharacters	名称含有禁用字符
 ids_textclient_invalidname	名称含有禁用词汇
 ids_textclient_ipbanned	您的IP地址被封禁，详情请咨询管理员
 ids_textclient_ipblocked	检测到您的IP地址出现异常，请等待 %s 后重试
-ids_textclient_secs	second(s)
-ids_textclient_mins	minute(s)
-ids_textclient_hours	hour(s)
+ids_textclient_secs	秒(s)
+ids_textclient_mins	分(s)
+ids_textclient_hours	时(s)
 ids_textclient_sessionexpired	您的账户凭据已过期，请重新登入
 ids_textclient_admin	Admin
 ids_textclient_gamemaster	Game Master
@@ -87,3 +87,8 @@ ids_textclient_yettrade	角色忙，请稍后再试
 ids_textclient_itemnotuse_trading	交易时无法使用
 ids_textclient_redchip	红色卡片
 ids_textclient_error_equiptrade	卸下后方可出售
+ids_textclient_error_npcbufflevel	只有等级在 %d~%d 之间的角色能够得到增益.
+ids_textclient_error_npcbufffail	现在还不能使用 %s  请稍后.
+ids_textclient_unregistered	未注册
+ids_textclient_level15job	是时候选择你的职业了.
+ids_textclient_changejob	恭喜!  你已达到 %s 职业等级.
